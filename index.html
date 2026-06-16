@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ntsama Jean Marie - Academic Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.2);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+            position: relative;
+        }
+
+        .language-toggle {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: rgba(255,255,255,0.2);
+            border: 2px solid white;
+            border-radius: 20px;
+            padding: 5px 5px;
+            display: flex;
+            gap: 5px;
+        }
+
+        .language-toggle button {
+            background: transparent;
+            border: none;
+            color: white;
+            padding: 8px 15px;
+            cursor: pointer;
+            border-radius: 15px;
+            font-weight: bold;
+            transition: all 0.3s ease;
+        }
+
+        .language-toggle button.active {
+            background: rgba(255,255,255,0.3);
+            transform: scale(1.1);
+        }
+
+        .language-toggle button:hover {
+            background: rgba(255,255,255,0.25);
+        }
+
+        .profile-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 5px solid white;
+            object-fit: cover;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 1.3em;
+            opacity: 0.95;
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        .tagline {
+            background: #f5f5f5;
+            padding: 20px;
+            border-left: 5px solid #667eea;
+            margin: 30px 0;
+            font-style: italic;
+            color: #555;
+            border-radius: 5px;
+        }
+
+        h2 {
+            color: #667eea;
+            margin-top: 35px;
+            margin-bottom: 20px;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 10px;
+            font-size: 1.8em;
+        }
+
+        h3 {
+            color: #764ba2;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        h4 {
+            color: #555;
+            margin-top: 15px;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+
+        p {
+            margin-bottom: 15px;
+            text-align: justify;
+        }
+
+        ul, ol {
+            margin-left: 30px;
+            margin-bottom: 15px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        th {
+            background: #667eea;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: bold;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        tr:hover {
+            background: #f9f9f9;
+        }
+
+        .contact-section {
+            background: #f5f5f5;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+
+        .contact-item {
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .contact-item strong {
+            color: #667eea;
+        }
+
+        a {
+            color: #667eea;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+
+        .collaboration-call {
+            background: linear-gradient(135deg, #667eea20 0%, #764ba220 100%);
+            border: 2px solid #667eea;
+            padding: 25px;
+            border-radius: 8px;
+            margin-top: 30px;
+            font-size: 1.05em;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2em;
+            }
+
+            .subtitle {
+                font-size: 1.1em;
+            }
+
+            .content {
+                padding: 20px;
+            }
+
+            .language-toggle {
+                top: 10px;
+                right: 10px;
+            }
+
+            table {
+                font-size: 0.9em;
+            }
+
+            th, td {
+                padding: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="language-toggle">
+                <button id="en-btn" class="active" onclick="switchLanguage('en')">EN</button>
+                <button id="fr-btn" onclick="switchLanguage('fr')">FR</button>
+            </div>
+            
+            <div class="profile-section">
+                <img src="ntsama_profile.jpg" alt="Ntsama Jean Marie" class="profile-img">
+                <h1 id="name">Ntsama Jean Marie</h1>
+                <p class="subtitle" id="subtitle">Philosopher, Linguist & Educationalist</p>
+            </div>
+        </div>
+
+        <div class="content">
+            <!-- ENGLISH CONTENT -->
+            <div id="en-content">
+                <div class="tagline" id="en-tagline">
+                    From phylogenesis to ontogenesis, to the pedagogical trapeze: modeling the tripartite relationship between language, thought, and disorders to design tomorrow's learning environments.
+                </div>
+
+                <h2 id="en-h2-1">Scientific Journey</h2>
+
+                <h3>Master's Degree (2008) — Philosophy</h3>
+                <p><strong>From Phylogenesis to Ontogenesis</strong></p>
+                <p>Analysis of the origin of language acquisition through the dual lens of society (phylogenetic) and the evolution of the subject (ontogenetic). This work establishes the foundations of a philosophical anthropology of language.</p>
+
+                <h3>Doctorate — Linguistics, Didactics & Philosophy</h3>
+                <p><strong>Language and Thought: Acquisition, Disorders, and Teaching-Learning</strong></p>
+                <p>Development of a language theory based on a tripartite relationship:</p>
+                <ol>
+                    <li><strong>Acquisition</strong> — Language and thought co-determine each other from the earliest developmental stages.</li>
+                    <li><strong>Disorders</strong> — Language disorders (aphasia, dyslexia, autism) impact thought production, just as thought disorders alter language exercise.</li>
+                    <li><strong>Teaching-Learning</strong> — Pedagogy presents itself as a solution to these disorders, restoring the altered link between language and thought.</li>
+                </ol>
+
+                <h4>Key Concept: The Pedagogical Trapeze</h4>
+                <p>The educational contract redefined by the advent of ICT, evolving from the classical triadic relationship (Learner — Teacher — Knowledge) to a quadratic relationship: <strong>Learner — Teacher — Knowledge — ICT</strong>.</p>
+
+                <h2 id="en-h2-2">Current Research Program (2026-2036)</h2>
+                <p><strong>Objective:</strong> Formalize, model, and experimentally validate the Tripartite Theory of Distributed Educational Cognition.</p>
+
+                <h3>Three Structuring Axes</h3>
+                <table>
+                    <tr>
+                        <th>Axis</th>
+                        <th>Key Question</th>
+                        <th>Domains</th>
+                    </tr>
+                    <tr>
+                        <td><strong>Neo-Phylogenesis in the AI Era</strong></td>
+                        <td>How does early interaction with conversational agents reconfigure language ontogenesis?</td>
+                        <td>Philosophy, Anthropology, Language Acquisition Linguistics</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Computational Modeling of the Trapeze</strong></td>
+                        <td>Can we simulate the tripartite relationship via a multi-agent system to predict optimal didactic strategy according to the disorder?</td>
+                        <td>Computer Science, Cognitive Sciences, Didactics</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Enactive Didactics and XR for Remediation</strong></td>
+                        <td>Do virtual/mixed reality environments based on embodied cognition improve written language disorder remediation?</td>
+                        <td>Neuroscience, Pedagogy, Human-Machine Interaction</td>
+                    </tr>
+                </table>
+
+                <h2 id="en-h2-3">Publications & Communications</h2>
+                <ul>
+                    <li><strong>Language and Thought: Acquisition, Disorders, and Teaching-Learning</strong> — Doctoral thesis, University of Yaoundé I, July 2022.</li>
+                    <li><strong>Origin of Language: From Phylogenesis to Ontogenesis</strong> — Master's thesis, University of Yaoundé I, 2008.</li>
+                    <li><strong>Problematic of Language Disorders and Pedagogical Contribution</strong> — Diploma thesis, National Teacher Training School of Yaoundé, July 2013.</li>
+                    <li><strong>Problematic of Language Disorders and Pedagogical Contribution</strong> — European University Editions, August 2013.</li>
+                    <li><strong>Origin of Language: From Phylogenesis to Ontogenesis</strong> — European University Editions, January 2013.</li>
+                    <li><strong>Study of Interrelationships between Language and Thought</strong> — In thesis/synthesis collection, vol. 1 no. 3, EFUA, December 2021.</li>
+                    <li><strong>Social Web, Didactics and Digital Literacies: Situation of a Priority Education Zone</strong> — In *Digital Literacies Teaching/Learning of Languages and Literature: Avenues for Reflection*, Ifrikiya, 2023, p. 163.</li>
+                    <li><strong>Working Paper:</strong> Toward a Computational Formalization of the Pedagogical Trapeze (in preparation).</li>
+                </ul>
+
+                <h2 id="en-h2-4">Contact & Collaboration</h2>
+                <div class="contact-section">
+                    <div class="contact-item">
+                        <strong>📧 Email:</strong>
+                        <span><a href="mailto:hansmarie59@gmail.com">hansmarie59@gmail.com</a> / <a href="mailto:hansmarie007@gmail.com">hansmarie007@gmail.com</a></span>
+                    </div>
+                    <div class="contact-item">
+                        <strong>🔗 LinkedIn:</strong>
+                        <span><a href="https://www.linkedin.com/in/ntsamanjm" target="_blank">www.linkedin.com/in/ntsamanjm</a></span>
+                    </div>
+                    <div class="contact-item">
+                        <strong>💬 WhatsApp:</strong>
+                        <span>+237 677 242 029</span>
+                    </div>
+                    <div class="contact-item">
+                        <strong>🏢 Current Institution:</strong>
+                        <span>Technical High School of Ngaoundéré Mardock</span>
+                    </div>
+                </div>
+
+                <div class="collaboration-call">
+                    <h3>🤝 Call for Collaboration</h3>
+                    <p>I am actively seeking a host laboratory for a postdoctoral fellowship (MSCA, Humboldt) to computationally model the Pedagogical Trapeze.</p>
+                    <p>If my theoretical framework resonates with your work in <strong>cognitive sciences</strong>, <strong>AI for education</strong>, or <strong>experimental didactics</strong>, please don't hesitate to contact me! 🚀</p>
+                </div>
+            </div>
+
+            <!-- FRENCH CONTENT -->
+            <div id="fr-content" class="hidden">
+                <div class="tagline" id="fr-tagline">
+                    De la philo-genèse à l'onto-genèse, jusqu'au trapèze pédagogique : modéliser la relation triptyque entre langage, pensée et troubles pour concevoir les environnements d'apprentissage de demain.
+                </div>
+
+                <h2 id="fr-h2-1">Itinéraire scientifique</h2>
+
+                <h3>Master (2008) — Philosophie</h3>
+                <p><strong>De la philo-genèse à l'onto-genèse</strong></p>
+                <p>Analyse de l'origine de l'acquisition du langage sous le double prisme de la société (phylogénétique) et de l'évolution du sujet (ontogénétique). Ce travail pose les fondements d'une anthropologie philosophique du langage.</p>
+
+                <h3>Doctorat — Linguistique, Didactique & Philosophie</h3>
+                <p><strong>Langage et pensée : acquisition, troubles et enseignement-apprentissage</strong></p>
+                <p>Élaboration d'une théorie du langage fondée sur une relation triptyque :</p>
+                <ol>
+                    <li><strong>Acquisition</strong> — Le langage et la pensée se co-déterminent dès les premiers stades développementaux.</li>
+                    <li><strong>Troubles</strong> — Les troubles du langage (aphasie, dyslexie, autisme) impactent la production de la pensée, de même que les troubles de la pensée altèrent l'exercice du langage.</li>
+                    <li><strong>Enseignement-apprentissage</strong> — La pédagogie se présente comme une solution face à ces troubles, en restaurant le lien altéré entre langage et pensée.</li>
+                </ol>
+
+                <h4>Concept clé : le Trapèze Pédagogique</h4>
+                <p>Contrat pédagogique redéfini par l'irruption des TIC, évoluant d'une relation triadique classique (Apprenant — Enseignant — Savoir) vers une relation quadratique : <strong>Apprenant — Enseignant — Savoir — TIC</strong>.</p>
+
+                <h2 id="fr-h2-2">Programme de recherche actuel (2026-2036)</h2>
+                <p><strong>Objectif :</strong> Formaliser, modéliser et valider expérimentalement la Théorie Triptyque de la Cognition Éducative Distribuée.</p>
+
+                <h3>Trois axes structurants</h3>
+                <table>
+                    <tr>
+                        <th>Axe</th>
+                        <th>Question directrice</th>
+                        <th>Domaines</th>
+                    </tr>
+                    <tr>
+                        <td><strong>Néo-Philo-genèse à l'ère de l'IA</strong></td>
+                        <td>Comment l'interaction précoce avec des agents conversationnels reconfigure-t-elle l'onto-genèse du langage ?</td>
+                        <td>Philosophie, Anthropologie, Linguistique acquisitionnelle</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Modélisation computationnelle du Trapèze</strong></td>
+                        <td>Peut-on simuler la relation triptyque via un système multi-agents pour prédire la stratégie didactique optimale selon le trouble ?</td>
+                        <td>Informatique, Sciences cognitives, Didactique</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Didactique énactive et XR pour la remédiation</strong></td>
+                        <td>Les environnements de réalité virtuelle/mixte fondés sur la cognition incarnée améliorent-ils la remédiation des troubles du langage écrit ?</td>
+                        <td>Neurosciences, Pédagogie, Interaction humain-machine</td>
+                    </tr>
+                </table>
+
+                <h2 id="fr-h2-3">Publications et communications</h2>
+                <ul>
+                    <li><strong>Langage et Pensée : Acquisition, Troubles et Enseignement-Apprentissage</strong> — Thèse de doctorat, Université de Yaoundé I, juillet 2022.</li>
+                    <li><strong>Origine du Langage : de la Philo-genèse à l'Onto-genèse</strong> — Mémoire de master, Université de Yaoundé I, 2008.</li>
+                    <li><strong>Problématique des Troubles du Langage et Apport de la pédagogie</strong> — Mémoire du Diplôme de Professeur des Enseignements secondaires, Ecole normale supérieure de Yaoundé, juillet 2013.</li>
+                    <li><strong>Problématique des Troubles du Langage et Apport de la pédagogie</strong> — Éditions Universitaires Européennes, août 2013.</li>
+                    <li><strong>Origine du Langage : de la Philogenèse à l'Ontogenèse</strong> — Éditions Universitaires Européennes, janvier 2013.</li>
+                    <li><strong>Étude des interrelations entre Langage et Pensée</strong> — In collection thèse/synthèse, vol. 1 n°3, EFUA, décembre 2021.</li>
+                    <li><strong>Web social, didactique et Littératies numériques : situation d'une zone d'éducation prioritaire</strong> — In *Littératies Numériques Enseignement/Apprentissage des langues et littérature : pistes de réflexion*, Ifrikiya, 2023, p. 163.</li>
+                    <li><strong>Working paper :</strong> Pour une formalisation computationnelle du Trapèze Pédagogique (en préparation).</li>
+                </ul>
+
+                <h2 id="fr-h2-4">Contact & Collaboration</h2>
+                <div class="contact-section">
+                    <div class="contact-item">
+                        <strong>📧 Email :</strong>
+                        <span><a href="mailto:hansmarie59@gmail.com">hansmarie59@gmail.com</a> / <a href="mailto:hansmarie007@gmail.com">hansmarie007@gmail.com</a></span>
+                    </div>
+                    <div class="contact-item">
+                        <strong>🔗 LinkedIn :</strong>
+                        <span><a href="https://www.linkedin.com/in/ntsamanjm" target="_blank">www.linkedin.com/in/ntsamanjm</a></span>
+                    </div>
+                    <div class="contact-item">
+                        <strong>💬 WhatsApp :</strong>
+                        <span>+237 677 242 029</span>
+                    </div>
+                    <div class="contact-item">
+                        <strong>🏢 Institution actuelle :</strong>
+                        <span>Lycée Technique de Ngaoundéré Mardock</span>
+                    </div>
+                </div>
+
+                <div class="collaboration-call">
+                    <h3>🤝 Appel à collaboration</h3>
+                    <p>Je suis activement à la recherche d'un laboratoire d'accueil pour un post-doctorat (MSCA, Humboldt) afin de modéliser computationnellement le Trapèze Pédagogique.</p>
+                    <p>Si mon cadre théorique entre en résonance avec vos travaux en <strong>sciences cognitives</strong>, <strong>IA pour l'éducation</strong> ou <strong>didactique expérimentale</strong>, n'hésitez pas à me contacter ! 🚀</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function switchLanguage(lang) {
+            const enContent = document.getElementById('en-content');
+            const frContent = document.getElementById('fr-content');
+            const enBtn = document.getElementById('en-btn');
+            const frBtn = document.getElementById('fr-btn');
+
+            if (lang === 'en') {
+                enContent.classList.remove('hidden');
+                frContent.classList.add('hidden');
+                enBtn.classList.add('active');
+                frBtn.classList.remove('active');
+                document.getElementById('subtitle').textContent = 'Philosopher, Linguist & Educationalist';
+            } else {
+                enContent.classList.add('hidden');
+                frContent.classList.remove('hidden');
+                frBtn.classList.add('active');
+                enBtn.classList.remove('active');
+                document.getElementById('subtitle').textContent = 'Philosophe, Linguiste & Didacticien';
+            }
+
+            // Store preference
+            localStorage.setItem('language', lang);
+        }
+
+        // Load saved language preference on page load
+        window.addEventListener('load', () => {
+            const savedLang = localStorage.getItem('language') || 'en';
+            switchLanguage(savedLang);
+        });
+    </script>
+</body>
+</html>
