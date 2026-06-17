@@ -10,20 +10,27 @@ title: "Publications"
 
 # 🇬🇧 English Version
 
-## 1. Peer‑Reviewed Articles  
-*(Add your publications here as they appear)*  
-- **To be added**  
-- Example format:  
-  **Author**, *Title*, Journal, Volume(Issue), pages, Year.
+## 1. Books  
+- **Problématique des troubles de langage et apport de la pédagogie**  
+  *Éditions Universitaires Européennes (EUE)*  
+- **Origine du langage : de la phylogenèse à l'ontogenèse**  
+  *Éditions Universitaires Européennes (EUE)*  
 
-## 2. Book Chapters  
-- **To be added**
+---
+
+## 2. Peer‑Reviewed Articles  
+- **Étude des interrelations entre langage et pensée**  
+  *Les Éditions Francophones Universitaires d’Afrique (EFUA)*  
+- **Web social, Didactique et Littératies numériques : situation d’une zone d’éducation prioritaire**  
+  *Les Éditions Francophones Universitaires d’Afrique (EFUA)*  
+
+---
 
 ## 3. Conference Papers & Talks  
-- **To be added**
+- To be added
 
 ## 4. Working Papers  
-- **To be added**
+- To be added
 
 ## 5. Manuscripts in Preparation  
 - **Cognitive Trapeze: Modeling Language–Thought Dynamics in AI‑Augmented Learning**  
@@ -33,20 +40,27 @@ title: "Publications"
 
 # 🇫🇷 Version Française
 
-## 1. Articles Scientifiques  
-*(Ajoute ici tes publications au fur et à mesure)*  
-- **À compléter**  
-- Exemple :  
-  **Auteur**, *Titre*, Revue, Volume(Numéro), pages, Année.
+## 1. Livres  
+- **Problématique des troubles de langage et apport de la pédagogie**  
+  *Éditions Universitaires Européennes (EUE)*  
+- **Origine du langage : de la phylogenèse à l'ontogenèse**  
+  *Éditions Universitaires Européennes (EUE)*  
 
-## 2. Chapitres d’Ouvrage  
-- **À compléter**
+---
+
+## 2. Articles Scientifiques  
+- **Étude des interrelations entre langage et pensée**  
+  *Les Éditions Francophones Universitaires d’Afrique (EFUA)*  
+- **Web social, Didactique et Littératies numériques : situation d’une zone d’éducation prioritaire**  
+  *Les Éditions Francophones Universitaires d’Afrique (EFUA)*  
+
+---
 
 ## 3. Communications & Conférences  
-- **À compléter**
+- À compléter
 
 ## 4. Working Papers  
-- **À compléter**
+- À compléter
 
 ## 5. Manuscrits en Préparation  
 - **Cognitive Trapeze: Modeling Language–Thought Dynamics in AI‑Augmented Learning**  
