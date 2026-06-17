@@ -2,6 +2,7 @@
 layout: default
 title: "Teaching"
 ---
+
 # Teaching  
 # Enseignement — Version Bilingue
 
