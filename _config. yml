@@ -13,5 +13,5 @@ navigation:
     url: /about
   - title: "Theory"
     url: /theory
-- title: "Research"
+  - title: "Research"
     url: /research
