@@ -6,3 +6,10 @@ navigation:
     url: /
   - title: "About"
     url: /about
+navigation:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Theory"
+    url: /theory
