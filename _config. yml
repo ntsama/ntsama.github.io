@@ -21,3 +21,5 @@ navigation:
     url: /teaching
   - title: "Projects"
     url: /projects
+  - title: "Talks"
+    url: /talks
