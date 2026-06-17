@@ -23,3 +23,5 @@ navigation:
     url: /projects
   - title: "Talks"
     url: /talks
+  - title: "CV"
+    url: /cv
