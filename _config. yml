@@ -1,11 +1,7 @@
 theme: jekyll-theme-cayman
 title: "Jean Marie Ntsama"
-description: "Philosopher of Language • AI & Cognition Researcher • Pedagogical Trapeze Model"
-navigation:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about
+description: "Philosopher of Language • AI & Cognition"
+
 navigation:
   - title: "Home"
     url: /
@@ -15,7 +11,7 @@ navigation:
     url: /theory
   - title: "Research"
     url: /research
-- title: "MSCA Project"
+  - title: "MSCA Project"
     url: /msca
-- title: "Publications"
+  - title: "Publications"
     url: /publications
