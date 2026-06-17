@@ -15,3 +15,5 @@ navigation:
     url: /theory
   - title: "Research"
     url: /research
+- title: "MSCA Project"
+    url: /msca
