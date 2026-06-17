@@ -17,3 +17,5 @@ navigation:
     url: /research
 - title: "MSCA Project"
     url: /msca
+- title: "Publications"
+    url: /publications
