@@ -188,4 +188,36 @@ Littératies numériques multilingues.
 
 ---
 
-# PARTIE B3
+# PARTIE B3 — MISE EN ŒUVRE
+
+## 1. Work Packages  
+- WP1 — Fondements théoriques  
+- WP2 — Études empiriques  
+- WP3 — Modélisation computationnelle  
+- WP4 — Diffusion & Impact  
+
+## 2. Calendrier (texte)  
+- M1–M6 : WP1  
+- M4–M18 : WP2  
+- M10–M24 : WP3  
+- M1–M24 : WP4  
+
+## 3. Risques & Solutions  
+- Recrutement faible → élargir les profils  
+- Complexité de modélisation → prototypes successifs  
+- Variabilité des données → triangulation  
+
+---
+
+# ÉTHIQUE & SCIENCE OUVERTE  
+- RGPD  
+- Données anonymisées  
+- Publications en accès libre  
+- Respect des participants neurodivergents  
+
+---
+
+# Contact  
+- Email : **jean.m.ntsama@gmail.com**  
+- LinkedIn : **in.jean-marie-ntsama**  
+- GitHub : **ntsama.github.io**
