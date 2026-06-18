@@ -25,3 +25,5 @@ navigation:
     url: /talks
   - title: "CV"
     url: /cv
+  - title: "IA_4_ZEP"
+    url: /ia4zep
