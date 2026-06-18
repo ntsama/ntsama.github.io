@@ -1,32 +1,42 @@
-# IA_4_ZEP Banner Pack
+# ntsama.github.io
 
-Ce dossier contient les bannières officielles du projet IA_4_ZEP, optimisées pour les plateformes Facebook, YouTube et LinkedIn.  
-Elles respectent les dimensions recommandées et suivent la charte visuelle IA_4_ZEP (bleu nuit, doré, blanc).
-
----
-
-## Contenu du dossier
-
-### Facebook
-- Fichier : IA4ZEP_Facebook_Cover.png
-- Dimensions : 820 × 312 px
-- Zone sûre mobile : 640 × 312 px
-- Usage : Photo de couverture Facebook
-
-### YouTube
-- Fichier : IA4ZEP_YouTube_Banner.png
-- Dimensions : 2560 × 1440 px
-- Zone sûre : 1546 × 423 px
-- Usage : Bannière de chaîne YouTube
-
-### LinkedIn
-- Fichier : IA4ZEP_LinkedIn_Banner.png
-- Dimensions : 1584 × 396 px
-- Usage : Image d’en‑tête LinkedIn
+Ce site constitue le portfolio académique de Dr Jean Marie Ntsama.  
+Il présente ses travaux de recherche, ses publications, ses projets, ainsi que les ressources liées à l’initiative IA_4_ZEP (Artificial Intelligence for Education in Priority Zones).
 
 ---
 
-## Arborescence du dossier
+## 1. Présentation générale
+
+Le site regroupe :
+- les informations professionnelles et biographiques
+- les publications scientifiques
+- les projets de recherche
+- les activités pédagogiques
+- les ressources IA_4_ZEP
+- les supports visuels et documents institutionnels
+
+Il est conçu comme un espace académique clair, structuré et accessible.
+
+---
+
+## 2. Structure du site
+
+Le dépôt contient les pages principales du portfolio :
+
+- index.md : page d’accueil
+- about.md : présentation académique
+- publications.md : liste des publications
+- theory.md : travaux théoriques
+- ia4zep.md : présentation du projet IA_4_ZEP
+- assets/ : ressources visuelles et documents
+
+---
+
+## 3. Ressources IA_4_ZEP
+
+Les éléments visuels du projet IA_4_ZEP sont organisés dans des dossiers dédiés.
+
+### Bannières officielles
 
 IA_4_ZEP_Banners/
 │
@@ -37,48 +47,31 @@ IA_4_ZEP_Banners/
 └── LinkedIn/
     └── IA4ZEP_LinkedIn_Banner.png
 
----
+### Charte graphique
 
-## Charte visuelle (résumé)
+IA_4_ZEP_Charte/
+│
+├── Logos/
+├── Banners/
+└── Colors_Typography/
 
-- Couleurs :
-  - Bleu nuit (#0A0F2C)
-  - Doré (#D4A857)
-  - Blanc (#FFFFFF)
-
-- Typographies recommandées :
-  - Titres : Montserrat
-  - Sous‑titres : Lato
-  - Corps : Inter
-
-- Logo : Cerveau IA_4_ZEP (moitié circuit / moitié organique)
+La charte graphique complète est disponible dans le fichier :
+IA_4_ZEP_Charte/README.md
 
 ---
 
-## Instructions d’importation
+## 4. Objectif du site
 
-### Facebook
-1. Ouvrir le profil
-2. Modifier la photo de couverture
-3. Importer IA4ZEP_Facebook_Cover.png
-4. Centrer dans la zone sûre
-
-### YouTube
-1. Aller dans Personnalisation → Branding
-2. Importer IA4ZEP_YouTube_Banner.png
-3. Vérifier la zone sûre
-4. Enregistrer
-
-### LinkedIn
-1. Ouvrir le profil
-2. Modifier l’image de fond
-3. Importer IA4ZEP_LinkedIn_Banner.png
-4. Ajuster si nécessaire
+Ce site a pour vocation :
+- de présenter les travaux de recherche de Dr Jean Marie Ntsama
+- de rendre accessibles les ressources IA_4_ZEP
+- de proposer un espace académique cohérent et structuré
+- de centraliser les documents professionnels et institutionnels
 
 ---
 
-## Crédits
+## 5. Crédits
 
-Design et composition : IA_4_ZEP Visual Identity  
 Direction : Dr Jean Marie Ntsama  
-Production : Microsoft Copilot (assistance créative)
+Développement et structuration : Microsoft Copilot (assistance)  
+Hébergement : GitHub Pages
