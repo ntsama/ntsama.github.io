@@ -1,4 +1,8 @@
 ---
+<div style="text-align:right; margin-top:10px;">
+  <a href="/msca_en" style="margin-right:10px; font-weight:bold;">EN</a> |
+  <a href="/msca_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+</div>
 layout: default
 title: "MSCA Project (EN)"
 ---
