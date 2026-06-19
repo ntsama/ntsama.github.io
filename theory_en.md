@@ -3,17 +3,17 @@ layout: default
 title: "Theory (EN)"
 ---
 
-<div style="text-align:right; margin-top:10px; font-size:0.9rem;">
+<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
   🌐 
-  <a href="/theory_en" style="margin-right:10px; font-weight:bold;">EN</a> |
-  <a href="/theory_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+  <a href="/theory_en" style="margin-right:6px; font-weight:bold;">EN</a> |
+  <a href="/theory_fr" style="margin-left:6px; font-weight:bold;">FR</a>
 </div>
 
 # Theory  
 ## The Cognitive Trapeze & Pedagogical Swing Model  
 
 My theoretical work explores the dynamic relationship between **language, thought, and technological mediation**.  
-It integrates philosophy of language, cognitive science, linguistics, AI‑augmented learning, and digital literacies.
+I integrate philosophy of language, cognitive science, linguistics, AI‑augmented learning, and digital literacies.
 
 The central idea is simple:  
 **Cognition is movement — not a static state.**
@@ -31,7 +31,7 @@ The **Cognitive Trapeze** describes how learners navigate between:
 - conceptual anchors  
 - technological tools  
 
-Learning is not linear — it is a **trajectory**, a movement between stable points and exploratory leaps.
+Learning is a **trajectory**, not a linear process.
 
 This model explains how AI tools influence:
 
@@ -80,4 +80,14 @@ It supports:
 - computational simulation  
 - multilingual data analysis  
 
-This theory provides the **conceptual architecture** for understanding how AI reshapes learning trajectories.
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.8;">
+  <a href="/about_en">About</a> • 
+  <a href="/theory_en">Theory</a> • 
+  <a href="/research_en">Research</a> • 
+  <a href="/msca_en">MSCA</a> • 
+  <a href="/ia4zep_en">IA_4_ZEP</a>
+</div>
