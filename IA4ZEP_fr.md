@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "IA_4_ZEP (FR)"
+permalink: /ia4zep_fr/
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
