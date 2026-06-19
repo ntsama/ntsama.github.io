@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Enseignement (FR)"
+permalink: /teaching_fr/
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
