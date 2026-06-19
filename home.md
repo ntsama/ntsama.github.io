@@ -9,8 +9,7 @@ title: "Home"
   <a href="/about_fr" style="margin-left:10px; font-weight:bold;">FR</a>
 </div>
 
-# Welcome — Bienvenue  
-## Dr Jean Marie Ntsama  
+# Jean Marie Ntsama  
 ### Philosophy of Language • Cognitive Science • AI‑Augmented Learning  
 ### Philosophie du langage • Sciences cognitives • Apprentissage augmenté par IA  
 
@@ -18,9 +17,9 @@ title: "Home"
 
 # 🇬🇧 English  
 ## Academic Profile  
-I am a researcher in **philosophy of language, cognitive science, linguistics, and AI‑augmented learning**, working on the dynamic interaction between **language, thought, and technology**.
+I am a researcher in **philosophy of language, cognitive science, linguistics, and AI‑augmented learning**, studying how **language and thought co‑evolve** in technologically mediated environments.
 
-My work develops the **Cognitive Trapeze & Pedagogical Swing Model**, a framework describing how learners navigate between linguistic structures, cognitive representations, and AI‑mediated environments.
+I develop the **Cognitive Trapeze & Pedagogical Swing Model**, a framework describing how learners navigate between linguistic structures, cognitive representations, and AI‑mediated tools.
 
 ### Explore my work  
 - **[About (EN)](ca://s?q=Open_about_EN)**  
@@ -33,9 +32,9 @@ My work develops the **Cognitive Trapeze & Pedagogical Swing Model**, a framewor
 
 # 🇫🇷 Français  
 ## Profil académique  
-Je suis chercheur en **philosophie du langage, sciences cognitives, linguistique et apprentissage augmenté par IA**, spécialisé dans l’étude des dynamiques **langage–pensée–technologie**.
+Je suis chercheur en **philosophie du langage, sciences cognitives, linguistique et apprentissage augmenté par IA**, spécialisé dans les dynamiques **langage–pensée–technologie**.
 
-Je développe le **Modèle du Trapèze Cognitif & de la Balançoire Pédagogique**, un cadre décrivant la manière dont les apprenants naviguent entre structures linguistiques, représentations cognitives et environnements médiés par IA.
+Je développe le **Modèle du Trapèze Cognitif & de la Balançoire Pédagogique**, décrivant comment les apprenants naviguent entre structures linguistiques, représentations cognitives et outils médiés par IA.
 
 ### Explorer mes travaux  
 - **[À propos (FR)](ca://s?q=Ouvrir_about_FR)**  
@@ -47,32 +46,22 @@ Je développe le **Modèle du Trapèze Cognitif & de la Balançoire Pédagogique
 ---
 
 # 🌍 International Profile — Profil international  
-Based in **Ngaoundéré (Cameroon)** and collaborating across **Europe and Africa**, my work bridges:  
-- cognitive science  
-- philosophy  
-- linguistics  
-- AI in education  
-- digital literacies  
+Based in **Ngaoundéré (Cameroon)** and collaborating across **Europe and Africa**, my work bridges cognitive science, philosophy, linguistics, AI in education, and digital literacies.
 
-Basé à **Ngaoundéré (Cameroun)** et collaborant entre **l’Europe et l’Afrique**, mes travaux relient :  
-- sciences cognitives  
-- philosophie  
-- linguistique  
-- IA éducative  
-- littératies numériques  
+Basé à **Ngaoundéré (Cameroun)** et collaborant entre **l’Europe et l’Afrique**, mes travaux relient sciences cognitives, philosophie, linguistique, IA éducative et littératies numériques.
 
 ---
 
 # 🔬 Research Focus — Axes de recherche  
-- **Language–Thought Dynamics**  
-- **AI‑Augmented Learning**  
-- **Digital Literacies in African Contexts**  
-- **Computational Modeling of Cognition**
+- Language–Thought Dynamics  
+- AI‑Augmented Learning  
+- Digital Literacies in African Contexts  
+- Computational Modeling of Cognition  
 
-- **Dynamiques Langage–Pensée**  
-- **Apprentissage augmenté par IA**  
-- **Littératies numériques en contextes africains**  
-- **Modélisation computationnelle de la cognition**
+- Dynamiques Langage–Pensée  
+- Apprentissage augmenté par IA  
+- Littératies numériques en contextes africains  
+- Modélisation computationnelle de la cognition  
 
 ---
 
