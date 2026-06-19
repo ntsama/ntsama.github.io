@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Publications (FR)"
+permalink: /publications_fr/
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
