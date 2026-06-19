@@ -1,31 +1,48 @@
-# CURRICULUM VITAE  
-**Jean Marie NTSAMA**  
-Docteur en Philosophie  
-Chercheur en Langage, Cognition & IA  
-Enseignant – Lycée Technique Bilingue de Ngaoundéré Mardock  
-Fondateur du programme IA_4_ZEP
-
+---
+layout: page
+title: "CV – Version Française"
+permalink: /cv_fr/
 ---
 
-## 1. Informations personnelles
-- **Adresse :** Ngaoundéré, Cameroun  
-- **Téléphone :** (00237) 677 24 20 29 / 690 77 83 29  
-- **Email :** jean.m.ntsama@gmail.com  
-- **Nationalité :** Camerounaise  
-- **Date de naissance :** 06 juin 1987  
-- **Statut matrimonial :** Marié, cinq enfants  
-- **Site académique :** https://jeanmarientsama.github.io
+# **Curriculum Vitae — Jean Marie NTSAMA**
 
----
-
-## 2. Profil académique
 Chercheur en philosophie du langage, sciences cognitives, linguistique et apprentissage augmenté par IA.  
-Développeur du **Modèle du Trapèze Cognitif & de la Balançoire Pédagogique**, un cadre théorique pour analyser la co‑évolution du langage et de la pensée dans des environnements médiés par IA.  
-Travaux ancrés dans une dynamique **Europe–Afrique**, centrés sur l’innovation pédagogique, les littératies numériques et l’apprentissage multilingue.
+Développeur du **Modèle du Trapèze Cognitif & de la Balançoire Pédagogique**.  
+Enseignant au Lycée Technique Bilingue de Ngaoundéré Mardock.  
+Fondateur du programme **IA_4_ZEP**.  
+Email : **jean.m.ntsama@gmail.com**
 
 ---
 
-## 3. Domaines de recherche
+## 📥 Télécharger le CV (PDF)
+
+<p style="text-align:center; margin-top:20px;">
+  <a href="/assets/CV_Jean_Marie_Ntsama_FR.pdf" download
+     style="
+       background:#007acc;
+       color:white;
+       padding:14px 26px;
+       border-radius:8px;
+       text-decoration:none;
+       font-size:17px;
+       font-weight:600;
+       box-shadow:0 4px 8px rgba(0,0,0,0.15);
+     ">
+    📄 Télécharger le CV complet (PDF)
+  </a>
+</p>
+
+---
+
+## 🎓 Formation
+- **PhD en Philosophie**, Université de Yaoundé I — 2022  
+- **Master II** en Philosophie des Sciences et du Langage — 2011  
+- **Licences** : Lettres Modernes Françaises, Philosophie  
+- **DIPES I & II** — Professeur d’enseignement secondaire  
+
+---
+
+## 🧠 Domaines de recherche
 - Langage–pensée  
 - Philosophie du langage  
 - Sciences cognitives  
@@ -37,95 +54,52 @@ Travaux ancrés dans une dynamique **Europe–Afrique**, centrés sur l’innova
 
 ---
 
-## 4. Formation
-- **PhD en Philosophie**, Université de Yaoundé I — *2022*  
-- **Master II** en Philosophie des Sciences et du Langage — *2011*  
-- **Licence** en Lettres Modernes Françaises  
-- **Licence** en Philosophie  
-- **DIPES II** — Professeur d’enseignement secondaire 2e grade  
-- **DIPES I** — Professeur d’enseignement secondaire 1er grade  
-
----
-
-## 5. Expérience professionnelle
+## 👨‍🏫 Expérience professionnelle
 
 ### Enseignement
-- Enseignant — Lycée Technique Bilingue de Ngaoundéré Mardock (*2022–présent*)  
-- Enseignant — IAI Cameroun, Centre Régional de Ngaoundéré (*2015–2017*)  
+- Lycée Technique Bilingue de Ngaoundéré (2022–présent)  
+- IAI Cameroun, Centre Régional de Ngaoundéré (2015–2017)
 
 ### Administration & numérique
-- Responsable Centre Relais SIGIPES — DRES Adamaoua (*2018–2022*)  
-- Responsable cellule informatique — DRES Adamaoua (*2016–2018*)  
-- Créateur du logiciel **SPS DRES‑AD** (gestion automatisée du personnel)
+- Responsable Centre Relais SIGIPES — DRES Adamaoua (2018–2022)  
+- Responsable cellule informatique — DRES Adamaoua (2016–2018)  
+- Créateur du logiciel **SPS DRES‑AD**
 
 ### Leadership & projets
-- Coordonnateur — *Community Impact Project* (Mfou, Tokombéré)  
-- Coordonnateur — *Sur les traces du volontariat au Cameroun* (GIZ)  
-- Vice‑Président Relations Extérieures — AIESEC Yaoundé  
-- Responsable des stagiaires internationaux — AIESEC  
-- Directeur de Projet CSR — AIESEC  
-- Chef d’équipe promotion CSR  
+- Community Impact Project  
+- Sur les traces du volontariat au Cameroun (GIZ)  
+- AIESEC : VP Relations Extérieures, Directeur CSR, Responsable stagiaires internationaux  
 
 ---
 
-## 6. Publications
+## 📚 Publications
 
 ### Livres
-1. *Origine du langage : de la phylogénèse à l’ontogénèse*, Éditions Universitaires Européennes, 2013  
-2. *Problématique des troubles de langage et apport de la pédagogie*, Éditions Universitaires Européennes, 2013  
+- *Origine du langage : de la phylogénèse à l’ontogénèse*, EUE, 2013  
+- *Problématique des troubles de langage et apport de la pédagogie*, EUE, 2013  
 
 ### Articles
-1. *Étude des interrelations entre langage et pensée*, EFUA, 2021  
-2. *Web social, didactique et littératies numériques : situation d’une zone d’éducation prioritaire*, Ifrikiya, 2023  
+- *Étude des interrelations entre langage et pensée*, EFUA, 2021  
+- *Web social, didactique et littératies numériques*, Ifrikiya, 2023  
 
 ---
 
-## 7. Projets de recherche
-- **Cognitive Trapeze (MSCA)** — Modélisation des dynamiques langage–pensée dans l’apprentissage augmenté par IA  
-- **IA_4_ZEP** — Programme d’innovation éducative pour les zones d’éducation prioritaires  
+## 🔬 Projets de recherche
+- **Cognitive Trapeze (MSCA)** — Modélisation des dynamiques langage–pensée  
+- **IA_4_ZEP** — Innovation éducative en zones prioritaires  
 
 ---
 
-## 8. Enseignement
-- Philosophie du langage  
-- Sciences cognitives  
-- Linguistique (sémantique, pragmatique)  
-- IA & pédagogie augmentée  
-- Littératies numériques  
-- Didactique du français  
-- Apprentissage multilingue  
-
----
-
-## 9. Compétences
-
-### Techniques
+## 🛠️ Compétences
 - Programmation : HTML, CSS3, Python, PHP, C++  
-- Administration réseaux  
-- Sécurité informatique  
-- Audit des systèmes  
-- Développement logiciel  
-- Microsoft Office  
-
-### Académiques
-- Analyse conceptuelle  
-- Modélisation cognitive  
-- Analyse linguistique  
+- Réseaux & cybersécurité  
+- Analyse conceptuelle & modélisation cognitive  
 - Conception pédagogique  
-- Recherche qualitative & quantitative  
-
-### Transversales
-- Leadership  
-- Gestion de projet  
-- Communication  
-- Travail multiculturel  
-- Intelligence émotionnelle  
-- Créativité  
-- Auto‑apprentissage  
+- Leadership & gestion de projet  
 
 ---
 
-## 10. Langues
+## 🌍 Langues
 - Français : Excellent  
 - Anglais : Courant  
 - Japonais : Débutant  
