@@ -16,7 +16,7 @@ For academic collaborations, research inquiries, supervision opportunities, or i
 
 - **Email:** jean.m.ntsama@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/jean-marie-ntsama  
-- **GitHub:** https://ntsama.github.io  
+- **GitHub:** https://ntsama.github.io/home  
 - **YouTube (NJM WebTV):** https://www.youtube.com/@NJMWebTV  
 
 ---
