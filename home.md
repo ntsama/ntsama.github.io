@@ -5,8 +5,8 @@ title: "Home"
 
 <div style="text-align:right; margin-top:10px; font-size:0.9rem;">
   🌐 
-  <a href="/about_en" style="margin-right:10px; font-weight:bold;">EN</a> |
-  <a href="/about_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+ <a href="/about_en">EN</a>
+<a href="/about_fr">FR</a>
 </div>
 
 # Jean Marie Ntsama  
@@ -22,11 +22,11 @@ I am a researcher in **philosophy of language, cognitive science, linguistics, a
 I develop the **Cognitive Trapeze & Pedagogical Swing Model**, a framework describing how learners navigate between linguistic structures, cognitive representations, and AI‑mediated tools.
 
 ### Explore my work  
-- **[About (EN)](ca://s?q=Open_about_EN)**  
-- **[Theory (EN)](ca://s?q=Open_theory_EN)**  
-- **[Research (EN)](ca://s?q=Open_research_EN)**  
-- **[MSCA Project (EN)](ca://s?q=Open_MSCA_EN)**  
-- **[IA_4_ZEP (EN)](ca://s?q=Open_IA4ZEP_EN)**  
+- [About (EN)](/about_en/)
+- [Theory (EN)](/theory_en/)
+- [Research (EN)](/research_en/)
+- [MSCA Project (EN)](/msca_en/)
+- [IA_4_ZEP (EN)](/ia4zep_en/)
 
 ---
 
@@ -37,11 +37,11 @@ Je suis chercheur en **philosophie du langage, sciences cognitives, linguistique
 Je développe le **Modèle du Trapèze Cognitif & de la Balançoire Pédagogique**, décrivant comment les apprenants naviguent entre structures linguistiques, représentations cognitives et outils médiés par IA.
 
 ### Explorer mes travaux  
-- **[À propos (FR)](ca://s?q=Ouvrir_about_FR)**  
-- **[Théorie (FR)](ca://s?q=Ouvrir_theory_FR)**  
-- **[Recherche (FR)](ca://s?q=Ouvrir_research_FR)**  
-- **[Projet MSCA (FR)](ca://s?q=Ouvrir_MSCA_FR)**  
-- **[IA_4_ZEP (FR)](ca://s?q=Ouvrir_IA4ZEP_FR)**  
+- [À propos (FR)](/about_fr/)
+- [Théorie (FR)](/theory_fr/)
+- [Recherche (FR)](/research_fr/)
+- [Projet MSCA (FR)](/msca_fr/)
+- [IA_4_ZEP (FR)](/ia4zep_fr/)
 
 ---
 
