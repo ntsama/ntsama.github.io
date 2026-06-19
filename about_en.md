@@ -3,17 +3,24 @@ layout: default
 title: "About (EN)"
 ---
 
-<div style="text-align:right; margin-top:10px; font-size:0.9rem;">
+<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
   🌐 
-  <a href="/about_en" style="margin-right:10px; font-weight:bold;">EN</a> |
-  <a href="/about_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+  <a href="/about_en" style="margin-right:6px; font-weight:bold;">EN</a> |
+  <a href="/about_fr" style="margin-left:6px; font-weight:bold;">FR</a>
 </div>
 
 # About  
 ## Academic Profile & Research Identity  
 
-I am a philosopher of language and cognitive science researcher working on the dynamic interaction between **language, thought, and artificial intelligence**.  
-My work explores how AI reshapes learning, reasoning, and conceptual development, with a focus on multilingual and neurodiverse learners.
+I am a researcher in **philosophy of language, cognitive science, linguistics, and AI‑augmented learning**, studying how **language and thought co‑evolve** in technologically mediated environments.
+
+My work develops the **Cognitive Trapeze & Pedagogical Swing Model**, a framework describing how learners navigate between linguistic structures, cognitive representations, and AI‑mediated tools.
+
+---
+
+## Research Identity  
+My research is guided by a central question:  
+**How do language and thought co‑develop in AI‑mediated environments?**
 
 I combine:  
 - philosophy of language  
@@ -25,31 +32,22 @@ I combine:
 
 ---
 
-## Research Identity  
-My research is guided by a central question:  
-**How do language and thought co‑evolve in technologically mediated environments?**
-
-To address this, I develop:  
-- theoretical models  
-- empirical studies  
-- computational simulations  
-- AI‑supported pedagogical frameworks  
-
-I am the author of the **Pedagogical Trapeze & Swing Model**, a dynamic framework describing how learners navigate between linguistic structures, cognitive representations, and digital tools.
-
----
-
 ## International & Interdisciplinary Trajectory  
-**Based in Ngaoundéré (Cameroon), collaborating across Europe and Africa.**  
-My work bridges cognitive science, philosophy, linguistics, AI in education, and digital humanities.
-
-I collaborate with researchers, teachers, and institutions to connect **theory, practice, and technological innovation** across continents.
+Based in **Ngaoundéré (Cameroon)** and collaborating across **Europe and Africa**, my work bridges cognitive science, philosophy, linguistics, AI in education, and digital humanities.
 
 ---
 
 ## MSCA Research Vision  
-My MSCA project — **Cognitive Trapeze** — aims to model the co‑development of language and thought in AI‑augmented learning environments.  
-It integrates conceptual analysis, cognitive experimentation, multilingual data, and computational modeling.
+My MSCA project — **Cognitive Trapeze** — aims to model the co‑development of language and thought in AI‑augmented learning environments.
 
-This project strengthens my long‑term vision:  
-**developing a unified framework for understanding human cognition in the age of AI.**
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.8;">
+  <a href="/about_en">About</a> • 
+  <a href="/theory_en">Theory</a> • 
+  <a href="/research_en">Research</a> • 
+  <a href="/msca_en">MSCA</a> • 
+  <a href="/ia4zep_en">IA_4_ZEP</a>
+</div>
