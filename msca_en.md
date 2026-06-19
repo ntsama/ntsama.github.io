@@ -1,21 +1,16 @@
 ---
-<div style="text-align:right; margin-top:10px;">
-  <a href="/msca_en" style="margin-right:10px; font-weight:bold;">EN</a> |
-  <a href="/msca_fr" style="margin-left:10px; font-weight:bold;">FR</a>
-</div>
+
 layout: default
 title: "MSCA Project (EN)"
 ---
 
+<div style="text-align:right; margin-top:10px;">
+  <a href="/msca_en" style="margin-right:10px; font-weight:bold;">EN</a> |
+  <a href="/msca_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+</div>
+
 # MSCA Project  
-## Cognitive Trapeze: Modeling Language–Thought Dynamics in AI‑Augmented Learning  
-
----
-
-## Executive Summary  
-**Cognitive Trapeze** investigates how **language and thought co‑develop** in AI‑augmented learning environments.  
-The project integrates conceptual analysis, cognitive experimentation, multilingual data, and computational modeling to understand how learners navigate between linguistic structures, cognitive representations, and technological mediation.
-
+## Cognitive Trapeze: Modeling Language–Thought Dynamics in AI‑Augmented Learning
 Expected outcomes:  
 - a unified theoretical model  
 - empirical insights on multilingual and neurodiverse learners  
