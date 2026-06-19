@@ -4,7 +4,8 @@ title: "Contact"
 ---
 
 # Contact  
-# Contact — Version Bilingue
+## Academic & Professional Contact Information  
+*(English & French versions)*
 
 ---
 
@@ -16,29 +17,15 @@ For academic collaborations, research inquiries, supervision opportunities, or i
 - **Email:** jean.m.ntsama@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/jean-marie-ntsama  
 - **GitHub:** https://ntsama.github.io  
+- **YouTube (NJM WebTV):** https://www.youtube.com/@NJMWebTV  
 
 ---
 
-# 🇫🇷 Version Française
-
-## 📬 Me Contacter  
-Pour toute collaboration académique, demande de recherche, opportunité d’encadrement ou invitation à une conférence, vous pouvez me joindre via :
-
-- **Email :** jean.m.ntsama@gmail.com  
-- **LinkedIn :** https://www.linkedin.com/in/jean-marie-ntsama  
-- **GitHub :** https://ntsama.github.io  
-
----
-
-# 🌍 Location  
+## 🌍 Location  
 Based in the Netherlands (South Holland), collaborating internationally across Europe and Africa.
 
 ---
 
-# 🧭 Navigation  
-- [Home](/)  
-- [About](/about)  
-- [Theory](/theory)  
-- [Research](/research)  
-- [MSCA Project](/msca)  
-- [Publications](/publications)
+## 🧭 Research Areas  
+- Philosophy of Language  
+- Cognitive
