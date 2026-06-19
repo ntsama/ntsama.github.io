@@ -3,10 +3,10 @@ layout: default
 title: "Théorie (FR)"
 ---
 
-<div style="text-align:right; margin-top:10px; font-size:0.9rem;">
+<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
   🌐 
-  <a href="/theory_en" style="margin-right:10px; font-weight:bold;">EN</a> |
-  <a href="/theory_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+  <a href="/theory_en" style="margin-right:6px; font-weight:bold;">EN</a> |
+  <a href="/theory_fr" style="margin-left:6px; font-weight:bold;">FR</a>
 </div>
 
 # Théorie  
@@ -31,7 +31,7 @@ Le **Trapèze Cognitif** décrit la manière dont les apprenants se déplacent e
 - points d’appui conceptuels  
 - outils technologiques  
 
-L’apprentissage n’est pas linéaire — c’est une **trajectoire**, un mouvement entre points stables et élans exploratoires.
+L’apprentissage est une **trajectoire**, non un processus linéaire.
 
 Ce modèle permet d’analyser l’influence de l’IA sur :
 
@@ -80,4 +80,14 @@ Il soutient :
 - la simulation computationnelle  
 - l’analyse de données multilingues  
 
-Cette théorie fournit l’architecture conceptuelle permettant de comprendre comment l’IA transforme les trajectoires d’apprentissage.
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.8;">
+  <a href="/about_fr">À propos</a> • 
+  <a href="/theory_fr">Théorie</a> • 
+  <a href="/research_fr">Recherche</a> • 
+  <a href="/msca_fr">MSCA</a> • 
+  <a href="/ia4zep_fr">IA_4_ZEP</a>
+</div>
