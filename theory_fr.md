@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Théorie (FR)"
+permalink: /theory_fr/
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
