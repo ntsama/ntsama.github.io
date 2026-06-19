@@ -1,22 +1,16 @@
 ---
-<div style="text-align:right; margin-top:10px;">
-  <a href="/msca_en" style="margin-right:10px; font-weight:bold;">EN</a> |
-  <a href="/msca_fr" style="margin-left:10px; font-weight:bold;">FR</a>
-</div>
+---
 layout: default
 title: "Projet MSCA (FR)"
 ---
 
+<div style="text-align:right; margin-top:10px;">
+  <a href="/msca_en" style="margin-right:10px; font-weight:bold;">EN</a> |
+  <a href="/msca_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+</div>
+
 # Projet MSCA  
-## Cognitive Trapeze: Modéliser les dynamiques langage–pensée dans l’apprentissage augmenté par IA  
-
----
-
-## PARTIE B1 — EXCELLENCE  
-
-### 1. Titre du Projet  
-Cognitive Trapeze: Modeling Language–Thought Dynamics in AI‑Augmented Learning
-
+## Cognitive Trapeze : Modéliser les dynamiques langage–pensée dans l’apprentissage augmenté par IA
 ### 2. Résumé  
 Ce projet étudie comment **langage et pensée se co‑développent** dans des environnements d’apprentissage augmentés par l’IA.  
 En s’appuyant sur le **Modèle du Trapèze‑Balançoire Pédagogique**, il propose un cadre dynamique pour modéliser la manière dont les apprenants naviguent entre structures linguistiques, représentations cognitives et médiation technologique.  
