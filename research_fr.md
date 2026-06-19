@@ -3,23 +3,23 @@ layout: default
 title: "Recherche (FR)"
 ---
 
-<div style="text-align:right; margin-top:10px; font-size:0.9rem;">
+<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
   🌐 
-  <a href="/research_en" style="margin-right:10px; font-weight:bold;">EN</a> |
-  <a href="/research_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+  <a href="/research_en" style="margin-right:6px; font-weight:bold;">EN</a> |
+  <a href="/research_fr" style="margin-left:6px; font-weight:bold;">FR</a>
 </div>
 
 # Recherche  
-## Programme scientifique & Axes de recherche  
+## Programme scientifique & Vision de recherche  
 
 Ma recherche étudie comment **langage et pensée co‑évoluent** dans des environnements médiés par la technologie.  
-J’analyse l’influence des outils d’IA sur le développement conceptuel, les stratégies de raisonnement et les trajectoires d’apprentissage, notamment chez les apprenants multilingues et neurodivergents.
+J’opère à l’intersection de la philosophie du langage, des sciences cognitives, de la linguistique, de l’apprentissage augmenté par IA et des littératies numériques.
 
-Ma vision à long terme est de développer un **cadre cognitif unifié** pour comprendre l’apprentissage humain à l’ère de l’IA.
+Mon objectif à long terme est de développer un **cadre cognitif unifié** pour comprendre l’apprentissage humain à l’ère de l’IA.
 
 ---
 
-## 1. Vision de recherche  
+# 1. Vision de recherche  
 Mes travaux sont guidés par une question centrale :  
 **Comment langage et pensée se co‑développent‑ils lorsque les apprenants interagissent avec des environnements médiés par IA ?**
 
@@ -32,39 +32,39 @@ Pour y répondre, j’articule :
 
 ---
 
-## 2. Axes de recherche  
+# 2. Axes de recherche  
 
-### **Axe 1 — Dynamiques Langage–Pensée**  
-Cet axe explore les mécanismes cognitifs reliant structures linguistiques et représentations conceptuelles.  
-Il inclut :  
+### Axe 1 — Dynamiques Langage–Pensée  
+Exploration des mécanismes cognitifs reliant structures linguistiques et représentations conceptuelles.  
+Inclut :  
 - modélisation sémantique et conceptuelle  
 - cognition multilingue  
 - neurodiversité et variabilité cognitive  
 
-### **Axe 2 — Apprentissage Augmenté par IA**  
-Cet axe analyse la manière dont les outils d’IA transforment les processus d’apprentissage.  
-Il porte sur :  
+### Axe 2 — Apprentissage Augmenté par IA  
+Analyse de la manière dont les outils d’IA transforment les processus d’apprentissage.  
+Porte sur :  
 - explications multimodales  
 - feedback adaptatif  
 - étayage cognitif  
 - IA comme partenaire cognitif  
 
-### **Axe 3 — Littératies Numériques en Contextes Africains**  
-Cet axe étudie les pratiques numériques des apprenants en contextes africains.  
-Il inclut :  
+### Axe 3 — Littératies Numériques en Contextes Africains  
+Étude des pratiques numériques des apprenants en contextes africains.  
+Inclut :  
 - pratiques numériques multilingues  
 - environnements inclusifs  
 - innovation pédagogique en zones prioritaires  
 
-### **Axe 4 — Modélisation Computationnelle de la Cognition**  
-Cet axe développe des simulations computationnelles pour modéliser :  
+### Axe 4 — Modélisation Computationnelle de la Cognition  
+Développement de simulations computationnelles pour modéliser :  
 - la co‑évolution langage–pensée  
 - les trajectoires d’apprentissage  
 - les dynamiques cognitives multi‑agents  
 
 ---
 
-## 3. Méthodes de recherche  
+# 3. Méthodes de recherche  
 Mes travaux combinent :  
 - analyse conceptuelle  
 - expériences cognitives et linguistiques  
@@ -72,11 +72,11 @@ Mes travaux combinent :
 - environnements d’apprentissage médiés par IA  
 - approches mixtes  
 
-Cette diversité méthodologique permet de relier **théorie, données empiriques et simulation computationnelle**.
+Cette diversité méthodologique relie **théorie, données empiriques et simulation computationnelle**.
 
 ---
 
-## 4. Stratégie Europe–Afrique  
+# 4. Stratégie Europe–Afrique  
 Basé à Ngaoundéré (Cameroun) et collaborant entre l’Europe et l’Afrique, je construis des ponts entre :  
 - sciences cognitives  
 - éducation numérique  
@@ -87,7 +87,7 @@ Cette stratégie renforce l’impact scientifique et sociétal de mes travaux.
 
 ---
 
-## 5. Alignement avec Mon Projet MSCA  
+# 5. Alignement avec Mon Projet MSCA  
 Mon projet MSCA **Cognitive Trapeze** intègre les quatre axes de recherche.  
 Il offre un cadre cohérent pour :  
 - la modélisation théorique  
@@ -95,4 +95,14 @@ Il offre un cadre cohérent pour :
 - la simulation computationnelle  
 - l’innovation pédagogique  
 
-Cet alignement assure la continuité et le développement à long terme de mon programme scientifique.
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.8;">
+  <a href="/about_fr">À propos</a> • 
+  <a href="/theory_fr">Théorie</a> • 
+  <a href="/research_fr">Recherche</a> • 
+  <a href="/msca_fr">MSCA</a> • 
+  <a href="/ia4zep_fr">IA_4_ZEP</a>
+</div>
