@@ -3,10 +3,10 @@ layout: default
 title: "MSCA Project (EN)"
 ---
 
-<div style="text-align:right; margin-top:10px; font-size:0.9rem;">
+<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
   🌐 
-  <a href="/msca_en" style="margin-right:10px; font-weight:bold;">EN</a> |
-  <a href="/msca_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+  <a href="/msca_en" style="margin-right:6px; font-weight:bold;">EN</a> |
+  <a href="/msca_fr" style="margin-left:6px; font-weight:bold;">FR</a>
 </div>
 
 # MSCA Project  
@@ -34,8 +34,7 @@ Cognitive Trapeze: Modeling Language–Thought Dynamics in AI‑Augmented Learni
 
 ## 2. Abstract  
 This project explores how **language and thought co‑evolve** within AI‑augmented learning environments.  
-Building on the *Pedagogical Trapeze & Swing Model*, it proposes a dynamic framework to model how learners move between linguistic structures, cognitive representations, and technological mediation.  
-The project integrates **philosophy of language, cognitive science, linguistics, and computational modeling**.
+Building on the *Pedagogical Trapeze & Swing Model*, it proposes a dynamic framework to model how learners move between linguistic structures, cognitive representations, and technological mediation.
 
 ## 3. Objectives  
 
@@ -53,19 +52,6 @@ The project integrates **philosophy of language, cognitive science, linguistics,
 - Strengthen expertise in cognitive science and computational modeling  
 - Build an international research network (Europe–Africa)  
 - Publish high‑impact interdisciplinary work  
-
-## 4. State of the Art & Contribution  
-The project addresses a gap in current research: the lack of integrated models capturing **language–thought dynamics** in AI‑mediated learning.  
-Existing approaches treat language, cognition, and technology separately.  
-This project proposes a unified framework grounded in the **Cognitive Trapeze** model.
-
-## 5. Methodology  
-A mixed approach combining:  
-- conceptual analysis  
-- linguistic and cognitive experiments  
-- computational modeling  
-- AI‑mediated learning environments  
-- cross‑cultural and multilingual perspectives  
 
 ---
 
@@ -95,7 +81,7 @@ A mixed approach combining:
 
 # PART B3 — IMPLEMENTATION  
 
-## 1. Work Plan  
+## Work Packages  
 
 ### WP1 — Theoretical Foundations  
 Philosophy of language, cognitive science, learning theories, AI mediation.  
@@ -111,7 +97,7 @@ Publications, workshops, open datasets, Africa–Europe initiatives.
 
 ---
 
-## 2. Gantt Chart (text version)  
+## Gantt Chart (text version)  
 - Months 1–6 : WP1  
 - Months 4–18 : WP2  
 - Months 10–24 : WP3  
@@ -119,7 +105,7 @@ Publications, workshops, open datasets, Africa–Europe initiatives.
 
 ---
 
-## 3. Risks & Mitigation  
+## Risks & Mitigation  
 - Low participant availability → broaden recruitment  
 - Modeling complexity → iterative prototyping  
 - Data variability → mixed‑methods triangulation  
@@ -145,4 +131,16 @@ The training plan includes:
 - advanced courses in cognitive modeling  
 - workshops on AI‑mediated learning  
 - interdisciplinary seminars  
-- research mobility across Europe
+- research mobility across Europe  
+
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.8;">
+  <a href="/about_en">About</a> • 
+  <a href="/theory_en">Theory</a> • 
+  <a href="/research_en">Research</a> • 
+  <a href="/msca_en">MSCA</a> • 
+  <a href="/ia4zep_en">IA_4_ZEP</a>
+</div>
