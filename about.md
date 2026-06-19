@@ -105,3 +105,5 @@ Il combine analyse conceptuelle, expérimentations cognitives, données multilin
 
 Ce projet s’inscrit dans ma vision à long terme :  
 **développer un cadre unifié pour comprendre la cognition humaine à l’ère de l’IA.**
+Ce projet s’inscrit dans ma vision à long terme :  
+**développer un cadre unifié pour comprendre la cognition humaine à l’ère de l’IA.**
