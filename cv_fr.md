@@ -10,7 +10,7 @@ Fondateur du programme IA_4_ZEP
 ## 1. Informations personnelles
 - **Adresse :** Ngaoundéré, Cameroun  
 - **Téléphone :** (00237) 677 24 20 29 / 690 77 83 29  
-- **Email :** hansmarie007@gmail.com  
+- **Email :** jean.m.ntsama@gmail.com  
 - **Nationalité :** Camerounaise  
 - **Date de naissance :** 06 juin 1987  
 - **Statut matrimonial :** Marié, cinq enfants  
