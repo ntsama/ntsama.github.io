@@ -1,4 +1,8 @@
 ---
+<div style="text-align:right; margin-top:10px;">
+  <a href="/research_en" style="margin-right:10px; font-weight:bold;">EN</a> |
+  <a href="/research_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+</div>
 layout: default
 title: "Research"
 ---
