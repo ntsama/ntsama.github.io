@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "MSCA Project (EN)"
+permalink: /msca_en/
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
