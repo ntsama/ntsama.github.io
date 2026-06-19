@@ -4,7 +4,8 @@ title: "Publications"
 ---
 
 # Publications  
-# Publications — Version Bilingue
+## Academic Output & Scientific Contributions  
+*(English & French versions)*
 
 ---
 
@@ -27,10 +28,16 @@ title: "Publications"
 ---
 
 ## 3. Conference Papers & Talks  
-- To be added
+- To be added  
+*(You may include IA_4_ZEP presentations, cognitive science talks, digital literacy workshops.)*
+
+---
 
 ## 4. Working Papers  
-- To be added
+- To be added  
+*(Include drafts, ongoing manuscripts, or research notes.)*
+
+---
 
 ## 5. Manuscripts in Preparation  
 - **Cognitive Trapeze: Modeling Language–Thought Dynamics in AI‑Augmented Learning**  
@@ -57,10 +64,15 @@ title: "Publications"
 ---
 
 ## 3. Communications & Conférences  
-- À compléter
+- À compléter  
+*(Présentations IA_4_ZEP, conférences en sciences cognitives, ateliers littératies numériques.)*
+
+---
 
 ## 4. Working Papers  
-- À compléter
+- À compléter  
+
+---
 
 ## 5. Manuscrits en Préparation  
 - **Cognitive Trapeze: Modeling Language–Thought Dynamics in AI‑Augmented Learning**  
