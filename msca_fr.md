@@ -3,10 +3,10 @@ layout: default
 title: "Projet MSCA (FR)"
 ---
 
-<div style="text-align:right; margin-top:10px; font-size:0.9rem;">
+<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
   🌐 
-  <a href="/msca_en" style="margin-right:10px; font-weight:bold;">EN</a> |
-  <a href="/msca_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+  <a href="/msca_en" style="margin-right:6px; font-weight:bold;">EN</a> |
+  <a href="/msca_fr" style="margin-left:6px; font-weight:bold;">FR</a>
 </div>
 
 # Projet MSCA  
@@ -53,19 +53,6 @@ En s’appuyant sur le **Modèle du Trapèze‑Balançoire Pédagogique**, il pr
 - Construire un réseau Europe–Afrique  
 - Publier des travaux interdisciplinaires à fort impact  
 
-## 4. État de l’Art & Contribution  
-Le projet répond à un manque : l’absence de modèles intégrés capturant la dynamique **langage–pensée** dans l’apprentissage médié par l’IA.  
-Les approches existantes traitent souvent langage, cognition et technologie de manière séparée.  
-Le projet propose un cadre unifié fondé sur le **Modèle du Trapèze Cognitif**.
-
-## 5. Méthodologie  
-Approche mixte :  
-- analyse conceptuelle  
-- expériences linguistiques et cognitives  
-- modélisation computationnelle  
-- environnements d’apprentissage augmentés par l’IA  
-- perspectives multilingues et interculturelles  
-
 ---
 
 # PARTIE B2 — IMPACT  
@@ -94,7 +81,7 @@ Approche mixte :
 
 # PARTIE B3 — MISE EN ŒUVRE  
 
-## 1. Work Packages  
+## Work Packages  
 
 ### WP1 — Fondements théoriques  
 Philosophie du langage, sciences cognitives, théories de l’apprentissage, médiation par IA.  
@@ -110,7 +97,7 @@ Publications, ateliers, jeux de données ouverts, initiatives Afrique–Europe.
 
 ---
 
-## 2. Calendrier (version texte)  
+## Calendrier (version texte)  
 - M1–M6 : WP1  
 - M4–M18 : WP2  
 - M10–M24 : WP3  
@@ -118,7 +105,7 @@ Publications, ateliers, jeux de données ouverts, initiatives Afrique–Europe.
 
 ---
 
-## 3. Risques & Solutions  
+## Risques & Solutions  
 - Recrutement faible → élargir les profils et réseaux  
 - Complexité de la modélisation → prototypes successifs  
 - Variabilité des données → triangulation méthodologique  
@@ -144,4 +131,16 @@ Le plan de formation comprend :
 - des formations avancées en modélisation cognitive  
 - des ateliers sur l’apprentissage médié par IA  
 - des séminaires interdisciplinaires  
-- des mobilités de recherche en Europe
+- des mobilités de recherche en Europe  
+
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.8;">
+  <a href="/about_fr">À propos</a> • 
+  <a href="/theory_fr">Théorie</a> • 
+  <a href="/research_fr">Recherche</a> • 
+  <a href="/msca_fr">MSCA</a> • 
+  <a href="/ia4zep_fr">IA_4_ZEP</a>
+</div>
