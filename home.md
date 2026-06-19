@@ -75,6 +75,7 @@ AI for education in priority zones (Africa–Europe initiative).
 ---
 
 # 📬 Contact  
-- Email: jean.marie.ntsama@…  
-- GitHub: ntsama  
-- LinkedIn: Jean Marie Ntsama
+- **Email:** jean.m.ntsama@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/jean-marie-ntsama  
+- **GitHub:** https://ntsama.github.io/home  
+- **YouTube (NJM WebTV):** https://www.youtube.com/@NJMWebTV  
