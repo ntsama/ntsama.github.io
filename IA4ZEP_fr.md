@@ -3,10 +3,10 @@ layout: default
 title: "IA_4_ZEP (FR)"
 ---
 
-<div style="text-align:right; margin-top:10px; font-size:0.9rem;">
+<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
   🌐 
-  <a href="/ia4zep_en" style="margin-right:10px; font-weight:bold;">EN</a> |
-  <a href="/ia4zep_fr" style="margin-left:10px; font-weight:bold;">FR</a>
+  <a href="/ia4zep_en" style="margin-right:6px; font-weight:bold;">EN</a> |
+  <a href="/ia4zep_fr" style="margin-left:6px; font-weight:bold;">FR</a>
 </div>
 
 # IA_4_ZEP  
@@ -112,3 +112,15 @@ IA_4_ZEP contribue à :
 
 # 7. Vision à Long Terme  
 IA_4_ZEP ambitionne de devenir un **modèle de référence** pour l’éducation augmentée par IA dans les communautés défavorisées, alliant rigueur scientifique, innovation pédagogique et impact social.
+
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.8;">
+  <a href="/about_fr">À propos</a> • 
+  <a href="/theory_fr">Théorie</a> • 
+  <a href="/research_fr">Recherche</a> • 
+  <a href="/msca_fr">MSCA</a> • 
+  <a href="/ia4zep_fr">IA_4_ZEP</a>
+</div>
