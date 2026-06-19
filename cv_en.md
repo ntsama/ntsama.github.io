@@ -5,7 +5,16 @@ permalink: /cv_en/
 ---
 
 <p style="text-align:center;">
-  <img src="/assets/photo.jpg" alt="Jean Marie Ntsama" style="width:180px; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.15); margin-bottom:20px;">
+  <img src="/assets/photo.jpg"
+       alt="Jean Marie Ntsama"
+       style="
+         width:180px;
+         height:180px;
+         object-fit:cover;
+         border-radius:50%;
+         box-shadow:0 4px 12px rgba(0,0,0,0.15);
+         margin-bottom:20px;
+       ">
 </p>
 
 # **Curriculum Vitae — Jean Marie NTSAMA**
