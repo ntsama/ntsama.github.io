@@ -1,8 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: 'en' }}">
   <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
     <title>{{ page.title }} | {{ site.title }}</title>
 
     {% seo %}
@@ -25,6 +26,12 @@
 
     <section class="main-content">
       {{ content }}
+
+      <footer class="site-footer">
+        <span class="site-footer-owner">
+          © {{ site.time | date: "%Y" }} {{ site.title }}
+        </span>
+      </footer>
     </section>
 
   </body>
