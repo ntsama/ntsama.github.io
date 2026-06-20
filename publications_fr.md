@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Publications (FR)"
+title: "Publications — Travaux sélectionnés"
+description: "Publications académiques en philosophie du langage, sciences cognitives et éducation augmentée par IA."
 permalink: /publications_fr/
+lang: fr
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
