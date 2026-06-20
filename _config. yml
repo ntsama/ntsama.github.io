@@ -1,7 +1,3 @@
-# ============================================================
-#   CONFIGURATION PRINCIPALE — THEME AL-FOLIO
-# ============================================================
-
 remote_theme: alshedivat/al-folio@v0.11.0
 
 plugins:
@@ -9,19 +5,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# ============================================================
-#   INFORMATIONS DU SITE
-# ============================================================
-
 title: "Jean Marie Ntsama"
 description: "Philosopher of Language • Cognitive Science • AI-Augmented Learning"
 
 url: "https://ntsama.github.io"
-baseurl: ""   # IMPORTANT : ton site est à la racine
-
-# ============================================================
-#   NAVIGATION PRINCIPALE (sera adaptée après migration)
-# ============================================================
+baseurl: ""
 
 navbar:
   - title: "Home"
@@ -45,19 +33,11 @@ navbar:
   - title: "Contact"
     url: /contact/
 
-# ============================================================
-#   PARAMÈTRES AL-FOLIO
-# ============================================================
-
 theme_settings:
-  appearance: "auto"     # auto / light / dark
+  appearance: "auto"
   back_to_top: true
   show_social_icons: true
   show_author: true
-
-# ============================================================
-#   INFORMATIONS AUTEUR (affichées dans sidebar + SEO)
-# ============================================================
 
 author:
   name: "Jean Marie Ntsama"
@@ -66,19 +46,10 @@ author:
   email: "your-email@example.com"
   github: "ntsama"
   linkedin: "jean-marie-ntsama"
-  # ajouter ORCID, Google Scholar, ResearchGate si tu veux
-
-# ============================================================
-#   SEO + SITEMAP
-# ============================================================
 
 seo:
   type: "Person"
   name: "Jean Marie Ntsama"
-
-# ============================================================
-#   COLLECTIONS AL-FOLIO (activées plus tard)
-# ============================================================
 
 collections:
   publications:
