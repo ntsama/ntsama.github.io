@@ -6,36 +6,14 @@ venue: "Éditions Francophones Universitaires d’Afrique (EFUA)"
 type: "article"
 ---
 
-Cet article présente la synthèse de la **théorie interrelationnelle du langage et de la pensée**, développée dans la thèse de doctorat de l’auteur.  
-La théorie repose sur trois piliers :  
-1. **L’acquisition du langage**  
-2. **Les troubles du langage**  
-3. **L’enseignement-apprentissage et la pédagogie curative**
+🇫🇷 Résumé (version française)
 
-> *« Notre théorie repose sur trois piliers : l’acquisition, les troubles et l’enseignement-apprentissage du langage. »*  
-(extrait du document)
+Cet article présente la théorie interrelationnelle du langage et de la pensée développée dans le cadre de la thèse de Jean Marie Ntsama. Cette théorie repose sur trois piliers : l’acquisition du langage, les troubles linguistiques et la pédagogie curative. L’étude montre que le langage, en tant que faculté créatrice de signifiés, structure la pensée et permet à l’être humain de construire un monde mental et culturel. L’analyse des pathologies telles que la dyslexie, l’aphasie et l’autisme révèle leur impact sur la communication, l’expression de la pensée et la réussite scolaire. L’article propose enfin des approches pédagogiques et rééducatives permettant de restaurer les capacités langagières et cognitives des apprenants.
 
-### Points clés de l’article
+---
 
-- Le langage et la pensée ont une **origine commune** (perspective phylogénétique et ontogénétique).  
-- Les troubles du langage (dyslexie, aphasie, autisme) affectent différemment :  
-  - la production de la pensée  
-  - la communication  
-  - la compréhension  
-- La dyslexie est analysée comme un trouble neurobiologique affectant la reconnaissance des mots, le décodage et l’orthographe.  
-- L’aphasie est décrite comme une rupture entre pensée et expression.  
-- L’autisme est présenté comme une difficulté simultanée dans la construction de la pensée et la communication.
+🇬🇧 Summary (English version)
 
-L’article mobilise :
-- le modèle actantiel de Greimas  
-- la méthode analytique  
-- la recherche‑action  
-- les classifications INSERM, CIM‑10, DSM‑IV
+This article presents the inter-relational theory of language and thought developed in Jean Marie Ntsama’s doctoral research. The theory is structured around three pillars: language acquisition, language disorders, and curative pedagogy. The study shows that language, as a creative system of meaning, shapes human thought and enables individuals to construct their mental and cultural world. The analysis of disorders such as dyslexia, aphasia, and autism highlights their impact on communication, thought production, and academic performance. The article concludes by proposing pedagogical and rehabilitative approaches aimed at restoring learners’ linguistic and cognitive abilities.
 
-L’auteur propose une **pédagogie curative** et une **rééducation linguistique** pour restaurer la capacité d’expression et de pensée chez les apprenants en difficulté.
-
-La conclusion ouvre sur les implications de cette théorie pour :  
-- la didactique du langage  
-- la compréhension des pathologies  
-- les interactions homme‑machine  
-- la construction d’une « langue universelle du futur »
+---
