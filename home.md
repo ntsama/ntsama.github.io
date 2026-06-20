@@ -8,8 +8,8 @@ lang: en
 
 <div style="text-align:right; margin-top:10px; font-size:0.9rem;">
   🌐 
- <a href="/about_en">EN</a>
-<a href="/about_fr">FR</a>
+ <a href="/home">EN</a>
+ <a href="/home_fr">FR</a>
 </div>
 
 # Jean Marie Ntsama  
@@ -20,31 +20,35 @@ lang: en
 
 # 🇬🇧 English  
 ## Academic Profile  
-I am a researcher in **philosophy of language, cognitive science, linguistics, and AI‑augmented learning**, studying how **language and thought co‑evolve** in technologically mediated environments.
+I am a researcher working at the intersection of **language, cognition, and artificial intelligence**, with a focus on **AI‑augmented learning**, **digital literacies**, and **educational innovation in priority zones**.
+
+My work explores how **language and thought co‑develop** in technologically mediated environments, and how AI can support **cognitive autonomy**, **equity**, and **learning empowerment**.
 
 I develop the **Cognitive Trapeze & Pedagogical Swing Model**, a framework describing how learners navigate between linguistic structures, cognitive representations, and AI‑mediated tools.
 
 ### Explore my work  
-- [About (EN)](/about_en/)
-- [Theory (EN)](/theory_en/)
-- [Research (EN)](/research_en/)
-- [MSCA Project (EN)](/msca_en/)
-- [IA_4_ZEP (EN)](/ia4zep_en/)
+- **[About (EN)](ca://s?q=Open_About_Page)**  
+- **[Theory (EN)](ca://s?q=Open_Theory_Page)**  
+- **[Research (EN)](ca://s?q=Open_Research_Page)**  
+- **[MSCA Project (EN)](ca://s?q=Open_MSCA_Page)**  
+- **[IA_4_ZEP (EN)](ca://s?q=Open_IA4ZEP_Page)**
 
 ---
 
 # 🇫🇷 Français  
 ## Profil académique  
-Je suis chercheur en **philosophie du langage, sciences cognitives, linguistique et apprentissage augmenté par IA**, spécialisé dans les dynamiques **langage–pensée–technologie**.
+Je suis chercheur au croisement du **langage, de la cognition et de l’intelligence artificielle**, spécialisé dans les dynamiques **langage–pensée–technologie** et l’**apprentissage augmenté par IA**.
 
-Je développe le **Modèle du Trapèze Cognitif & de la Balançoire Pédagogique**, décrivant comment les apprenants naviguent entre structures linguistiques, représentations cognitives et outils médiés par IA.
+Mes travaux étudient comment **langage et pensée co‑évoluent** dans des environnements médiés par la technologie, et comment l’IA peut soutenir **l’autonomie cognitive**, **l’équité** et **l’émancipation par l’apprentissage**.
+
+Je développe le **Modèle du Trapèze Cognitif & de la Balançoire Pédagogique**, qui décrit comment les apprenants naviguent entre structures linguistiques, représentations cognitives et outils médiés par IA.
 
 ### Explorer mes travaux  
-- [À propos (FR)](/about_fr/)
-- [Théorie (FR)](/theory_fr/)
-- [Recherche (FR)](/research_fr/)
-- [Projet MSCA (FR)](/msca_fr/)
-- [IA_4_ZEP (FR)](/ia4zep_fr/)
+- **[À propos (FR)](ca://s?q=Ouvrir_A_propos)**  
+- **[Théorie (FR)](ca://s?q=Ouvrir_Theorie)**  
+- **[Recherche (FR)](ca://s?q=Ouvrir_Recherche)**  
+- **[Projet MSCA (FR)](ca://s?q=Ouvrir_MSCA)**  
+- **[IA_4_ZEP (FR)](ca://s?q=Ouvrir_IA4ZEP)**
 
 ---
 
@@ -81,4 +85,4 @@ AI for education in priority zones (Africa–Europe initiative).
 - **Email:** jean.m.ntsama@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/jean-marie-ntsama  
 - **GitHub:** https://ntsama.github.io/home  
-- **YouTube (NJM WebTV):** https://www.youtube.com/@NJMWebTV  
+- **YouTube (NJM WebTV):** https://www.youtube.com/@NJMWebTV
