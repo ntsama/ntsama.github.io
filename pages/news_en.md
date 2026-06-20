@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "News & Updates (EN)"
 permalink: /news_en/
 ---
