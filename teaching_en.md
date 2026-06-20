@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Teaching (EN)"
+title: "Teaching — Courses & Pedagogy"
+description: "Teaching activities, courses, and pedagogical approaches in AI-augmented learning and cognitive sciences."
 permalink: /teaching_en/
+lang: en
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
