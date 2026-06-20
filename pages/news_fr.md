@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Actualités (FR)"
 permalink: /news_fr/
 ---
