@@ -52,3 +52,7 @@ My MSCA project — **Cognitive Trapeze** — aims to model the co‑development
   <a href="/msca_en">MSCA</a> • 
   <a href="/ia4zep_en">IA_4_ZEP</a>
 </div>
+---
+
+**Navigation**  
+[Home](/home/) • [About](/about_en/) • [Research](/research_en/) • [FAQ](/faq/)
