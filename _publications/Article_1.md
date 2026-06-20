@@ -2,28 +2,20 @@
 title: "Web social, didactique et littératies numériques : situation d'une zone d'éducation prioritaire"
 authors: "Jean Marie Ntsama"
 date: 2023-01-01
-venue: "Revue EFUA — Sciences du Langage"
+venue: "Revue Ifrikiya — Sciences du Langage"
 type: "article"
 ---
 
-Cet article analyse l’impact des littératies numériques sur l’enseignement du français en zone d’éducation prioritaire, en s’appuyant sur une étude menée dans la région de l’Adamaoua (Cameroun).  
-L’auteur montre que la révolution numérique introduit de **nouveaux gestes d’écriture**, de **nouvelles formes de communication**, et impose une transformation profonde de la didactique.
+Résumé 
 
-> *« La révolution numérique a introduit des écrits d’un nouveau genre sur des supports tout aussi nouveaux… »*  
-(citation issue du document)
+Cet article présente la théorie interrelationnelle du langage et de la pensée élaborée par Dr Jean Marie Ntsama dans le cadre de sa thèse de doctorat. Cette théorie repose sur trois piliers : l’acquisition du langage, les troubles linguistiques et les méthodes d’enseignement-apprentissage. L’étude montre que l’homme et le langage partagent une origine commune, que les troubles tels que la dyslexie, l’aphasie et l’autisme affectent profondément la communication et la production de la pensée, et que la pédagogie curative constitue une voie essentielle pour restaurer les capacités langagières et cognitives des apprenants. Le langage apparaît ainsi comme une activité créatrice de signifiés, permettant à l’être humain de construire un monde mental et culturel.  
 
-L’étude s’appuie sur :
-- des données statistiques des performances scolaires (dictée, orthographe, étude de texte, expression écrite)  
-- un protocole de dépistage de la dyslexie (modèle CBM)  
-- l’analyse des erreurs phonologiques, visuelles et orthographiques  
-- l’impact de l’écriture électronique (simplification, expressivité, néologismes)
 
-L’article propose le **Trapèze didactique**, un modèle à quatre actants (Enseignant – Savoir – Technologies numériques – Apprenant), permettant de repenser la pédagogie à l’ère du numérique.
+---
 
-Ce modèle :
-- valorise les compétences numériques des apprenants  
-- redéfinit le rôle de l’enseignant (coach, guide, prospecteur)  
-- intègre les technologies comme **actant didactique à part entière**  
-- favorise une pédagogie collaborative et inclusive  
+Summary 
 
-L’auteur conclut sur l’importance des politiques publiques et des initiatives locales (ex. *NJM WebTV*) pour soutenir la littératie numérique en zones défavorisées.
+This article presents Dr Jean Marie Ntsama’s inter-relational theory of language and thought, developed in his doctoral research. The theory is structured around three pillars: language acquisition, language disorders, and teaching-learning methods. The study shows that humans and language share a common origin, that disorders such as dyslexia, aphasia, and autism significantly affect communication and thought production, and that curative pedagogy offers effective strategies to restore linguistic and cognitive abilities. Language is described as a creative activity that generates meaning and enables individuals to construct their mental and cultural world.  
+
+
+---
