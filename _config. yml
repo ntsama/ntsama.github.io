@@ -16,12 +16,14 @@ navbar:
     url: /home/
   - title: "About"
     url: /about/
+  - title: "Theory"
+    url: /theory/
   - title: "Research"
     url: /research/
   - title: "MSCA Project"
     url: /msca/
   - title: "IA_4_ZEP"
-    url: /ia4zep/
+    url: /ia4zep_en/
   - title: "Publications"
     url: /publications/
   - title: "Teaching"
@@ -32,29 +34,3 @@ navbar:
     url: /faq/
   - title: "Contact"
     url: /contact/
-
-theme_settings:
-  appearance: "auto"
-  back_to_top: true
-  show_social_icons: true
-  show_author: true
-
-author:
-  name: "Jean Marie Ntsama"
-  bio: "Philosopher of Language • Cognitive Science • AI-Augmented Learning"
-  avatar: "/assets/photo.jpg"
-  email: "your-email@example.com"
-  github: "ntsama"
-  linkedin: "jean-marie-ntsama"
-
-seo:
-  type: "Person"
-  name: "Jean Marie Ntsama"
-
-collections:
-  publications:
-    output: true
-  projects:
-    output: true
-  teaching:
-    output: true
