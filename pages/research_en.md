@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Research — Language, Thought & AI"
-description: "Research on the co-evolution of language and thought in AI-mediated learning environments."
 permalink: /research_en/
-lang: en
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
