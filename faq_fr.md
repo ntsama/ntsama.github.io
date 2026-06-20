@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "FAQ Technique"
-permalink: /faq/
+title: "FAQ — Questions techniques"
+description: "Questions fréquentes sur le site, GitHub Pages et les contenus académiques."
+permalink: /faq_fr/
+lang: fr
 ---
 
 <div style="text-align:right; font-size:0.9rem;">
