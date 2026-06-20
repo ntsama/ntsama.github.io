@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "Technical FAQ"
+title: "FAQ — Technical & Academic Questions"
+description: "Frequently asked questions about the website, GitHub Pages, and academic content."
 permalink: /faq_en/
+lang: en
 ---
-
 <div style="text-align:right; font-size:0.9rem;">
   🌐 <a href="/faq/">FR</a> | <a href="/faq_en/">EN</a>
 </div>
