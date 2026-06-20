@@ -3,23 +3,25 @@ title: "Jean Marie Ntsama"
 description: "Philosopher of Language • AI & Cognition"
 
 nav:
-  - name: "Home"
-    link: "/"
-  - name: "About"
-    link: "/about"
-  - name: "Theory"
-    link: "/theory"
-  - name: "Research"
-    link: "/research"
-  - name: "MSCA Project"
-    link: "/msca"
-  - name: "IA_4_ZEP"
-    link: "/ia_4_zep"
-  - name: "Publications"
-    link: "/publications"
-  - name: "Teaching"
-    link: "/teaching"
-  - name: "Impact & Outreach"
-    link: "/impact"
-  - name: "Contact"
-    link: "/contact"
+  - title: "Home"
+    url: /home/
+  - title: "About"
+    url: /about_en/
+  - title: "Theory"
+    url: /theory_en/
+  - title: "Research"
+    url: /research_en/
+  - title: "MSCA Project"
+    url: /msca_en/
+  - title: "IA_4_ZEP"
+    url: /ia4zep_en/
+  - title: "Publications"
+    url: /publications_en/
+  - title: "Teaching"
+    url: /teaching_en/
+  - title: "Impact & Outreach"
+    url: /impact/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Contact"
+    url: /contact/
