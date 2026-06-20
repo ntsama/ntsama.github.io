@@ -8,6 +8,7 @@
 
     {% seo %}
 
+    <!-- Charger le CSS du thème Cayman -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
 
@@ -19,7 +20,7 @@
 
       <nav>
         {% for item in site.nav %}
-          <a href="{{ item.url }}">{{ item.title }}</a>
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
         {% endfor %}
       </nav>
     </section>
