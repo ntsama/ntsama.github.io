@@ -1,6 +1,6 @@
 ---
 title: "Cognitive Trapeze — Modeling Language–Thought Dynamics in AI‑Augmented Learning (MSCA Project)"
-date: 2025-01-01
+date: 2026-01-01
 description: "Marie Skłodowska‑Curie Postdoctoral Fellowship project on the dynamics of language, thought, and AI‑augmented learning."
 tags: ["MSCA", "Cognitive Science", "Philosophy of Language", "AI in Education", "Digital Literacies", "Europe-Africa"]
 ---
