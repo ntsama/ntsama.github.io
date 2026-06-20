@@ -5,7 +5,7 @@ description: "Actions d’impact, de diffusion scientifique et d’innovation é
 permalink: /impact_fr/
 lang: fr
 ---
-Diffusion scientifique, engagement public et innovation pédagogique
+## Diffusion scientifique, engagement public et innovation pédagogique
 
 # 🇫🇷 Version Française
 
