@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Impact — Diffusion & Innovation"
-description: "Actions d’impact, de diffusion scientifique et d’innovation éducative en Europe et en Afrique."
 permalink: /impact_fr/
-lang: fr
 ---
 ## Diffusion scientifique, engagement public et innovation pédagogique
 
