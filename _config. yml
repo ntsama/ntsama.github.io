@@ -34,3 +34,13 @@ navbar:
     url: /faq/
   - title: "Contact"
     url: /contact/
+
+collections:
+  publications:
+    output: true
+  projects:
+    output: true
+  teaching:
+    output: true
+  talks:
+    output: true
