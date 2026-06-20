@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "IA_4_ZEP (EN)"
+title: "IA_4_ZEP — Artificial Intelligence for Education in Priority Zones"
+description: "IA_4_ZEP is an educational innovation program for priority zones using AI-augmented pedagogy and cognitive scaffolding."
 permalink: /ia4zep_en/
+lang: en
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
