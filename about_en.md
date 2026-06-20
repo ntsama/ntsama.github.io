@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "About (EN)"
+title: "About — Academic Profile"
+description: "Academic profile of Jean Marie Ntsama: philosophy of language, cognitive science, AI-augmented learning."
 permalink: /about_en/
+lang: en
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
