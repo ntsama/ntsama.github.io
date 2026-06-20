@@ -1,8 +1,8 @@
 ---
-layout: default
-title: "Contact"
+layout: page
+title: "contact"
+permalink: /contact/
 ---
-
 # Contact  
 ## Academic & Professional Contact Information  
 *(English & French versions)*
