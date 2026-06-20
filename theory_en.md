@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Theory (EN)"
+title: "Theory — Cognitive Trapeze Framework"
+description: "Theoretical foundations of the Cognitive Trapeze: language–thought dynamics and AI-mediated cognition."
 permalink: /theory_en/
+lang: en
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
