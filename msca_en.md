@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "MSCA Project (EN)"
+title: "MSCA Project — Cognitive Trapeze"
+description: "MSCA project modeling the co-development of language and thought in AI-augmented learning environments."
 permalink: /msca_en/
+lang: en
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
