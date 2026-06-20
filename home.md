@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Home — Jean Marie Ntsama"
-description: "Research in philosophy of language, cognitive science, AI-augmented learning, and digital literacies."
+description: "Researcher in philosophy of language, cognitive science, AI-augmented learning, and digital literacies across Europe and Africa."
 permalink: /home/
 lang: en
 ---
