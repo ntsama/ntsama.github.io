@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "À propos (FR)"
+title: "À propos — Profil académique"
+description: "Profil académique de Jean Marie Ntsama : philosophie du langage, sciences cognitives, apprentissage augmenté par IA."
 permalink: /about_fr/
+lang: fr
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
