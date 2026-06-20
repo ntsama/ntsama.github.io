@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Home — Jean Marie Ntsama"
-description: "Researcher in philosophy of language, cognitive science, AI-augmented learning, and digital literacies across Europe and Africa."
 permalink: /home/
-lang: en
 ---
 
 <div style="text-align:right; margin-top:10px; font-size:0.9rem;">
