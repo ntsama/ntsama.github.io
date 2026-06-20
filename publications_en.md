@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Publications (EN)"
+title: "Publications — Selected Works"
+description: "Academic publications by Jean Marie Ntsama in philosophy of language, cognitive science, and AI education."
 permalink: /publications_en/
+lang: en
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
