@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Projet MSCA (FR)"
+title: "Projet MSCA — Trapèze Cognitif"
+description: "Projet MSCA modélisant le co-développement du langage et de la pensée dans des environnements d’apprentissage augmentés par IA."
 permalink: /msca_fr/
+lang: fr
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
