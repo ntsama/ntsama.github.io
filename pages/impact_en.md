@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Impact — Outreach & Innovation"
-description: "Impact, outreach, and educational innovation initiatives across Europe and Africa."
 permalink: /impact/
-lang: en
 ---
 
 # Impact & Outreach  
