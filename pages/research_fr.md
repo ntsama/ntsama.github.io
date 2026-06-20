@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Recherche — Langage, Pensée & IA"
-description: "Recherche sur la co-évolution du langage et de la pensée dans des environnements d’apprentissage médiés par IA."
 permalink: /research_fr/
-lang: fr
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
