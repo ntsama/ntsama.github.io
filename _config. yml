@@ -1,24 +1,43 @@
-theme: jekyll-theme-cayman
-title: "Jean Marie Ntsama"
-description: "Philosopher of Language • AI & Cognition"
+# ============================================================
+#   CONFIGURATION PRINCIPALE — THEME AL-FOLIO
+# ============================================================
 
-nav:
+remote_theme: alshedivat/al-folio@v0.11.0
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ============================================================
+#   INFORMATIONS DU SITE
+# ============================================================
+
+title: "Jean Marie Ntsama"
+description: "Philosopher of Language • Cognitive Science • AI-Augmented Learning"
+
+url: "https://ntsama.github.io"
+baseurl: ""   # IMPORTANT : ton site est à la racine
+
+# ============================================================
+#   NAVIGATION PRINCIPALE (sera adaptée après migration)
+# ============================================================
+
+navbar:
   - title: "Home"
     url: /home/
   - title: "About"
-    url: /about_en/
-  - title: "Theory"
-    url: /theory_en/
+    url: /about/
   - title: "Research"
-    url: /research_en/
+    url: /research/
   - title: "MSCA Project"
-    url: /msca_en/
+    url: /msca/
   - title: "IA_4_ZEP"
-    url: /ia4zep_en/
+    url: /ia4zep/
   - title: "Publications"
-    url: /publications_en/
+    url: /publications/
   - title: "Teaching"
-    url: /teaching_en/
+    url: /teaching/
   - title: "Impact"
     url: /impact/
   - title: "FAQ"
@@ -26,6 +45,45 @@ nav:
   - title: "Contact"
     url: /contact/
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
+# ============================================================
+#   PARAMÈTRES AL-FOLIO
+# ============================================================
+
+theme_settings:
+  appearance: "auto"     # auto / light / dark
+  back_to_top: true
+  show_social_icons: true
+  show_author: true
+
+# ============================================================
+#   INFORMATIONS AUTEUR (affichées dans sidebar + SEO)
+# ============================================================
+
+author:
+  name: "Jean Marie Ntsama"
+  bio: "Philosopher of Language • Cognitive Science • AI-Augmented Learning"
+  avatar: "/assets/photo.jpg"
+  email: "your-email@example.com"
+  github: "ntsama"
+  linkedin: "jean-marie-ntsama"
+  # ajouter ORCID, Google Scholar, ResearchGate si tu veux
+
+# ============================================================
+#   SEO + SITEMAP
+# ============================================================
+
+seo:
+  type: "Person"
+  name: "Jean Marie Ntsama"
+
+# ============================================================
+#   COLLECTIONS AL-FOLIO (activées plus tard)
+# ============================================================
+
+collections:
+  publications:
+    output: true
+  projects:
+    output: true
+  teaching:
+    output: true
