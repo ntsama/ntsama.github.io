@@ -25,3 +25,15 @@ nav:
     url: /faq/
   - title: "Contact"
     url: /contact/
+title: "Jean Marie Ntsama — Cognitive Science & AI"
+description: "Philosophy of Language • Cognitive Science • AI-Augmented Learning • Digital Literacies"
+author: "Jean Marie Ntsama"
+
+# SEO
+url: "https://ntsama.github.io"
+baseurl: ""
+timezone: "Europe/Amsterdam"
+
+# Plugins SEO
+plugins:
+  - jekyll-seo-tag
