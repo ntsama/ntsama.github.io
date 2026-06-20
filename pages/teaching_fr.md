@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: page
 title: "Enseignement — Cours & Pédagogie"
-description: "Activités d’enseignement, cours et approches pédagogiques en sciences cognitives et IA éducative."
 permalink: /teaching_fr/
-lang: fr
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
