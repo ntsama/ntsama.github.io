@@ -28,6 +28,8 @@ navbar:
     url: /publications_en/
   - title: "Teaching"
     url: /teaching_en/
+  - title: "cv"
+    url: /cv_en/
   - title: "Impact"
     url: /impact_en/
   - title: "FAQ"
