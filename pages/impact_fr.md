@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Impact — Diffusion & Innovation"
-permalink: /impact/
+permalink: /impact_fr/
 lang: fr
 ---
 <div style="text-align:right; font-size:0.9rem;">
