@@ -1,9 +1,13 @@
 ---
 layout: page
 title: "Impact — Diffusion & Innovation"
-permalink: /impact_fr/
+permalink: /impact/
 lang: fr
 ---
+<div style="text-align:right; font-size:0.9rem;">
+  🌐 <a href="/impact/">FR</a> | <a href="/impact_en/">EN</a>
+</div
+
 ## Diffusion scientifique, engagement public et innovation pédagogique
 
 # 🇫🇷 Version Française
