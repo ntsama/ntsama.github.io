@@ -5,10 +5,8 @@ permalink: /about_en/
 lang: en
 ---
 
-<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
-  🌐 
-  <a href="/about_en" style="margin-right:6px; font-weight:bold;">EN</a> |
-  <a href="/about_fr" style="margin-left:6px; font-weight:bold;">FR</a>
+<div style="text-align:right; font-size:0.85rem;">
+  <a href="/about_fr" style="font-weight:bold;">FR</a>
 </div>
 
 # About  
