@@ -5,11 +5,9 @@ permalink: /news/
 lang: en
 ---
 
-<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
-  🌐 
-  <a href="/news_en" style="margin-right:6px; font-weight:bold;">EN</a> |
-  <a href="/news_fr" style="margin-left:6px; font-weight:bold;">FR</a>
-</div>
+<div style="text-align:right; font-size:0.9rem;">
+  🌐 <a href="/news/">FR</a> | <a href="/news_en/">EN</a>
+</div
 
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
