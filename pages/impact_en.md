@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Impact — Outreach & Innovation"
-permalink: /impact_en/
+permalink: /impact/
 lang: en
 ---
 
