@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "IA_4_ZEP — IA pour les Zones Prioritaires"
-permalink: /ia4zep/
+permalink: /ia4zep_fr/
 lang: fr
 ---
 
