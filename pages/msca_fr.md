@@ -138,10 +138,10 @@ Le plan de formation comprend :
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about_en">About</a> •
-  <a href="/theory_en">Theory</a> •
-  <a href="/research_en">Research</a> •
-  <a href="/msca_en">MSCA</a> •
-  <a href="/ia4zep_en">IA_4_ZEP</a> •
+  <a href="/about">About</a> •
+  <a href="/theory">Theory</a> •
+  <a href="/research">Research</a> •
+  <a href="/msca">MSCA</a> •
+  <a href="/ia4zep">IA_4_ZEP</a> •
   <a href="/faq">FAQ</a>
 </div>
