@@ -3,11 +3,12 @@ layout: page
 title: "Recherche — Langage, Pensée & IA"
 permalink: /research_fr/
 lang: fr
+description: "Programme de recherche de Jean Marie Ntsama — dynamiques langage–pensée, apprentissage augmenté par IA, littératies numériques et modélisation computationnelle."
 ---
 
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/research/">FR</a> | <a href="/research_en/">EN</a>
-</div
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/research/" style="font-weight:bold;">EN</a>
+</div>
 
 # Recherche  
 ## Programme scientifique & Vision de recherche  
@@ -100,10 +101,10 @@ Il offre un cadre cohérent pour :
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about">About</a> •
-  <a href="/theory">Theory</a> •
-  <a href="/research">Research</a> •
-  <a href="/msca">MSCA</a> •
-  <a href="/ia4zep">IA_4_ZEP</a> •
-  <a href="/faq">FAQ</a>
+  <a href="/about_fr/">À propos</a> •
+  <a href="/theory_fr/">Théorie</a> •
+  <a href="/research_fr/">Recherche</a> •
+  <a href="/msca_fr/">MSCA</a> •
+  <a href="/ia4zep_fr/">IA_4_ZEP</a> •
+  <a href="/faq_fr/">FAQ</a>
 </div>
