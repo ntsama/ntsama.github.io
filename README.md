@@ -1,77 +1,128 @@
+---
+
 # ntsama.github.io
 
-Ce site constitue le portfolio académique de Dr Jean Marie Ntsama.  
-Il présente ses travaux de recherche, ses publications, ses projets, ainsi que les ressources liées à l’initiative IA_4_ZEP (Artificial Intelligence for Education in Priority Zones).
+Ce site constitue le portfolio académique officiel de Dr Jean Marie Ntsama.  
+Il présente ses travaux de recherche, ses publications, ses projets, ainsi que les ressources liées à l’initiative IA4ZEP (Artificial Intelligence for Education in Priority Zones).
+
+Le site est construit avec GitHub Pages et le thème académique al‑folio.
 
 ---
 
-## 1. Présentation générale
+1. Présentation générale
 
 Le site regroupe :
-- les informations professionnelles et biographiques
-- les publications scientifiques
-- les projets de recherche
-- les activités pédagogiques
-- les ressources IA_4_ZEP
-- les supports visuels et documents institutionnels
 
-Il est conçu comme un espace académique clair, structuré et accessible.
+- informations professionnelles et biographiques  
+- publications scientifiques  
+- projets de recherche  
+- activités pédagogiques  
+- conférences et interventions  
+- ressources IA4ZEP  
+- documents institutionnels et visuels 
+- FAQ technique et académique  
 
----
-
-## 2. Structure du site
-
-Le dépôt contient les pages principales du portfolio :
-
-- index.md : page d’accueil
-- about.md : présentation académique
-- publications.md : liste des publications
-- theory.md : travaux théoriques
-- ia4zep.md : présentation du projet IA_4_ZEP
-- assets/ : ressources visuelles et documents
+L’objectif est de proposer un espace académique clair, structuré, bilingue (EN/FR) et optimisé pour le référencement.
 
 ---
 
-## 3. Ressources IA_4_ZEP
+2. Structure du site
 
-Les éléments visuels du projet IA_4_ZEP sont organisés dans des dossiers dédiés.
+Le site est organisé en pages bilingues, avec une version EN (par défaut) et une version FR.
 
-### Bannières officielles
+📌 Pages principales (EN)
 
-IA_4_ZEP_Banners/
+- / — Page d’accueil  
+- /about/ — Présentation académique  
+- /theory/ — Modèle du Trapèze Cognitif  
+- /research/ — Programme scientifique  
+- /projects/ — Projets de recherche  
+- /msca/ — Projet MSCA Cognitive Trapeze  
+- /ia4zep/ — Initiative IA4ZEP  
+- /publications/ — Publications  
+- /teaching/ — Enseignement  
+- /talks/ — Conférences  
+- /faq/ — FAQ technique et académique  
+- /contact/ — Contact  
+
+📌 Pages principales (FR)
+
+- /index_fr/ — Page d’accueil FR  
+- /about_fr/  
+- /theory_fr/  
+- /research_fr/  
+- /projects_fr/  
+- /msca_fr/  
+- /ia4zep_fr/  
+- /publications_fr/  
+- /teaching_fr/  
+- /talks_fr/  
+- /faq_fr/  
+- /contact_fr/  
+
+---
+
+3. Ressources IA4ZEP
+
+Les éléments visuels du projet IA4ZEP sont organisés dans des dossiers dédiés.
+
+📌 Bannières officielles
+
+`
+IA4ZEP_Banners/
 │
 ├── Facebook/
-│   └── IA4ZEP_Facebook_Cover.png
+│   └── IA4ZEPFacebookCover.png
 ├── YouTube/
-│   └── IA4ZEP_YouTube_Banner.png
+│   └── IA4ZEPYouTubeBanner.png
 └── LinkedIn/
-    └── IA4ZEP_LinkedIn_Banner.png
+    └── IA4ZEPLinkedInBanner.png
+`
 
-### Charte graphique
+📌 Charte graphique
 
-IA_4_ZEP_Charte/
+`
+IA4ZEP_Charte/
 │
 ├── Logos/
 ├── Banners/
 └── Colors_Typography/
+`
 
-La charte graphique complète est disponible dans le fichier :
-IA_4_ZEP_Charte/README.md
+La charte graphique complète est disponible dans :  
+IA4ZEP_Charte/README.md
 
 ---
 
-## 4. Objectif du site
+4. Objectifs du site
 
 Ce site a pour vocation :
-- de présenter les travaux de recherche de Dr Jean Marie Ntsama
-- de rendre accessibles les ressources IA_4_ZEP
-- de proposer un espace académique cohérent et structuré
-- de centraliser les documents professionnels et institutionnels
+
+- de présenter les travaux de recherche de Dr Jean Marie Ntsama  
+- de rendre accessibles les ressources IA4ZEP  
+- de proposer un espace académique cohérent et structuré  
+- de centraliser les documents professionnels et institutionnels  
+- d’assurer une visibilité internationale (Europe–Afrique)  
+- d’offrir une navigation bilingue claire et professionnelle  
 
 ---
 
-## 5. Crédits
+5. Technologies utilisées
 
-Direction : Dr Jean Marie Ntsama  
-Développement et structuration : Microsoft Copilot (assistance)  
-Hébergement : GitHub Pages
+- GitHub Pages  
+- Jekyll  
+- Thème al‑folio  
+- Markdown / HTML  
+- SEO optimisé  
+- Structure bilingue EN/FR  
+
+---
+
+6. Crédits
+
+- Direction scientifique : Dr Jean Marie Ntsama  
+- Développement & structuration : Microsoft Copilot (assistance)  
+- Hébergement : GitHub Pages  
+`
+
+---
