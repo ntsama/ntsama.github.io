@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research — Language, Thought & AI"
-permalink: /research/
+permalink: /research_en/
 lang: en
 ---
 
