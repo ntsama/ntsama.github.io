@@ -37,8 +37,6 @@ navbar:
     url: /faq/
   - title: "Contact"
     url: /contact/
-  - title: "CV"
-    url: /cv/
 
 # ---------------------------------------------------------
 # COLLECTIONS (al-folio)
