@@ -15,23 +15,23 @@ navbar:
   - title: "Home"
     url: /home/
   - title: "About"
-    url: /about_en/
+    url: /about/
   - title: "Theory"
-    url: /theory_en/
+    url: /theory/
   - title: "Research"
-    url: /research_en/
+    url: /research/
   - title: "MSCA Project"
-    url: /msca_en/
+    url: /msca/
   - title: "IA_4_ZEP"
     url: /ia4zep/
   - title: "Publications"
-    url: /publications_en/
+    url: /publications/
   - title: "Teaching"
-    url: /teaching_en/
+    url: /teaching/
   - title: "cv"
-    url: /cv_en/
+    url: /cv/
   - title: "Impact"
-    url: /impact_en/
+    url: /impact/
   - title: "FAQ"
     url: /faq/
   - title: "Contact"
