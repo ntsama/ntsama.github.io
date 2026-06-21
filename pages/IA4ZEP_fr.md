@@ -6,7 +6,7 @@ lang: fr
 ---
 
 <div style="text-align:right; font-size:0.85rem;">
-  <a href="/research" style="font-weight:bold;">EN</a>
+  <a href="/research_en" style="font-weight:bold;">EN</a>
 </div>
 
 # IA_4_ZEP  
