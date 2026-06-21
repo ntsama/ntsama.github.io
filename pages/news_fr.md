@@ -68,10 +68,13 @@ Une archive chronologique sera ajoutée au fur et à mesure de l’évolution du
 
 <hr style="margin-top:40px;">
 
-<div style="text-align:center; font-size:0.85rem; opacity:0.8%;">
-  <a href="/about_fr">À propos</a> • 
-  <a href="/theory_fr">Théorie</a> • 
-  <a href="/research_fr">Recherche</a> • 
-  <a href="/msca_fr">MSCA</a> • 
-  <a href="/ia4zep_fr">IA_4_ZEP</a>
+<div style="text-align:center; font-size:0.85rem; opacity:0.85;">
+  <a href="/about">About</a> •
+  <a href="/theory">Theory</a> •
+  <a href="/research">Research</a> •
+  <a href="/msca">MSCA</a> •
+  <a href="/ia4zep">IA_4_ZEP</a> •
+  <a href="/faq">FAQ</a>
+</div><div style="text-align:right; font-size:0.85rem;">
+  <a href="/research_fr" style="font-weight:bold;">FR</a>
 </div>
