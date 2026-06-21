@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV – English Version"
-permalink: /cv_en/
+permalink: /cv/
 lang: en
 ---
 
