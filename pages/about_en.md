@@ -6,6 +6,7 @@ lang: en
 ---
 
 <div style="text-align:right; font-size:0.85rem;">
+   🌐
   <a href="/about_fr" style="font-weight:bold;">FR</a>
 </div>
 
