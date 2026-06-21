@@ -2,10 +2,16 @@
 layout: page
 title: "Talks"
 permalink: /talks/
+lang: en
+description: "Academic talks, conferences, and presentations by Jean Marie Ntsama."
 ---
 
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/talks_fr/" style="font-weight:bold;">FR</a>
+</div>
+
 # Talks  
-# Conférences — Version Bilingue
+## Academic Talks, Conferences & Workshops  
 
 ---
 
@@ -62,4 +68,54 @@ Topics include:
 
 ### **1. Dynamique Langage–Pensée : Fondements du Modèle du Trapèze Cognitif**  
 Conférence invitée présentant :  
-- l’interrelation
+- l’interrelation entre langage et pensée  
+- le développement cognitif  
+- les implications pour l’apprentissage augmenté par IA  
+
+### **2. Littératies Numériques & Apprentissage Assisté par IA**  
+Présentation portant sur :  
+- l’impact des outils numériques sur l’écriture et la cognition  
+- l’apprentissage multimodal  
+- la pédagogie inclusive en environnements numériques  
+
+### **3. Neurodiversité, Dyslexie & Compensation Cognitive**  
+Intervention explorant :  
+- les troubles du langage  
+- les stratégies cognitives  
+- l’apprentissage multimodal et adaptatif  
+
+---
+
+## 🌍 Séminaires & Ateliers Internationaux
+
+### **4. Dialogues Europe–Afrique en Recherche**  
+Ateliers portant sur :  
+- l’éducation multilingue  
+- les littératies numériques  
+- la modélisation cognitive interculturelle  
+
+### **5. Séminaires de Philosophie du Langage & Sciences Cognitives**  
+Thèmes abordés :  
+- origines du langage  
+- développement conceptuel  
+- acquisition du langage  
+
+---
+
+## 🗓 Conférences à Venir  
+- Trapèze Cognitif : modélisation computationnelle  
+- Systèmes d’apprentissage augmentés par IA  
+- Dynamiques cognitives multilingues  
+
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.85;">
+  <a href="/about/">About</a> •
+  <a href="/theory/">Theory</a> •
+  <a href="/research/">Research</a> •
+  <a href="/msca/">MSCA</a> •
+  <a href="/ia4zep/">IA_4_ZEP</a> •
+  <a href="/faq/">FAQ</a>
+</div>
