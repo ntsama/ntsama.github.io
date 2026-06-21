@@ -1,13 +1,15 @@
 ---
 layout: page
-title: "CV – English Version"
+title: "CV — English Version"
 permalink: /cv/
 lang: en
+description: "English CV of Jean Marie Ntsama — philosophy of language, cognitive science, linguistics, and AI-augmented learning."
 ---
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/cv/">FR</a> | <a href="/cv_en/">EN</a>
-</div
-  
+
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/cv_fr/" style="font-weight:bold;">FR</a>
+</div>
+
 <p style="text-align:center;">
   <img src="/assets/photo.jpg"
        alt="Jean Marie Ntsama"
@@ -23,9 +25,9 @@ lang: en
 
 # **Curriculum Vitae — Jean Marie NTSAMA**
 
-Researcher in philosophy of language, cognitive science, linguistics, and AI‑augmented learning.  
+Researcher in **philosophy of language, cognitive science, linguistics, and AI‑augmented learning**.  
 Developer of the **Cognitive Trapeze & Pedagogical Swing Model**.  
-Teacher at Lycée Technique Bilingue de Ngaoundéré Mardock.  
+Teacher at **Lycée Technique Bilingue de Ngaoundéré Mardock**.  
 Founder of the **IA_4_ZEP** program.  
 Email: **jean.m.ntsama@gmail.com**
 
@@ -34,7 +36,7 @@ Email: **jean.m.ntsama@gmail.com**
 ## 📥 Download CV (PDF)
 
 <p style="text-align:center; margin-top:20px;">
-  <a href="/assets/CV_Jean_Marie_Ntsama_EN.pdf" download
+  <a href="/assets/pdf/CV_Jean_Marie_Ntsama_EN.pdf" download
      style="
        background:#444;
        color:white;
@@ -51,35 +53,48 @@ Email: **jean.m.ntsama@gmail.com**
 
 ---
 
-## 🎓 Education
+## 🎓 Education  
 PhD in Philosophy (2022), Master II in Philosophy of Science and Language (2011), BA in Modern French Letters, BA in Philosophy, DIPES I & II.
 
 ---
 
-## 🧠 Research Interests
+## 🧠 Research Interests  
 Language–thought dynamics, philosophy of language, cognitive science, linguistics, AI‑augmented learning, digital literacies, multilingual cognition, conceptual modeling.
 
 ---
 
-## 👨‍🏫 Professional Experience
+## 👨‍🏫 Professional Experience  
 Teacher (LTB Ngaoundéré), Teacher (IAI Cameroon), Head of SIGIPES Center, Head of IT Unit, Developer of SPS DRES‑AD.
 
 ---
 
-## 📚 Publications
+## 📚 Publications  
 2 books (EUE, 2013), 2 articles (2021, 2023).
 
 ---
 
-## 🔬 Research Projects
+## 🔬 Research Projects  
 Cognitive Trapeze (MSCA), IA_4_ZEP.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills  
 Programming, network administration, cybersecurity, conceptual analysis, cognitive modeling, pedagogy, leadership.
 
 ---
 
-## 🌍 Languages
+## 🌍 Languages  
 French, English, Japanese, German.
+
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.85;">
+  <a href="/about/">About</a> •
+  <a href="/theory/">Theory</a> •
+  <a href="/research/">Research</a> •
+  <a href="/msca/">MSCA</a> •
+  <a href="/ia4zep/">IA_4_ZEP</a> •
+  <a href="/faq/">FAQ</a>
+</div>
