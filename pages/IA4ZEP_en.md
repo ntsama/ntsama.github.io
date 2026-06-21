@@ -1,13 +1,12 @@
 ---
 layout: page
 title: "IA_4_ZEP — AI for Priority Education Zones"
-permalink: /ia4zep_en/
+permalink: /ia4zep/
 lang: en
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
   🌐 
-  <a href="/ia4zep_en" style="margin-right:6px; font-weight:bold;">EN</a> |
   <a href="/ia4zep_fr" style="margin-left:6px; font-weight:bold;">FR</a>
 </div>
 
