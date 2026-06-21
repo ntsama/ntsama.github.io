@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Theory — Cognitive Trapeze Framework"
-permalink: /theory_en/
+permalink: /theory/
 lang: en
 ---
 
