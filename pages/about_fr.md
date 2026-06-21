@@ -7,9 +7,7 @@ lang: fr
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
   🌐 
-  <a href="/about_en" style="margin-right:6px; font-weight:bold;">EN</a> |
-  <a href="/about_fr" style="margin-left:6px; font-weight:bold;">FR</a>
-</div>
+  <a href="/about" style="margin-right:6px; font-weight:bold;">EN</a> 
 
 # À propos  
 ## Profil académique & Identité de recherche  
