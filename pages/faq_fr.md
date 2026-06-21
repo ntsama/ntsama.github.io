@@ -1,294 +1,308 @@
 ---
+
+✅ VERSION FINALE — FAQ_FR (mise à jour + enrichie)
+(à remplacer intégralement dans ton fichier)
+
+`markdown
+---
 layout: page
 title: "FAQ — Questions techniques"
 permalink: /faq_fr/
-lang: fe
+lang: fr
+description: "FAQ technique pour ntsama.github.io — GitHub Pages, liens, permalinks, navigation bilingue, images, PDF et erreurs courantes."
 ---
 
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/faq/">FR</a> | <a href="/faq_en/">EN</a>
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/faq/" style="font-weight:bold;">EN</a>
 </div>
 
-# ❓ FAQ Technique — GitHub Pages (ntsama.github.io)
+❓ FAQ Technique — GitHub Pages (ntsama.github.io)
 
-Cette page répond aux questions les plus fréquentes concernant le fonctionnement technique du site, les erreurs possibles et les solutions rapides.
-
----
-
-## 📘 Documentation Technique — Site GitHub Pages (ntsama.github.io)
-
-Ce document regroupe toutes les règles techniques, solutions, bonnes pratiques et procédures de maintenance pour garantir le bon fonctionnement du site GitHub Pages.
+Cette page répond aux questions les plus fréquentes concernant le fonctionnement technique du site, les erreurs possibles, la navigation bilingue et les bonnes pratiques de maintenance.
 
 ---
 
-🟦 1. Structure d’une page GitHub Pages
+🔧 1. Pourquoi ai‑je une erreur 404 – Page introuvable ?
 
-Chaque page doit commencer par un front matter :
+Causes fréquentes :  
+- Le permalink ne correspond pas à l’URL.  
+- Le nom du fichier ne correspond pas (sensible à la casse).  
+- Le fichier n’est pas à la racine du dépôt.  
+- Le lien du menu pointe vers un mauvais chemin.
+
+Front matter correct :
 
 `yaml
 ---
-layout: default
-title: "Titre de la page"
+layout: page
+title: "Titre"
 permalink: /nomdepage/
+lang: fr
 ---
 `
 
-Règles :
-- Le permalink commence et finit par /.
-- Le fichier doit être en .md ou .html.
-- Le titre doit être unique et cohérent.
+Tester l’URL :  
+https://ntsama.github.io/nomdepage/
 
 ---
 
-🟦 2. Règles d’or pour les liens internes
+🔧 2. Pourquoi un bouton ne redirige pas ?
 
-✔️ Toujours utiliser des liens absolus
+Cause principale :  
+Le lien utilise un chemin relatif ou un lien interne Copilot.
 
-Correct :
+❌ Incorrect  
 `
-About (EN)
-`
-
-Incorrect :
-`
-About
-About
+À propos
 `
 
-✔️ Toujours faire correspondre le lien au permalink
-
-Si la page contient :
+❌ Incorrect (Copilot)  
 `
-permalink: /research_en/
+À propos
 `
 
-Alors le lien doit être :
+✅ Correct  
 `
-/research_en/
+À propos
 `
+
+👉 Toujours utiliser des liens absolus commençant par /.
 
 ---
 
-🟦 3. Navigation EN/FR
+🔧 3. Pourquoi certains liens cassent quand j’utilise /home ?
 
-Dans chaque page :
+Parce que les liens relatifs deviennent :
+
+`
+/home/about_fr
+`
+
+au lieu de :
+
+`
+/about_fr/
+`
+
+👉 Solution :  
+Utiliser uniquement des liens absolus.
+
+---
+
+🔧 4. Pourquoi les boutons EN/FR redirigent mal ?
+
+Chaque page doit avoir un seul bouton de langue, pointant vers sa version opposée.
+
+Exemple correct pour une page FR :
 
 `html
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/abouten/">EN</a> | <a href="/aboutfr/">FR</a>
-</div>
+🌐 <a href="/about/">EN</a>
 `
 
-Règles :
-- EN pointe vers la version anglaise.
-- FR pointe vers la version française.
-- Les permalinks doivent exister.
+Exemple correct pour une page EN :
+
+`html
+🌐 <a href="/about_fr/">FR</a>
+`
+
+👉 Ne jamais mélanger EN et FR dans le footer ou le header.
 
 ---
 
-🟦 4. Gestion des erreurs 404
+🔧 5. Pourquoi les images ou PDF ne s’affichent pas ?
 
-Symptômes :
-- Page introuvable
-- Lien cassé
-- Redirection incorrecte
+Causes possibles :  
+- Mauvais chemin  
+- Fichier non placé dans /assets/  
+- Mauvaise casse du nom
 
-Causes :
-- Mauvais permalink
-- Mauvais lien
-- Mauvaise casse du nom de fichier
-- Fichier déplacé
+Image correcte :
 
-Solution rapide :
-1. Vérifier le front matter.
-2. Vérifier le lien dans le menu.
-3. Tester l’URL directe :
-   `
-   https://ntsama.github.io/nomdepage/
-   `
-
----
-
-🟦 5. Boutons qui ne redirigent pas
-
-Causes :
-- Liens Copilot (ca://…)
-- Liens relatifs
-- Permalink manquant
-
-Solution :
-Remplacer par des liens absolus :
-
-`
-IA4ZEP (EN)
-`
-
----
-
-🟦 6. Problèmes d’images ou PDF
-
-Causes :
-- Mauvais chemin
-- Fichier non placé dans assets/
-- Mauvaise casse
-
-Solution :
 `html
 <img src="/assets/photo.jpg" alt="Jean Marie Ntsama">
 `
 
-Pour un PDF :
+PDF correct :
+
 `markdown
-Download CV
+Télécharger le CV
 `
 
 ---
 
-🟦 7. Délai de mise à jour GitHub Pages
+🔧 6. Pourquoi GitHub Pages ne met pas à jour immédiatement ?
 
-GitHub Pages peut prendre 10 à 60 secondes pour se rafraîchir.
+GitHub Pages peut prendre 10 à 60 secondes pour reconstruire le site.
 
-Solutions :
-- Attendre quelques secondes
-- Rafraîchir la page
-- Vider le cache si nécessaire
-
----
-
-🛠️ 8. Guide de résolution — Étape par étape
-
-🟩 Étape 1 — Identifier le problème
-Note :
-- L’URL exacte
-- Le bouton cliqué
-- Le message affiché
+Solutions :  
+- Attendre quelques secondes  
+- Rafraîchir la page  
+- Forcer le rafraîchissement (Ctrl+Shift+R)  
+- Vider le cache du navigateur  
 
 ---
 
-🟩 Étape 2 — Vérifier le fichier
-Ouvrir le fichier correspondant et vérifier :
+🔧 7. Pourquoi mon menu ne s’affiche pas correctement ?
+
+Causes fréquentes :  
+- Présence de deux blocs navigation: dans _config.yml  
+- Mauvaise indentation YAML  
+- Tirets manquants  
+- Caractères invisibles (copiés depuis Word/PDF)
+
+Exemple correct :
 
 `yaml
----
-layout: default
-title: "Titre"
-permalink: /nomdepage/
----
+navigation:
+  - title: "À propos"
+    url: /about_fr/
+  - title: "Recherche"
+    url: /research_fr/
 `
 
 ---
 
-🟩 Étape 3 — Vérifier le lien
-Le lien doit être :
+🔧 8. Pourquoi ma page n’apparaît pas dans le menu ?
 
+Parce que al‑folio n’ajoute pas automatiquement les pages.  
+Il faut les ajouter manuellement dans _config.yml.
+
+---
+
+🔧 9. Pourquoi ma mise en page est cassée ?
+
+Causes :  
+- Balises HTML non fermées (</div>)  
+- Absence de ligne vide après le front matter  
+- Markdown placé dans un bloc HTML sans espace
+
+Solution :  
+Toujours laisser une ligne vide après le front matter.
+
+---
+
+🔧 10. Comment structurer correctement le bilingue ?
+
+Chaque page doit avoir son paire EN/FR :
+
+| Page EN | Page FR |
+|---------|---------|
+| /about/ | /about_fr/ |
+| /research/ | /research_fr/ |
+| /teaching/ | /teaching_fr/ |
+| /projects/ | /projects_fr/ |
+| /msca/ | /msca_fr/ |
+| /faq/ | /faq_fr/ |
+
+👉 Le footer doit correspondre à la langue de la page.
+
+---
+
+🧠 FAQ Académique — Recherche & Pédagogie
+
+---
+
+📘 11. Qu’est‑ce que le Modèle du Trapèze Cognitif ?
+
+Un cadre dynamique décrivant comment les apprenants se déplacent entre :  
+- structures linguistiques  
+- représentations cognitives  
+- points d’appui conceptuels  
+- médiation technologique  
+
+Il explique comment l’IA influence le raisonnement et la métacognition.
+
+---
+
+📘 12. Qu’est‑ce que la Balançoire Pédagogique ?
+
+Une extension éducative du Trapèze Cognitif.  
+Elle modélise le rythme de l’apprentissage :  
+- stabilité → compréhension  
+- exploration → découverte  
+
+---
+
+📘 13. Comment votre recherche influence‑t‑elle votre enseignement ?
+
+Mon enseignement intègre :  
+- dynamiques langage–pensée  
+- apprentissage augmenté par IA  
+- littératies numériques  
+- cognition multilingue  
+- modélisation cognitive  
+
+---
+
+📘 14. Qu’est‑ce que le programme IA4ZEP ?
+
+Un programme dédié à :  
+- l’autonomisation numérique  
+- la pédagogie assistée par IA  
+- l’inclusion en zones prioritaires  
+- les pratiques multilingues  
+- la formation des enseignants  
+
+---
+
+🛠️ Guide de résolution — Étapes
+
+---
+
+🟩 Étape 1 — Identifier le problème
+Noter :  
+- l’URL  
+- le bouton cliqué  
+- le message affiché  
+
+🟩 Étape 2 — Vérifier le fichier
+`yaml
+---
+layout: page
+title: "Titre"
+permalink: /nomdepage/
+lang: fr
+---
+`
+
+🟩 Étape 3 — Vérifier le lien
 `
 /nomdepage/
 `
 
----
-
 🟩 Étape 4 — Tester l’URL directe
-Dans le navigateur :
-
 `
 https://ntsama.github.io/nomdepage/
 `
 
----
-
 🟩 Étape 5 — Vérifier la casse
-- abouten.md ≠ Abouten.md
-- Researchen.md ≠ researchen.md
-
----
+aboutfr.md ≠ AboutFr.md
 
 🟩 Étape 6 — Attendre la propagation
-GitHub Pages peut mettre un petit délai.
 
----
-
-🟩 Étape 7 — Créer une page de test si nécessaire
-
+🟩 Étape 7 — Créer une page de test
 `markdown
 ---
-layout: default
+layout: page
 title: "Test Page"
 permalink: /test_page/
 ---
 
-Test Page
-`
-
-Tester :
-`
-https://ntsama.github.io/test_page/
+Page de test
 `
 
 ---
 
-🟦 9. Modèles prêts à l’emploi
+<hr style="margin-top:40px;">
 
-Modèle EN
-`markdown
----
-layout: default
-title: "About (EN)"
-permalink: /about_en/
----
-
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/abouten/">EN</a> | <a href="/aboutfr/">FR</a>
+<div style="text-align:center; font-size:0.85rem; opacity:0.85;">
+  <a href="/about_fr/">À propos</a> •
+  <a href="/theory_fr/">Théorie</a> •
+  <a href="/research_fr/">Recherche</a> •
+  <a href="/msca_fr/">MSCA</a> •
+  <a href="/ia4zepfr/">IA4_ZEP</a> •
+  <a href="/faq_fr/">FAQ</a>
 </div>
-
-About (EN)
 `
 
-Modèle FR
-`markdown
----
-layout: default
-title: "À propos (FR)"
-permalink: /about_fr/
----
-
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/abouten/">EN</a> | <a href="/aboutfr/">FR</a>
-</div>
-
-À propos (FR)
-`
-
----
-
-🟦 10. Checklist de maintenance
-
-✔️ Avant d’ajouter une page
-- Nom du fichier correct
-- Front matter complet
-- Permalink défini
-
-✔️ Avant d’ajouter un lien
-- Lien absolu
-- Correspondance exacte avec le permalink
-
-✔️ Après modification
-- Tester l’URL directe
-- Tester depuis /home
-- Tester depuis le menu
-- Tester depuis le footer
-
----
-
-📬 Besoin d’aide ?
-
-En cas de dysfonctionnement, note :
-- la page concernée  
-- le bouton cliqué  
-- le comportement observé  
-
-
-
-layout: default
-title: "Titre"
-permalink: /nom_de_page/
 ---
