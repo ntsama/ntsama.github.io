@@ -2,6 +2,7 @@
 layout: page
 title: "FAQ — Questions techniques"
 permalink: /faq_fr/
+lang: fe
 ---
 
 <div style="text-align:right; font-size:0.9rem;">
