@@ -2,6 +2,7 @@
 layout: page
 title: "News & Updates (EN)"
 permalink: /news_en/
+lang: en
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
