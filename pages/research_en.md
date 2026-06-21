@@ -3,11 +3,12 @@ layout: page
 title: "Research — Language, Thought & AI"
 permalink: /research/
 lang: en
+description: "Research program of Jean Marie Ntsama — language–thought dynamics, AI-augmented learning, digital literacies, and computational modeling."
 ---
 
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/research/">FR</a> | <a href="/research_en/">EN</a>
-</div
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/research_fr/" style="font-weight:bold;">FR</a>
+</div>
 
 # Research  
 ## Scientific Program & Research Vision  
@@ -100,10 +101,10 @@ It provides a coherent framework for:
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about">About</a> •
-  <a href="/theory">Theory</a> •
-  <a href="/research">Research</a> •
-  <a href="/msca">MSCA</a> •
-  <a href="/ia4zep">IA_4_ZEP</a> •
-  <a href="/faq">FAQ</a>
+  <a href="/about/">About</a> •
+  <a href="/theory/">Theory</a> •
+  <a href="/research/">Research</a> •
+  <a href="/msca/">MSCA</a> •
+  <a href="/ia4zep/">IA_4_ZEP</a> •
+  <a href="/faq/">FAQ</a>
 </div>
