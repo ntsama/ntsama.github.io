@@ -23,7 +23,7 @@ navbar:
   - title: "MSCA Project"
     url: /msca_en/
   - title: "IA_4_ZEP"
-    url: /ia4zep_en/
+    url: /ia4zep/
   - title: "Publications"
     url: /publications_en/
   - title: "Teaching"
