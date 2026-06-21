@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Teaching — Courses & Pedagogy"
-permalink: /teaching/
+permalink: /teaching_en/
 lang: en
 ---
 
