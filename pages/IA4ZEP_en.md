@@ -5,9 +5,8 @@ permalink: /ia4zep/
 lang: en
 ---
 
-<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
-  🌐 
-  <a href="/ia4zep_fr" style="margin-left:6px; font-weight:bold;">FR</a>
+<div style="text-align:right; font-size:0.85rem;">
+  <a href="/research_fr" style="font-weight:bold;">FR</a>
 </div>
 
 # IA_4_ZEP  
