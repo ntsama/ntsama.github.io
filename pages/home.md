@@ -2,12 +2,12 @@
 layout: page
 title: "Home — Jean Marie Ntsama"
 permalink: /home/
+lang: en
+description: "Academic homepage of Jean Marie Ntsama — philosophy of language, cognitive science, AI-augmented learning."
 ---
 
-<div style="text-align:right; margin-top:10px; font-size:0.9rem;">
-  🌐 
- <a href="/home">EN</a>
- <a href="/home_fr">FR</a>
+<div style="text-align:right; margin-top:10px; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/home_fr/" style="font-weight:bold;">FR</a>
 </div>
 
 # Jean Marie Ntsama  
@@ -25,11 +25,11 @@ My work explores how **language and thought co‑develop** in technologically me
 I develop the **Cognitive Trapeze & Pedagogical Swing Model**, a framework describing how learners navigate between linguistic structures, cognitive representations, and AI‑mediated tools.
 
 ### Explore my work  
-- **[About (EN)](ca://s?q=Open_About_Page)**  
-- **[Theory (EN)](ca://s?q=Open_Theory_Page)**  
-- **[Research (EN)](ca://s?q=Open_Research_Page)**  
-- **[MSCA Project (EN)](ca://s?q=Open_MSCA_Page)**  
-- **[IA_4_ZEP (EN)](ca://s?q=Open_IA4ZEP_Page)**
+- <a href="/about/">About</a>  
+- <a href="/theory/">Theory</a>  
+- <a href="/research/">Research</a>  
+- <a href="/msca/">MSCA Project</a>  
+- <a href="/ia4zep/">IA_4_ZEP</a>  
 
 ---
 
@@ -42,11 +42,11 @@ Mes travaux étudient comment **langage et pensée co‑évoluent** dans des env
 Je développe le **Modèle du Trapèze Cognitif & de la Balançoire Pédagogique**, qui décrit comment les apprenants naviguent entre structures linguistiques, représentations cognitives et outils médiés par IA.
 
 ### Explorer mes travaux  
-- **[À propos (FR)](ca://s?q=Ouvrir_A_propos)**  
-- **[Théorie (FR)](ca://s?q=Ouvrir_Theorie)**  
-- **[Recherche (FR)](ca://s?q=Ouvrir_Recherche)**  
-- **[Projet MSCA (FR)](ca://s?q=Ouvrir_MSCA)**  
-- **[IA_4_ZEP (FR)](ca://s?q=Ouvrir_IA4ZEP)**
+- <a href="/about_fr/">À propos</a>  
+- <a href="/theory_fr/">Théorie</a>  
+- <a href="/research_fr/">Recherche</a>  
+- <a href="/msca_fr/">Projet MSCA</a>  
+- <a href="/ia4zep_fr/">IA_4_ZEP</a>  
 
 ---
 
@@ -82,5 +82,18 @@ AI for education in priority zones (Africa–Europe initiative).
 # 📬 Contact  
 - **Email:** jean.m.ntsama@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/jean-marie-ntsama  
-- **GitHub:** https://ntsama.github.io/home  
-- **YouTube (NJM WebTV):** https://www.youtube.com/@NJMWebTV
+- **GitHub:** https://ntsama.github.io/  
+- **YouTube (NJM WebTV):** https://www.youtube.com/@NJMWebTV  
+
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.85;">
+  <a href="/about/">About</a> •
+  <a href="/theory/">Theory</a> •
+  <a href="/research/">Research</a> •
+  <a href="/msca/">MSCA</a> •
+  <a href="/ia4zep/">IA_4_ZEP</a> •
+  <a href="/faq/">FAQ</a>
+</div>
