@@ -11,16 +11,19 @@ description: "Philosopher of Language • Cognitive Science • AI-Augmented Lea
 url: "https://ntsama.github.io"
 baseurl: ""
 
+# ---------------------------------------------------------
+# NAVIGATION PRINCIPALE (EN — langue par défaut du site)
+# ---------------------------------------------------------
 navbar:
-  - title: "Home"
-    url: /home/
   - title: "About"
     url: /about/
   - title: "Theory"
     url: /theory/
   - title: "Research"
     url: /research/
-  - title: "MSCA Project"
+  - title: "Projects"
+    url: /projects/
+  - title: "MSCA"
     url: /msca/
   - title: "IA_4_ZEP"
     url: /ia4zep/
@@ -28,15 +31,16 @@ navbar:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
-  - title: "cv"
-    url: /cv/
-  - title: "Impact"
-    url: /impact/
+  - title: "Talks"
+    url: /talks/
   - title: "FAQ"
     url: /faq/
   - title: "Contact"
     url: /contact/
 
+# ---------------------------------------------------------
+# COLLECTIONS (al-folio)
+# ---------------------------------------------------------
 collections:
   publications:
     output: true
