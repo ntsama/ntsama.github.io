@@ -3,11 +3,12 @@ layout: page
 title: "MSCA Project — Cognitive Trapeze"
 permalink: /msca/
 lang: en
+description: "MSCA Project — Cognitive Trapeze: modeling language–thought dynamics in AI-augmented learning."
 ---
 
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/msca/">FR</a> | <a href="/msca_en/">EN</a>
-</div
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/msca_fr/" style="font-weight:bold;">FR</a>
+</div>
 
 # MSCA Project  
 ## Cognitive Trapeze: Modeling Language–Thought Dynamics in AI‑Augmented Learning  
@@ -138,10 +139,10 @@ The training plan includes:
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about">About</a> •
-  <a href="/theory">Theory</a> •
-  <a href="/research">Research</a> •
-  <a href="/msca">MSCA</a> •
-  <a href="/ia4zep">IA_4_ZEP</a> •
-  <a href="/faq">FAQ</a>
+  <a href="/about/">About</a> •
+  <a href="/theory/">Theory</a> •
+  <a href="/research/">Research</a> •
+  <a href="/msca/">MSCA</a> •
+  <a href="/ia4zep/">IA_4_ZEP</a> •
+  <a href="/faq/">FAQ</a>
 </div>
