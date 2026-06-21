@@ -4,7 +4,10 @@ title: "CV – English Version"
 permalink: /cv/
 lang: en
 ---
-
+<div style="text-align:right; font-size:0.9rem;">
+  🌐 <a href="/cv/">FR</a> | <a href="/cv_en/">EN</a>
+</div
+  
 <p style="text-align:center;">
   <img src="/assets/photo.jpg"
        alt="Jean Marie Ntsama"
