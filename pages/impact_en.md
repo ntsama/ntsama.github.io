@@ -2,6 +2,7 @@
 layout: page
 title: "Impact — Outreach & Innovation"
 permalink: /impact_en/
+lang: en
 ---
 
 # Impact & Outreach  
