@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "MSCA Project — Cognitive Trapeze"
-permalink: /msca_en/
+permalink: /msca/
 lang: en
 ---
 
