@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "FAQ — Technical & Academic Questions"
-permalink: /faq_en/
+permalink: /faq/
 lang: en
 ---
 <div style="text-align:right; font-size:0.9rem;">
