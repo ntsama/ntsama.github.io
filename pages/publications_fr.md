@@ -3,11 +3,12 @@ layout: page
 title: "Publications — Travaux sélectionnés"
 permalink: /publications_fr/
 lang: fr
+description: "Publications sélectionnées de Jean Marie Ntsama — livres, articles scientifiques et manuscrits."
 ---
 
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/publications/">FR</a> | <a href="/publications_en/">EN</a>
-</div
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/publications/" style="font-weight:bold;">EN</a>
+</div>
 
 # Publications  
 ## Livres  
@@ -51,10 +52,10 @@ Les Éditions Francophones Universitaires d’Afrique (EFUA)
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about">About</a> •
-  <a href="/theory">Theory</a> •
-  <a href="/research">Research</a> •
-  <a href="/msca">MSCA</a> •
-  <a href="/ia4zep">IA_4_ZEP</a> •
-  <a href="/faq">FAQ</a>
+  <a href="/about_fr/">À propos</a> •
+  <a href="/theory_fr/">Théorie</a> •
+  <a href="/research_fr/">Recherche</a> •
+  <a href="/msca_fr/">MSCA</a> •
+  <a href="/ia4zep_fr/">IA_4_ZEP</a> •
+  <a href="/faq_fr/">FAQ</a>
 </div>
