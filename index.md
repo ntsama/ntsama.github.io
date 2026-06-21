@@ -1,8 +1,14 @@
 ---
-layout: default
+layout: page
 title: "Jean Marie Ntsama"
 description: "Philosopher of Language • AI & Cognition"
+permalink: /
+lang: en
 ---
+
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/index_fr/" style="font-weight:bold;">FR</a>
+</div>
 
 # Jean Marie Ntsama  
 ## Philosopher of Language • Cognitive Science Researcher  
@@ -23,8 +29,8 @@ My work integrates:
 
 I develop theoretical models, empirical studies, and computational simulations to understand how **language and thought co‑evolve** in technologically mediated environments.
 
-👉 Explore my MSCA project: **[Cognitive Trapeze](/msca)**  
-👉 Discover my educational initiative: **[IA_4_ZEP](/ia_4_zep)**
+👉 Explore my MSCA project: **[Cognitive Trapeze](/msca/)**  
+👉 Discover my educational initiative: **[IA_4_ZEP](/ia4zep/)**
 
 ---
 
@@ -41,17 +47,17 @@ Mes travaux articulent :
 
 Je développe des modèles théoriques, des études empiriques et des simulations computationnelles pour comprendre comment **langage et pensée co‑évoluent** dans des environnements médiés par la technologie.
 
-👉 Découvrir mon projet MSCA : **[Cognitive Trapeze](/msca)**  
-👉 Explorer mon initiative éducative : **[IA_4_ZEP](/ia_4_zep)**
+👉 Découvrir mon projet MSCA : **[Cognitive Trapeze](/msca/)**  
+👉 Explorer mon initiative éducative : **[IA_4_ZEP](/ia4zep/)**
 
 ---
 
 # 🔍 Quick Access  
-- **[Research](/research)** — Research axes & scientific program  
-- **[Publications](/publications)** — Books, articles, working papers  
-- **[Teaching](/teaching)** — Courses, pedagogy, AI‑supported learning  
-- **[Impact & Outreach](/impact)** — WebTV, conferences, community engagement  
-- **[Contact](/contact)** — Email, LinkedIn, GitHub
+- **[Research](/research/)** — Research axes & scientific program  
+- **[Publications](/publications/)** — Books, articles, working papers  
+- **[Teaching](/teaching/)** — Courses, pedagogy, AI‑supported learning  
+- **[Talks](/talks/)** — Conferences, seminars, invited talks  
+- **[Contact](/contact/)** — Email, LinkedIn, GitHub
 
 ---
 
