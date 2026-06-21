@@ -2,6 +2,7 @@
 layout: page
 title: "Impact — Diffusion & Innovation"
 permalink: /impact_fr/
+lang: fr
 ---
 ## Diffusion scientifique, engagement public et innovation pédagogique
 
