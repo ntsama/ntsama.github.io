@@ -2,6 +2,7 @@
 layout: page
 title: "Publications — Travaux sélectionnés"
 permalink: /publications_fr/
+lang: fr
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
