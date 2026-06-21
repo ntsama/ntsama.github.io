@@ -2,6 +2,7 @@
 layout: page
 title: "IA_4_ZEP — AI for Priority Education Zones"
 permalink: /ia4zep_en/
+lang: en
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
