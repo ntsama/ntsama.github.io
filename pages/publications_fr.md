@@ -5,11 +5,9 @@ permalink: /publications_fr/
 lang: fr
 ---
 
-<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
-  🌐 
-  <a href="/publications_en" style="margin-right:6px; font-weight:bold;">EN</a> |
-  <a href="/publications_fr" style="margin-left:6px; font-weight:bold;">FR</a>
-</div>
+<div style="text-align:right; font-size:0.9rem;">
+  🌐 <a href="/publications/">FR</a> | <a href="/publications_en/">EN</a>
+</div
 
 # Publications  
 ## Livres  
