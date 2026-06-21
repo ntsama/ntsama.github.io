@@ -2,6 +2,7 @@
 layout: page
 title: "Projet MSCA — Trapèze Cognitif"
 permalink: /msca_fr/
+lang: fr
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
