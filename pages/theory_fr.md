@@ -6,11 +6,9 @@ permalink: /theory_fr/
 lang: fr
 ---
 
-<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
-  🌐 
-  <a href="/theory_en" style="margin-right:6px; font-weight:bold;">EN</a> |
-  <a href="/theory_fr" style="margin-left:6px; font-weight:bold;">FR</a>
-</div>
+<div style="text-align:right; font-size:0.9rem;">
+  🌐 <a href="/theory/">FR</a> | <a href="/theory_en/">EN</a>
+</div
 
 # Théorie  
 ## Le Modèle du Trapèze Cognitif & de la Balançoire Pédagogique  
