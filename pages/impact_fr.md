@@ -3,12 +3,17 @@ layout: page
 title: "Impact — Diffusion & Innovation"
 permalink: /impact_fr/
 lang: fr
+description: "Impact, diffusion scientifique et innovation pédagogique — Jean Marie Ntsama."
 ---
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/impact/">FR</a> | <a href="/impact_en/">EN</a>
-</div
 
-## Diffusion scientifique, engagement public et innovation pédagogique
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/impact/" style="font-weight:bold;">EN</a>
+</div>
+
+# Impact & Diffusion  
+## Diffusion scientifique, engagement public et innovation pédagogique  
+
+---
 
 # 🇫🇷 Version Française
 
@@ -79,7 +84,20 @@ L’objectif est de créer des écosystèmes d’apprentissage durables, inclusi
 ---
 
 # Contact  
-- Email : **jean.m.ntsama@gmail.com**  
-- LinkedIn : **in.jean-marie-ntsama**  
-- GitHub : **ntsama.github.io**
-- 
+- **Email :** jean.m.ntsama@gmail.com  
+- **LinkedIn :** https://www.linkedin.com/in/jean-marie-ntsama  
+- **GitHub :** https://ntsama.github.io/  
+- **YouTube (NJM WebTV) :** https://www.youtube.com/@NJMWebTV  
+
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.85;">
+  <a href="/about_fr/">À propos</a> • 
+  <a href="/theory_fr/">Théorie</a> • 
+  <a href="/research_fr/">Recherche</a> • 
+  <a href="/msca_fr/">MSCA</a> • 
+  <a href="/ia4zep_fr/">IA_4_ZEP</a> •
+  <a href="/faq_fr/">FAQ</a>
+</div>
