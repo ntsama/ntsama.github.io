@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications — Selected Works" 
-permalink: /publications/
+permalink: /publications_en/
 lang: en
 ---
 
