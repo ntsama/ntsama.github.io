@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "News & Updates (EN)"
-permalink: /news_en/
+permalink: /news/
 lang: en
 ---
 
