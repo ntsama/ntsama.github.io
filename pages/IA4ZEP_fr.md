@@ -5,9 +5,9 @@ permalink: /ia4zep/
 lang: fr
 ---
 
-<div style="text-align:right; font-size:0.85rem;">
-  <a href="/research_en" style="font-weight:bold;">EN</a>
-</div>
+<div style="text-align:right; font-size:0.9rem;">
+  🌐 <a href="/ia4zep/">FR</a> | <a href="/ia4zep_en/">EN</a>
+</div
 
 # IA_4_ZEP  
 ## Intelligence Artificielle pour l’Éducation en Zones Prioritaires  
