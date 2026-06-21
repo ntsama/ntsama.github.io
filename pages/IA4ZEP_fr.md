@@ -2,6 +2,7 @@
 layout: page
 title: "IA_4_ZEP — IA pour les Zones Prioritaires"
 permalink: /ia4zep_fr/
+lang: fr
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
