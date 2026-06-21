@@ -95,5 +95,6 @@ AI for education in priority zones (Africa–Europe initiative).
   <a href="/research/">Research</a> •
   <a href="/msca/">MSCA</a> •
   <a href="/ia4zep/">IA_4_ZEP</a> •
+  <a href="/cv/">CV</a>
   <a href="/faq/">FAQ</a>
 </div>
