@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "IA_4_ZEP — AI for Priority Education Zones"
-permalink: /ia4zep/
+permalink: /ia4zep_en/
 lang: en
 ---
 
