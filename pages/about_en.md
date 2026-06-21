@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About — Academic Profile"
-permalink: /about_en/
+permalink: /about/
 lang: en
 ---
 
