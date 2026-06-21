@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "À propos — Profil académique"
-permalink: /about/
+permalink: /about_fr/
 lang: fr
 ---
 
