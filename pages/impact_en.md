@@ -4,6 +4,9 @@ title: "Impact — Outreach & Innovation"
 permalink: /impact/
 lang: en
 ---
+<div style="text-align:right; font-size:0.9rem;">
+  🌐 <a href="/impact/">FR</a> | <a href="/impact_en/">EN</a>
+</div
 
 # Impact & Outreach  
 ## Scientific Dissemination, Public Engagement & Educational Innovation  
