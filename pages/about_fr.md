@@ -5,10 +5,9 @@ permalink: /about/
 lang: fr
 ---
 
-<div style="text-align:right; margin-top:8px; font-size:0.85rem;">
-  🌐 
-  <a href="/about" style="margin-right:6px; font-weight:bold;">EN</a> 
-
+<div style="text-align:right; font-size:0.9rem;">
+  🌐 <a href="/about/">FR</a> | <a href="/about_en/">EN</a>
+</div
 # À propos  
 ## Profil académique & Identité de recherche  
 
