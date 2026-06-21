@@ -3,11 +3,12 @@ layout: page
 title: "IA_4_ZEP — IA pour les Zones Prioritaires"
 permalink: /ia4zep_fr/
 lang: fr
+description: "IA_4_ZEP — un programme d'innovation éducative basé sur l'IA pour les zones d'éducation prioritaires."
 ---
 
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/ia4zep/">FR</a> | <a href="/ia4zep_en/">EN</a>
-</div
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/ia4zep/" style="font-weight:bold;">EN</a>
+</div>
 
 # IA_4_ZEP  
 ## Intelligence Artificielle pour l’Éducation en Zones Prioritaires  
@@ -76,7 +77,7 @@ IA_4_ZEP s’appuie sur :
 - les sciences cognitives  
 - la philosophie du langage  
 - l’apprentissage médié par IA  
-- les littératies numériques  
+- les littéracies numériques  
 - le **Modèle du Trapèze Cognitif & de la Balançoire Pédagogique**  
 
 Ce socle théorique garantit que les outils d’IA respectent les dynamiques cognitives humaines.
@@ -118,9 +119,10 @@ IA_4_ZEP ambitionne de devenir un **modèle de référence** pour l’éducation
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.8;">
-  <a href="/about">À propos</a> • 
-  <a href="/theory">Théorie</a> • 
-  <a href="/research">Recherche</a> • 
-  <a href="/msca">MSCA</a> • 
-  <a href="/ia4zep">IA_4_ZEP</a>
+  <a href="/about_fr/">À propos</a> • 
+  <a href="/theory_fr/">Théorie</a> • 
+  <a href="/research_fr/">Recherche</a> • 
+  <a href="/msca_fr/">MSCA</a> • 
+  <a href="/ia4zep_fr/">IA_4_ZEP</a> •
+  <a href="/faq_fr/">FAQ</a>
 </div>
