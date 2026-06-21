@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research — Language, Thought & AI"
-permalink: /research/
+permalink: /research_en/
 ---
 
 <div style="text-align:right; margin-top:8px; font-size:0.85rem;">
