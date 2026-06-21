@@ -3,11 +3,12 @@ layout: page
 title: "Enseignement — Cours & Pédagogie"
 permalink: /teaching_fr/
 lang: fr
+description: "Philosophie de l’enseignement, cours et innovations pédagogiques de Jean Marie Ntsama."
 ---
 
-<div style="text-align:right; font-size:0.9rem;">
-  🌐 <a href="/teaching/">FR</a> | <a href="/teaching_en/">EN</a>
-</div
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/teaching/" style="font-weight:bold;">EN</a>
+</div>
 
 # Enseignement  
 ## Philosophie de l’enseignement  
@@ -101,10 +102,10 @@ Mon enseignement est directement lié à mes travaux sur :
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about">About</a> •
-  <a href="/theory">Theory</a> •
-  <a href="/research">Research</a> •
-  <a href="/msca">MSCA</a> •
-  <a href="/ia4zep">IA_4_ZEP</a> •
-  <a href="/faq">FAQ</a>
+  <a href="/about_fr/">À propos</a> •
+  <a href="/theory_fr/">Théorie</a> •
+  <a href="/research_fr/">Recherche</a> •
+  <a href="/msca_fr/">MSCA</a> •
+  <a href="/ia4zep_fr/">IA_4_ZEP</a> •
+  <a href="/faq_fr/">FAQ</a>
 </div>
