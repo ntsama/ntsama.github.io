@@ -2,9 +2,16 @@
 layout: page
 title: "Projects"
 permalink: /projects/
+lang: en
+description: "Research projects of Jean Marie Ntsama — Cognitive Trapeze, AI-augmented learning, digital literacies, and multilingual cognition."
 ---
+
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/projects_fr/" style="font-weight:bold;">FR</a>
+</div>
+
 # Projects  
-# Projets — Version Bilingue
+## Research Programs & International Initiatives  
 
 ---
 
@@ -58,4 +65,17 @@ Studying how digital tools reshape:
 - Computational simulation of the Cognitive Trapeze  
 - AI‑based diagnostic tools for language disorders  
 - Multilingual cognitive modeling  
-- Cross‑continental research
+- Cross‑continental research  
+
+---
+
+<hr style="margin-top:40px;">
+
+<div style="text-align:center; font-size:0.85rem; opacity:0.85;">
+  <a href="/about/">About</a> •
+  <a href="/theory/">Theory</a> •
+  <a href="/research/">Research</a> •
+  <a href="/msca/">MSCA</a> •
+  <a href="/ia4zep/">IA_4_ZEP</a> •
+  <a href="/faq/">FAQ</a>
+</div>
