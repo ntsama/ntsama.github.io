@@ -2,6 +2,7 @@
 layout: page
 title: "CV – Version Française"
 permalink: /cv_fr/
+lang: fr
 ---
 
 <p style="text-align:center;">
