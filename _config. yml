@@ -36,6 +36,8 @@ navbar:
     url: /teaching/
   - title: "Talks"
     url: /talks/
+  - title: "Impact"
+    url: /impact/
   - title: "CV"
     url: /cv/
   - title: "FAQ"
