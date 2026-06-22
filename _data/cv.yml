@@ -1,0 +1,37 @@
+- type: "education"
+  title: "Education"
+  items:
+    - name: "PhD in Philosophy"
+      date: "2022"
+      location: "University of Yaoundé I"
+    - name: "Master II in Philosophy of Science and Language"
+      date: "2011"
+    - name: "BA in Modern French Letters, BA in Philosophy, DIPES I & II"
+
+- type: "experience"
+  title: "Professional Experience"
+  items:
+    - name: "Teacher"
+      date: "Present"
+      location: "Lycée Technique Bilingue de Ngaoundéré Mardock"
+    - name: "Teacher"
+      location: "IAI Cameroon"
+    - name: "Head of SIGIPES Center & Head of IT Unit"
+      location: "DRES Adamaoua"
+
+- type: "publications"
+  title: "Publications"
+  items:
+    - name: "2 books (EUE, 2013) & 2 articles (2021, 2023)"
+      details: "Problématique des troubles de langage / Origine du langage / Étude des interrelations / Web social"
+
+- type: "skills"
+  title: "Skills"
+  items:
+    - name: "Programming, Network Administration, Cybersecurity"
+    - name: "Conceptual Analysis, Cognitive Modeling, Pedagogy, Leadership"
+
+- type: "languages"
+  title: "Languages"
+  items:
+    - name: "French (Native), English (Fluent), Japanese, German"
