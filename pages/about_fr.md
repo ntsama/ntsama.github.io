@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "À propos — Profil académique"
-permalink: /about_fr/
+permalink: /fr/about/
 lang: fr
 description: "Profil académique de Jean Marie Ntsama — philosophie du langage, sciences cognitives, linguistique et apprentissage augmenté par IA."
 ---
@@ -46,10 +46,10 @@ Mon projet MSCA — **Cognitive Trapeze** — vise à modéliser la co‑évolut
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about/">About</a> •
-  <a href="/theory/">Theory</a> •
-  <a href="/research/">Research</a> •
-  <a href="/msca/">MSCA</a> •
-  <a href="/ia4zep_en/">IA_4_ZEP</a> •
-  <a href="/faq/">FAQ</a>
+  <a href="/fr/about/">À propos</a> •
+  <a href="/fr/theory/">Théorie</a> •
+  <a href="/fr/research/">Recherche</a> •
+  <a href="/fr/msca/">MSCA</a> •
+  <a href="/fr/ia4zep/">IA_4_ZEP</a> •
+  <a href="/fr/faq/">FAQ</a>
 </div>
