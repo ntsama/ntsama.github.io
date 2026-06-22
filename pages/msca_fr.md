@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Projet MSCA — Trapèze Cognitif"
-permalink: /msca_fr/
+permalink: /fr/msca/
 lang: fr
 description: "Projet MSCA — Trapèze Cognitif : modéliser les dynamiques langage–pensée dans l’apprentissage augmenté par IA."
 ---
@@ -139,10 +139,10 @@ Le plan de formation comprend :
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about_fr/">À propos</a> •
-  <a href="/theory_fr/">Théorie</a> •
-  <a href="/research_fr/">Recherche</a> •
-  <a href="/msca_fr/">MSCA</a> •
-  <a href="/ia4zep_fr/">IA_4_ZEP</a> •
-  <a href="/faq_fr/">FAQ</a>
+  <a href="/fr/about/">À propos</a> •
+  <a href="/fr/theory/">Théorie</a> •
+  <a href="/fr/research/">Recherche</a> •
+  <a href="/fr/msca/">MSCA</a> •
+  <a href="/fr/ia4zep/">IA_4_ZEP</a> •
+  <a href="/fr/faq/">FAQ</a>
 </div>
