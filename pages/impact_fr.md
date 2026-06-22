@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Impact — Diffusion & Innovation"
-permalink: /impact_fr/
+permalink: /fr/impact/
 lang: fr
 description: "Impact, diffusion scientifique et innovation pédagogique — Jean Marie Ntsama."
 ---
@@ -94,10 +94,10 @@ L’objectif est de créer des écosystèmes d’apprentissage durables, inclusi
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about_fr/">À propos</a> • 
-  <a href="/theory_fr/">Théorie</a> • 
-  <a href="/research_fr/">Recherche</a> • 
-  <a href="/msca_fr/">MSCA</a> • 
-  <a href="/ia4zep_fr/">IA_4_ZEP</a> •
-  <a href="/faq_fr/">FAQ</a>
+  <a href="/fr/about/">À propos</a> • 
+  <a href="/fr/theory/">Théorie</a> • 
+  <a href="/fr/research/">Recherche</a> • 
+  <a href="/fr/msca/">MSCA</a> • 
+  <a href="/fr/ia4zep/">IA_4_ZEP</a> •
+  <a href="/fr/faq/">FAQ</a>
 </div>
