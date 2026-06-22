@@ -7,7 +7,7 @@ description: "Academic and professional contact information for Jean Marie Ntsam
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/contact_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/contact/" style="font-weight:bold;">FR</a>
 </div>
 
 # Contact  
