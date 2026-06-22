@@ -7,7 +7,7 @@ description: "MSCA Project — Cognitive Trapeze: modeling language–thought dy
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/msca_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/msca/" style="font-weight:bold;">FR</a>
 </div>
 
 # MSCA Project  
