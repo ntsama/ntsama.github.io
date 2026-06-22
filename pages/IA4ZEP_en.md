@@ -7,7 +7,7 @@ description: "IA_4_ZEP — an AI-augmented educational innovation program for pr
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/ia4zep_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/ia4zep/" style="font-weight:bold;">FR</a>
 </div>
 
 # IA_4_ZEP  
