@@ -1,7 +1,9 @@
 ---
 layout: page
+---
+layout: page
 title: "CV — Version Française"
-permalink: /cv_fr/
+permalink: /fr/cv/
 lang: fr
 description: "CV en français de Jean Marie Ntsama — philosophie du langage, sciences cognitives, linguistique et apprentissage augmenté par IA."
 ---
@@ -100,10 +102,10 @@ Français, anglais, japonais, allemand.
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about_fr/">À propos</a> •
-  <a href="/theory_fr/">Théorie</a> •
-  <a href="/research_fr/">Recherche</a> •
-  <a href="/msca_fr/">MSCA</a> •
-  <a href="/ia4zep_fr/">IA_4_ZEP</a> •
-  <a href="/faq_fr/">FAQ</a>
+  <a href="/fr/about/">À propos</a> •
+  <a href="/fr/theory/">Théorie</a> •
+  <a href="/fr/research/">Recherche</a> •
+  <a href="/fr/msca/">MSCA</a> •
+  <a href="/fr/ia4zep/">IA_4_ZEP</a> •
+  <a href="/fr/faq/">FAQ</a>
 </div>
