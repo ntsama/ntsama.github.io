@@ -7,7 +7,7 @@ description: "Academic homepage of Jean Marie Ntsama — philosophy of language,
 ---
 
 <div style="text-align:right; margin-top:10px; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/home_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/home/" style="font-weight:bold;">FR</a>
 </div>
 
 # Jean Marie Ntsama  
@@ -42,11 +42,11 @@ Mes travaux étudient comment **langage et pensée co‑évoluent** dans des env
 Je développe le **Modèle du Trapèze Cognitif & de la Balançoire Pédagogique**, qui décrit comment les apprenants naviguent entre structures linguistiques, représentations cognitives et outils médiés par IA.
 
 ### Explorer mes travaux  
-- <a href="/about_fr/">À propos</a>  
-- <a href="/theory_fr/">Théorie</a>  
-- <a href="/research_fr/">Recherche</a>  
-- <a href="/msca_fr/">Projet MSCA</a>  
-- <a href="/ia4zep_fr/">IA_4_ZEP</a>  
+- <a href="/fr/about/">À propos</a>  
+- <a href="/fr/theory/">Théorie</a>  
+- <a href="/fr/research/">Recherche</a>  
+- <a href="/fr/msca/">Projet MSCA</a>  
+- <a href="/fr/ia4zep/">IA_4_ZEP</a>  
 
 ---
 
@@ -95,5 +95,5 @@ AI for education in priority zones (Africa–Europe initiative).
   <a href="/research/">Research</a> •
   <a href="/msca/">MSCA</a> •
   <a href="/ia4zep/">IA_4_ZEP</a> •
-  <a href="/faq/">FAQ</a>•
+  <a href="/faq/">FAQ</a>
 </div>
