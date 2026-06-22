@@ -7,16 +7,9 @@ plugins:
 
 title: "Jean Marie Ntsama"
 description: "Philosopher of Language • Cognitive Science • AI-Augmented Learning"
-
 url: "https://ntsama.github.io"
 baseurl: ""
 
-# ---------------------------------------------------------
-# NAVIGATION PRINCIPALE (EN — langue par défaut du site)
-# ---------------------------------------------------------
-# ---------------------------------------------------------
-# NAVIGATION PRINCIPALE (EN — langue par défaut du site)
-# ---------------------------------------------------------
 navbar:
   - title: "About"
     url: /about/
@@ -45,15 +38,15 @@ navbar:
   - title: "Contact"
     url: /contact/
 
-# ---------------------------------------------------------
-# COLLECTIONS (al-folio)
-# ---------------------------------------------------------
 collections:
-  publications:
-    output: true
   projects:
     output: true
   teaching:
     output: true
   talks:
     output: true
+
+scholar:
+  style: apa
+  sort_by: none
+  order: descending
