@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Impact — Outreach & Innovation"
@@ -8,7 +7,7 @@ description: "Impact, outreach, and educational innovation activities of Jean Ma
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/impact_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/impact/" style="font-weight:bold;">FR</a>
 </div>
 
 # Impact & Outreach  
