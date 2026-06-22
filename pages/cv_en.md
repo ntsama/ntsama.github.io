@@ -7,7 +7,7 @@ description: "English CV of Jean Marie Ntsama — philosophy of language, cognit
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/cv_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/cv/" style="font-weight:bold;">FR</a>
 </div>
 
 <p style="text-align:center;">
