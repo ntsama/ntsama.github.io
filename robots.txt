@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ntsama.github.io/sitemap.xml
