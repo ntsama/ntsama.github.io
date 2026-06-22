@@ -7,7 +7,7 @@ description: "Academic profile of Jean Marie Ntsama — philosophy of language, 
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/about_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/about/" style="font-weight:bold;">FR</a>
 </div>
 
 # About  
@@ -50,6 +50,6 @@ My MSCA project — **Cognitive Trapeze** — aims to model the co‑development
   <a href="/theory/">Theory</a> •
   <a href="/research/">Research</a> •
   <a href="/msca/">MSCA</a> •
-  <a href="/ia4zep_en/">IA_4_ZEP</a> •
+  <a href="/ia4zep/">IA_4_ZEP</a> •
   <a href="/faq/">FAQ</a>
 </div>
