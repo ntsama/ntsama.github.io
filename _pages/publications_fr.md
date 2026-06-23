@@ -11,33 +11,9 @@ description: "Publications sélectionnées de Jean Marie Ntsama — livres, arti
 </div>
 
 # Publications  
-## Livres  
 
-### 1. *Problématique des troubles de langage et apport de la pédagogie*  
-Éditions Universitaires Européennes (EUE)
-
-### 2. *Origine du langage : de la phylogenèse à l'ontogenèse*  
-Éditions Universitaires Européennes (EUE)
-
----
-
-## Articles Scientifiques  
-
-### 1. *Étude des interrelations entre langage et pensée*  
-Les Éditions Francophones Universitaires d’Afrique (EFUA)
-
-### 2. *Web social, Didactique et Littératies numériques : situation d’une zone d’éducation prioritaire*  
-Les Éditions Francophones Universitaires d’Afrique (EFUA)
-
----
-
-## Communications & Conférences  
-À compléter.
-
----
-
-## Working Papers  
-À compléter.
+Vous trouverez ci-dessous la liste de mes articles et livres évalués par des pairs, générée automatiquement à partir de ma base de données académique (BibTeX). 
+*(Pour consulter mon CV complet, veuillez visiter la page [Contact](/fr/contact/)).*
 
 ---
 
