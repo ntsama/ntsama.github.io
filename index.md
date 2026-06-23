@@ -30,7 +30,7 @@ My work integrates:
 I develop theoretical models, empirical studies, and computational simulations to understand how **language and thought co‑evolve** in technologically mediated environments.
 
 👉 Explore my MSCA project: **[Cognitive Trapeze](/msca/)**  
-👉 Discover my educational initiative: **[IA_4_ZEP](/ia4zep/)**
+👉 Discover my educational initiative: **[IA_4_ZEP](/ia4zep/)**  
 
 ---
 
@@ -48,7 +48,7 @@ Mes travaux articulent :
 Je développe des modèles théoriques, des études empiriques et des simulations computationnelles pour comprendre comment **langage et pensée co‑évoluent** dans des environnements médiés par la technologie.
 
 👉 Découvrir mon projet MSCA : **[Cognitive Trapeze](/msca/)**  
-👉 Explorer mon initiative éducative : **[IA_4_ZEP](/ia4zep/)**
+👉 Explorer mon initiative éducative : **[IA_4_ZEP](/ia4zep/)**  
 
 ---
 
@@ -57,6 +57,7 @@ Je développe des modèles théoriques, des études empiriques et des simulation
 - **[Publications](/publications/)** — Books, articles, working papers  
 - **[Teaching](/teaching/)** — Courses, pedagogy, AI‑supported learning  
 - **[Talks](/talks/)** — Conferences, seminars, invited talks  
+- **[Impact](/impact/)** — Outreach & educational innovation  
 - **[Contact](/contact/)** — Email, LinkedIn, GitHub
 
 ---
@@ -71,6 +72,6 @@ Leader of **IA_4_ZEP**
 
 💡 **Looking for a research partner or guest lecturer?**  
 I am open to new academic collaborations, supervision opportunities, and invited talks.  
-👉 **[Feel free to reach out!](/contact/)**
+👉 **[Feel free to reach out!](/contact/)**  
 
 <hr style="margin-top:40px;">
