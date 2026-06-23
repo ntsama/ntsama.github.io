@@ -11,6 +11,7 @@ url: "https://ntsama.github.io"
 baseurl: ""
 
 navbar:
+  enable: true
   - title: "About"
     url: /about/
   - title: "Theory"
