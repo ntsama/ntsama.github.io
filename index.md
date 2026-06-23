@@ -66,3 +66,11 @@ Based in the Netherlands (South Holland)
 Active collaborations across Europe & Africa  
 Founder of **NJM WebTV**  
 Leader of **IA_4_ZEP**
+
+---
+
+💡 **Looking for a research partner or guest lecturer?**  
+I am open to new academic collaborations, supervision opportunities, and invited talks.  
+👉 **[Feel free to reach out!](/contact/)**
+
+<hr style="margin-top:40px;">
