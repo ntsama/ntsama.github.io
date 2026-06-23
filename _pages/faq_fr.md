@@ -1,10 +1,4 @@
 ---
-
-✅ VERSION FINALE — FAQ_FR (mise à jour + enrichie)
-(à remplacer intégralement dans ton fichier)
-
-`markdown
----
 layout: page
 title: "FAQ — Questions techniques"
 permalink: /faq_fr/
@@ -300,9 +294,6 @@ Page de test
   <a href="/theory_fr/">Théorie</a> •
   <a href="/research_fr/">Recherche</a> •
   <a href="/msca_fr/">MSCA</a> •
-  <a href="/ia4zepfr/">IA4_ZEP</a> •
+  <a href="/fr/ia4zep/">IA_4_ZEP</a> •
   <a href="/faq_fr/">FAQ</a>
 </div>
-`
-
----
