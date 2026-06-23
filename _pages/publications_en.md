@@ -11,33 +11,9 @@ description: "Selected publications by Jean Marie Ntsama — books, peer-reviewe
 </div>
 
 # Publications  
-## Books  
 
-### 1. *Problématique des troubles de langage et apport de la pédagogie*  
-Éditions Universitaires Européennes (EUE)
-
-### 2. *Origine du langage : de la phylogenèse à l'ontogenèse*  
-Éditions Universitaires Européennes (EUE)
-
----
-
-## Peer‑Reviewed Articles  
-
-### 1. *Étude des interrelations entre langage et pensée*  
-Les Éditions Francophones Universitaires d’Afrique (EFUA)
-
-### 2. *Web social, Didactique et Littératies numériques : situation d’une zone d’éducation prioritaire*  
-Les Éditions Francophones Universitaires d’Afrique (EFUA)
-
----
-
-## Conference Papers & Talks  
-To be added.
-
----
-
-## Working Papers  
-To be added.
+Below is the list of my peer-reviewed articles and books, automatically generated from my academic database (BibTeX). 
+*(If you are looking for my full CV, please visit the [Contact](/contact/) page).*
 
 ---
 
