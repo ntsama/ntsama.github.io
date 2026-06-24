@@ -2,7 +2,7 @@
 layout: page
 title: "Jean Marie Ntsama"
 description: "Philosopher of Language • AI & Cognition"
-permalink: /
+permalink: /index/
 lang: en
 ---
 
