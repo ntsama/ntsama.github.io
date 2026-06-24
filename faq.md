@@ -7,7 +7,7 @@ description: "FAQ for ntsama.github.io — GitHub Pages troubleshooting, researc
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/faq_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/faq/" style="font-weight:bold;">FR</a>
 </div>
 
 # FAQ — Frequently Asked Questions
