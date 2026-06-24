@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Actualités"
-permalink: /news_fr/
 lang: fr
 description: "Actualités, annonces académiques et avancées des projets de Jean Marie Ntsama."
 ---
