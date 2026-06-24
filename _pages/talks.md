@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Talks"
-permalink: /talks/
 lang: en
 description: "Academic talks, conferences, and presentations by Jean Marie Ntsama."
 ---
