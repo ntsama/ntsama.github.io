@@ -7,7 +7,7 @@ description: "Theoretical foundations of the Cognitive Trapeze & Pedagogical Swi
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/theory_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/theory/" style="font-weight:bold;">FR</a>
 </div>
 
 # Theory  
