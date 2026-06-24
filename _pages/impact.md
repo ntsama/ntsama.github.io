@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Impact — Outreach & Innovation"
-permalink: /impact/
 lang: en
 description: "Impact, outreach, and educational innovation activities of Jean Marie Ntsama."
 ---
