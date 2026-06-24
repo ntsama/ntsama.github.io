@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research — Language, Thought & AI"
-permalink: /research/
+permalink: /
 lang: en
 description: "Research program of Jean Marie Ntsama — language–thought dynamics, AI-augmented learning, digital literacies, and computational modeling."
 ---
