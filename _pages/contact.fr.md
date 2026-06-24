@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contact"
+permalink: /fr/contact/
 lang: fr
 description: "Informations de contact académiques et professionnelles de Jean Marie Ntsama."
 ---
