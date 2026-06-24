@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "News & Updates"
-permalink: /news/
 lang: en
 description: "Latest academic news, updates, and project milestones from Jean Marie Ntsama."
 ---
