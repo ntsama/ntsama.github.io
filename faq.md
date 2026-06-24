@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "FAQ — Technical & Academic Questions"
-permalink: /faq/
 lang: en
 description: "FAQ for ntsama.github.io — GitHub Pages troubleshooting, research content, and MSCA project."
 ---
