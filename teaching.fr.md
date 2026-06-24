@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Enseignement — Cours & Pédagogie"
-permalink: /fr/teaching/
 lang: fr
 description: "Philosophie de l’enseignement, cours et innovations pédagogiques de Jean Marie Ntsama."
 ---
