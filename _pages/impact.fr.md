@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Impact — Diffusion & Innovation"
-permalink: /fr/impact/
 lang: fr
 description: "Impact, diffusion scientifique et innovation pédagogique — Jean Marie Ntsama."
 ---
