@@ -39,6 +39,8 @@ navbar:
     url: /contact/
 
 collections:
+  pages:
+    output: true
   projects:
     output: true
   teaching:
