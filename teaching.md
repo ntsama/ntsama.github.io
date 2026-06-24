@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Teaching — Courses & Pedagogy"
-permalink: /teaching/
 lang: en
 description: "Teaching philosophy, courses, and pedagogical innovations by Jean Marie Ntsama."
 ---
