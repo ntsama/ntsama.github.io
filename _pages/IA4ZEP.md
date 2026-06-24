@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "IA_4_ZEP — AI for Priority Education Zones"
+permalink: /IA4ZEP/
 lang: en
 description: "IA_4_ZEP — an AI-augmented educational innovation program for priority education zones."
 ---
