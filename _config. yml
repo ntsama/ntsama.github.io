@@ -33,6 +33,8 @@ navbar:
     url: /impact/
   - title: "CV"
     url: /cv/
+  - title: "News"
+    url: /news/
   - title: "FAQ"
     url: /faq/
   - title: "Contact"
