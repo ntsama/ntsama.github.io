@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Theory — Cognitive Trapeze Framework
+title: "Theory — Cognitive Trapeze Framework"
 lang: en
 description: "Theoretical foundations of the Cognitive Trapeze & Pedagogical Swing Model — language, thought, and AI-mediated learning."
 ---
