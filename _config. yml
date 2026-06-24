@@ -45,9 +45,17 @@ collections:
     output: true
   talks:
     output: true
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      layout: "page"
+      output: true
 
 scholar:
   style: apa
   sort_by: none
   order: descending
-
