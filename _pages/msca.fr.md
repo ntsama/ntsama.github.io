@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Projet MSCA — Trapèze Cognitif"
-permalink: /fr/msca/
 lang: fr
 description: "Projet MSCA — Trapèze Cognitif : modéliser les dynamiques langage–pensée dans l’apprentissage augmenté par IA."
 ---
