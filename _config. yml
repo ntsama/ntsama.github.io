@@ -39,6 +39,9 @@ navbar:
     url: /contact/
 
 collections:
+  pages:
+    output: true
+    permalink: /:path/
   projects:
     output: true
   teaching:
@@ -51,7 +54,6 @@ defaults:
       path: "_pages"
     values:
       layout: "page"
-      output: true
 
 scholar:
   style: apa
