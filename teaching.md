@@ -7,7 +7,7 @@ description: "Teaching philosophy, courses, and pedagogical innovations by Jean 
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/teaching_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/teaching/" style="font-weight:bold;">FR</a>
 </div>
 
 # Teaching  
