@@ -7,7 +7,7 @@ description: "Selected publications by Jean Marie Ntsama — books, peer-reviewe
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/publications_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/publications/" style="font-weight:bold;">FR</a>
 </div>
 
 # Publications  
