@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Projets"
+permalink: /fr/projects/
 lang: fr
 description: "Projets de recherche de Jean Marie Ntsama — Trapèze Cognitif, apprentissage augmenté par IA, littératies numériques et cognition multilingue."
 ---
