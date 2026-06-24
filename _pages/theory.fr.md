@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Théorie — Modèle du Trapèze Cognitif"
-description: "Fondements théoriques du Trapèze Cognitif : dynamique langage–pensée et cognition médiée par IA."
 lang: fr
+description: "Fondements théoriques du Trapèze Cognitif : dynamique langage–pensée et cognition médiée par IA."
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
