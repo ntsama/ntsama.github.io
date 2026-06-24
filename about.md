@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "About — Academic Profile"
-permalink: /about/
 lang: en
 description: "Academic profile of Jean Marie Ntsama — philosophy of language, cognitive science, linguistics, and AI-augmented learning."
 ---
