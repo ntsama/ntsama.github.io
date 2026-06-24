@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "IA_4_ZEP — IA pour les Zones Prioritaires"
-permalink: /fr/ia4zep/
 lang: fr
 description: "IA_4_ZEP — un programme d'innovation éducative basé sur l'IA pour les zones d'éducation prioritaires."
 ---
