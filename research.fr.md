@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Recherche — Langage, Pensée & IA"
-permalink: /fr/research/
 lang: fr
 description: "Programme de recherche de Jean Marie Ntsama — dynamiques langage–pensée, apprentissage augmenté par IA, littératies numériques et modélisation computationnelle."
 ---
