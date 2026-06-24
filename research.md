@@ -6,7 +6,7 @@ lang: en
 description: "Research program of Jean Marie Ntsama — language–thought dynamics, AI-augmented learning, digital literacies, and computational modeling."
 ---
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/research_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/research/" style="font-weight:bold;">FR</a>
 </div>
 
 # Research  
