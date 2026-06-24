@@ -7,7 +7,7 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/news_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/news/" style="font-weight:bold;">FR</a>
 </div>
 
 # News & Updates  
