@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Conférences"
-permalink: /fr/talks/
 lang: fr
 description: "Conférences, colloques et présentations académiques de Jean Marie Ntsama."
 ---
