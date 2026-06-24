@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Projects"
-permalink: /projects/
 lang: en
 description: "Research projects of Jean Marie Ntsama — Cognitive Trapeze, AI-augmented learning, digital literacies, and multilingual cognition."
 ---
