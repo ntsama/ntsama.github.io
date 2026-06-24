@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Publications — Selected Works"
+permalink: /publications/
 lang: en
 description: "Selected publications by Jean Marie Ntsama — books, peer-reviewed articles, and manuscripts."
 ---
