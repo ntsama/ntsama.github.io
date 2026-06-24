@@ -46,12 +46,6 @@ collections:
   talks:
     output: true
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "page"
-
 scholar:
   style: apa
   sort_by: none
