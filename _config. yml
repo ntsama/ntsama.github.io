@@ -45,8 +45,6 @@ collections:
     output: true
   talks:
     output: true
-  pages:
-    output: true
 
 defaults:
   - scope:
