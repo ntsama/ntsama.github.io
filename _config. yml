@@ -39,8 +39,6 @@ navbar:
     url: /contact/
 
 collections:
-  pages:
-    output: true
   projects:
     output: true
   teaching:
@@ -50,7 +48,7 @@ collections:
 
 defaults:
   - scope:
-      path: "_pages"
+      path: ""
     values:
       layout: "page"
 
