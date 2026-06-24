@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "MSCA Project — Cognitive Trapeze"
-permalink: /msca/
 lang: en
 description: "MSCA Project — Cognitive Trapeze: modeling language–thought dynamics in AI-augmented learning."
 ---
