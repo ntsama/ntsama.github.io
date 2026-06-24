@@ -7,7 +7,7 @@ description: "Research projects of Jean Marie Ntsama — Cognitive Trapeze, AI-a
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/projects_fr/" style="font-weight:bold;">FR</a>
+  🌐 <a href="/fr/projects/" style="font-weight:bold;">FR</a>
 </div>
 
 # Projects  
