@@ -3,6 +3,7 @@ layout: page
 title: "IA_4_ZEP — AI for Priority Education Zones"
 permalink: /ia4zep/
 lang: en
+description: "IA_4_ZEP — an AI-augmented educational innovation program for priority education zones."
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
@@ -96,6 +97,11 @@ Developing intelligent assistance for educators.
 
 ### WP4 — Evaluation & Impact  
 Measuring cognitive, pedagogical, and social outcomes.
+
+---
+
+### AI Reading Companion Pilot
+IA4ZEP is currently developing a **digital reading companion** to support guided reading in 6th-grade French classes. The tool will be piloted in the 2026-2027 school year. It integrates state-of-the-art speech recognition to evaluate pronunciation and comprehension, providing immediate feedback to learners. This initiative is a direct application of the Cognitive Trapeze Model in a real classroom setting.
 
 ---
 
