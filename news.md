@@ -40,13 +40,18 @@ IA4ZEP is thus confirming its mission: combining scientific rigor with the harsh
 
 # 🔔 2026  
 
-### **June 2026 — Website Launch**  
-The bilingual academic website is now online, featuring:  
-- research program  
-- MSCA project  
-- IA_4_ZEP initiative  
-- publications  
-- teaching activities  
+### **June 2026 — Official Launch of the Academic Portfolio and MSCA Project "Cognitive Trapeze"**
+
+I am thrilled to announce the official launch of my bilingual academic portfolio, **`ntsama.github.io`**. This site is designed to serve as a central hub for my research at the intersection of **philosophy of language, cognitive science, and AI-augmented learning**.
+
+This platform centralizes my publications, teaching activities, ongoing projects, and scientific outreach efforts. At its heart lies the presentation of my **Marie Skłodowska-Curie Actions (MSCA)** project: **Cognitive Trapeze**. This project aims to model the dynamic co-evolution of language and thought within AI-mediated learning environments, addressing crucial gaps in cognitive science and digital education.
+
+The website also highlights the **IA4ZEP** program, which brings concrete AI-supported pedagogical solutions to priority education zones (ZEP) in Africa. By bridging scientific theory and field applications, this portfolio reflects my commitment to building a sustainable Africa–Europe educational bridge.
+
+👉 **Explore my MSCA project here:** [Cognitive Trapeze](/msca/)
+👉 **Discover the IA4ZEP initiative:** [IA_4_ZEP](/ia4zep/)
+
+---
 
 ### **June 2026 — IA_4_ZEP Platform Structuring**  
 The IA_4_ZEP page is now fully structured with:  
