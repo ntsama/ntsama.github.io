@@ -10,6 +10,8 @@ description: "Philosopher of Language • Cognitive Science • AI-Augmented Lea
 url: "https://ntsama.github.io"
 baseurl: ""
 
+google_analytics: "G-H6XSNDH92V"
+
 navbar:
   - title: "About"
     url: /about/
