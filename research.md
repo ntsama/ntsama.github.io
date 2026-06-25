@@ -5,6 +5,7 @@ permalink: /research/
 lang: en
 description: "Research program of Jean Marie Ntsama — language–thought dynamics, AI-augmented learning, digital literacies, and computational modeling."
 ---
+
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
   🌐 <a href="/fr/research/" style="font-weight:bold;">FR</a>
 </div>
@@ -48,6 +49,13 @@ Focus areas:
 - adaptive feedback  
 - cognitive scaffolding  
 - AI as a cognitive partner  
+
+#### **AI-Powered Reading Companion for ZEP**
+In collaboration with the **IA4ZEP** program, I am designing a mobile application that uses **Automatic Speech Recognition (ASR)** and **Large Language Models (LLM)** to support guided reading sessions in priority education zones. The app provides:
+- Real-time pronunciation feedback (phonetic accuracy, fluency, prosody).
+- Semantic comprehension checks (literal and inferential questions).
+- A performance dashboard with a **90% progression threshold**, ensuring learners achieve mastery before moving forward.
+This tool bridges the gap between **linguistic decoding** and **deep semantic comprehension**, directly validating the **Cognitive Trapeze Model**.
 
 ### Axis 3 — Digital Literacies in African Contexts  
 Investigating how learners in African contexts engage with digital tools.  
