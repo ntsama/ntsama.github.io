@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Recherche — Langage, Pensée & IA"
-permalink: /fr/research/
+permalink: /fr/recherche/
 lang: fr
-description: "Programme de recherche de Jean Marie Ntsama — dynamiques langage–pensée, apprentissage augmenté par IA, littératies numériques et modélisation computationnelle."
+description: "Programme de recherche de Jean Marie Ntsama — dynamique langage-pensée, apprentissage augmenté par l'IA, littératies numériques et modélisation computationnelle."
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
@@ -11,100 +11,107 @@ description: "Programme de recherche de Jean Marie Ntsama — dynamiques langage
 </div>
 
 # Recherche  
-## Programme scientifique & Vision de recherche  
+## Programme Scientifique & Vision de la Recherche  
 
-Ma recherche étudie comment **langage et pensée co‑évoluent** dans des environnements médiés par la technologie.  
-J’opère à l’intersection de la philosophie du langage, des sciences cognitives, de la linguistique, de l’apprentissage augmenté par IA et des littératies numériques.
+Mes recherches portent sur la **co-évolution du langage et de la pensée** dans des environnements médiatisés par la technologie.  
+Je travaille à l'intersection de la philosophie du langage, des sciences cognitives, de la linguistique, de l'apprentissage augmenté par l'IA et des littératies numériques.
 
-Mon objectif à long terme est de développer un **cadre cognitif unifié** pour comprendre l’apprentissage humain à l’ère de l’IA.
-
----
-
-# 1. Vision de recherche  
-Mes travaux sont guidés par une question centrale :  
-**Comment langage et pensée se co‑développent‑ils lorsque les apprenants interagissent avec des environnements médiés par IA ?**
-
-Pour y répondre, j’articule :  
-- analyse conceptuelle  
-- expériences cognitives et linguistiques  
-- modélisation computationnelle  
-- environnements d’apprentissage assistés par IA  
-- perspectives multilingues et interculturelles  
+Mon objectif à long terme est de développer un **cadre cognitif unifié** pour comprendre l'apprentissage humain à l'ère de l'IA.
 
 ---
 
-# 2. Axes de recherche  
+# 1. Vision de la Recherche  
+Mon travail est guidé par une question centrale :  
+**Comment le langage et la pensée se développent-ils conjointement lorsque les apprenants interagissent avec des environnements médiatisés par l'IA ?**
 
-### Axe 1 — Dynamiques Langage–Pensée  
-Exploration des mécanismes cognitifs reliant structures linguistiques et représentations conceptuelles.  
-Inclut :  
-- modélisation sémantique et conceptuelle  
-- cognition multilingue  
-- neurodiversité et variabilité cognitive  
+Pour y répondre, je combine :  
+- l'analyse conceptuelle ;  
+- les expériences cognitives et linguistiques ;  
+- la modélisation computationnelle ;  
+- les environnements d'apprentissage assistés par l'IA ;  
+- les perspectives multilingues et interculturelles.  
 
-### Axe 2 — Apprentissage Augmenté par IA  
-Analyse de la manière dont les outils d’IA transforment les processus d’apprentissage.  
-Porte sur :  
-- explications multimodales  
-- feedback adaptatif  
-- étayage cognitif  
-- IA comme partenaire cognitif  
+---
+
+# 2. Principaux Axes de Recherche  
+
+### Axe 1 — Dynamique Langage–Pensée  
+Exploration des mécanismes cognitifs reliant les structures linguistiques et les représentations conceptuelles.  
+Cela inclut :  
+- la modélisation sémantique et conceptuelle ;  
+- la cognition interlinguistique ;  
+- la neurodiversité et la variabilité cognitive.  
+
+### Axe 2 — Apprentissage Augmenté par l'IA  
+Étude de la manière dont les outils d'IA transforment les processus d'apprentissage.  
+Domaines d'intérêt :  
+- les explications multimodales ;  
+- le feedback adaptatif ;  
+- l'étayage cognitif ;  
+- l'IA comme partenaire cognitif.  
+
+#### **Compagnon de Lecture Assisté par l'IA pour les ZEP**
+En collaboration avec le programme **IA4ZEP**, je conçois une application mobile qui utilise la **Reconnaissance Automatique de la Parole (ASR)** et les **Grands Modèles de Langage (LLM)** pour soutenir des séances de lecture guidée dans les zones d'éducation prioritaire. L'application fournit :
+- Un retour en temps réel sur la prononciation (précision phonétique, fluidité, prosodie).
+- Des vérifications de la compréhension sémantique (questions littérales et inférentielles).
+- Un tableau de bord de performance avec un **seuil de progression de 90 %**, garantissant que les apprenants atteignent la maîtrise avant de passer à l'étape suivante.
+Cet outil comble le fossé entre le **décodage linguistique** et la **compréhension sémantique profonde**, validant directement le **Modèle du Trapèze Cognitif**.
 
 ### Axe 3 — Littératies Numériques en Contextes Africains  
-Étude des pratiques numériques des apprenants en contextes africains.  
-Inclut :  
-- pratiques numériques multilingues  
-- environnements inclusifs  
-- innovation pédagogique en zones prioritaires  
+Étude de la manière dont les apprenants en contextes africains interagissent avec les outils numériques.  
+Cela inclut :  
+- les pratiques numériques multilingues ;  
+- les environnements d'apprentissage inclusifs ;  
+- l'innovation éducative dans les zones prioritaires.  
 
 ### Axe 4 — Modélisation Computationnelle de la Cognition  
 Développement de simulations computationnelles pour modéliser :  
-- la co‑évolution langage–pensée  
-- les trajectoires d’apprentissage  
-- les dynamiques cognitives multi‑agents  
+- la co-évolution langage–pensée ;  
+- les trajectoires d'apprentissage ;  
+- les dynamiques cognitives basées sur des agents.  
 
 ---
 
-# 3. Méthodes de recherche  
-Mes travaux combinent :  
-- analyse conceptuelle  
-- expériences cognitives et linguistiques  
-- modélisation computationnelle  
-- environnements d’apprentissage médiés par IA  
-- approches mixtes  
+# 3. Méthodes de Recherche  
+Mon travail combine :  
+- l'analyse conceptuelle ;  
+- les expériences cognitives et linguistiques ;  
+- la modélisation computationnelle ;  
+- les environnements d'apprentissage médiatisés par l'IA ;  
+- les approches par méthodes mixtes.  
 
-Cette diversité méthodologique relie **théorie, données empiriques et simulation computationnelle**.
-
----
-
-# 4. Stratégie Europe–Afrique  
-Basé à Ngaoundéré (Cameroun) et collaborant entre l’Europe et l’Afrique, je construis des ponts entre :  
-- sciences cognitives  
-- éducation numérique  
-- apprentissage multilingue  
-- pédagogie assistée par IA  
-
-Cette stratégie renforce l’impact scientifique et sociétal de mes travaux.
+Cette diversité méthodologique fait le pont entre la **théorie**, les **données empiriques** et la **simulation computationnelle**.
 
 ---
 
-# 5. Alignement avec Mon Projet MSCA  
+# 4. Stratégie de Recherche Europe–Afrique  
+Basé à Ngaoundéré (Cameroun) et collaborant à travers l'Europe et l'Afrique, ma recherche établit des ponts entre :  
+- les sciences cognitives ;  
+- l'éducation numérique ;  
+- l'apprentissage multilingue ;  
+- la pédagogie assistée par l'IA.  
+
+Cette stratégie renforce à la fois l'impact scientifique et sociétal.
+
+---
+
+# 5. Alignement avec mon Projet MSCA  
 Mon projet MSCA **Cognitive Trapeze** intègre les quatre axes de recherche.  
-Il offre un cadre cohérent pour :  
-- la modélisation théorique  
-- les études empiriques  
-- la simulation computationnelle  
-- l’innovation pédagogique  
+Il fournit un cadre cohérent pour :  
+- la modélisation théorique ;  
+- les études empiriques ;  
+- la simulation computationnelle ;  
+- l'innovation éducative.  
 
 ---
 
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about_fr/">À propos</a> •
-  <a href="/theory_fr/">Théorie</a> •
-  <a href="/research_fr/">Recherche</a> •
-  <a href="/msca_fr/">MSCA</a> •
-  <a href="/ia4zep_fr/">IA_4_ZEP</a> •
-  <a href="/faq_fr/">FAQ</a>
+  <a href="/fr/a-propos/">À propos</a> •
+  <a href="/fr/theorie/">Théorie</a> •
+  <a href="/fr/recherche/">Recherche</a> •
+  <a href="/fr/msca/">MSCA</a> •
+  <a href="/fr/ia4zep/">IA_4_ZEP</a> •
+  <a href="/fr/faq/">FAQ</a>
 </div>
