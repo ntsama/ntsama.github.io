@@ -40,13 +40,18 @@ IA4ZEP confirme ainsi sa mission : allier la rigueur scientifique aux réalités
 
 # 🔔 2026  
 
-### **Juin 2026 — Mise en ligne du site**  
-Le site académique bilingue est désormais disponible, incluant :  
-- programme de recherche  
-- projet MSCA  
-- initiative IA_4_ZEP  
-- publications  
-- activités d’enseignement  
+### **Juin 2026 — Lancement officiel du portfolio académique et du projet MSCA « Cognitive Trapeze »**
+
+J’ai le plaisir d’annoncer le lancement officiel de mon portfolio académique bilingue, **`ntsama.github.io`**. Ce site est conçu pour servir de plateforme centrale pour mes recherches à l’intersection de la **philosophie du langage, des sciences cognitives et de l’apprentissage augmenté par IA**.
+
+Cette plateforme centralise mes publications, mes activités d’enseignement, mes projets en cours et mes actions de vulgarisation scientifique. Au cœur de celle-ci se trouve la présentation de mon projet **Marie Skłodowska-Curie Actions (MSCA)** : **Cognitive Trapeze**. Ce projet ambitionne de modéliser la co-évolution dynamique du langage et de la pensée dans des environnements d’apprentissage médiés par l’IA, répondant à des lacunes majeures en sciences cognitives et en éducation numérique.
+
+Le site met également en avant le programme **IA4ZEP**, qui apporte des solutions pédagogiques concrètes et assistées par l’IA dans les zones d’éducation prioritaires (ZEP) en Afrique. En reliant la théorie scientifique aux applications de terrain, ce portfolio reflète mon engagement à construire un pont éducatif durable entre l’Afrique et l’Europe.
+
+👉 **Découvrir mon projet MSCA ici :** [Cognitive Trapeze](/fr/msca/)
+👉 **Explorer l’initiative IA4ZEP :** [IA_4_ZEP](/fr/ia4zep/)
+
+---
 
 ### **Juin 2026 — Structuration de la plateforme IA_4_ZEP**  
 La page IA_4_ZEP est maintenant organisée autour de :  
