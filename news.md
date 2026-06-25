@@ -16,6 +16,46 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 This page gathers key updates related to my research, teaching, publications, and the IA_4_ZEP and MSCA projects.
 
 ---
+---
+layout: page
+title: "IA4ZEP in Action: From Digital Lessons to Pedagogical Innovation in Priority Zones"
+permalink: /news/
+lang: en
+---
+
+<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
+  🌐 <a href="/fr/news/" style="font-weight:bold;">FR</a>
+</div>
+
+# News & Updates  
+## Latest announcements, academic activities, and project milestones  
+
+---
+
+### **March 2026 — IA4ZEP in Action: From Digital Lessons to Pedagogical Innovation in Priority Zones**
+
+The 2026 edition of the Open Days and Entrepreneurial Days (JPOE) at the *Lycée Technique Bilingue de Ngaoundéré Mardock* highlighted a crucial reality: in priority education zones (ZEP), the lack of resources and motivation remains a major obstacle to quality teaching.
+
+However, a concrete response is already emerging. **Dr Jean Marie Ntsama**, founder of the **IA4ZEP** program and teacher at the high school, has developed and tested a **digitalized lesson plan** for a 6th-grade French reading class. This lesson integrates an **AI-generated animated video** of the tale *"Intelligence, the Elder Sister of Strength"*.
+
+👉 **Watch the video used for this lesson here:** [Intelligence, the Elder Sister of Strength](https://youtu.be/-bAZBe6-mtw?feature=shared)
+
+The lesson demonstrates that **AI-Augmented Pedagogy** is not a luxury for privileged schools, but an accessible tool that can:
+- **Motivate students** through engaging multimodal content.
+- **Reduce the dependence on expensive physical materials**, a recurring issue highlighted in the JPOE report.
+- **Support teachers** by providing ready-to-use, structured pedagogical frameworks.
+
+IA4ZEP is thus confirming its mission: combining scientific rigor with the harsh realities of the classroom to build a bridge between Africa and Europe in digital education. Work has also begun on civil engineering modules to digitalize technical training.
+
+---
+
+### **Upcoming Activities**
+- **Civil Engineering:** Development of AI-assisted tutorials for masonry and reinforced concrete.
+- **Teacher Training:** Workshop on the use of AI tools for lesson preparation and assessment.
+
+---
+
+<hr style="margin-top:40px;">
 
 # 🔔 2026  
 
