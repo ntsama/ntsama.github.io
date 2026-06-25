@@ -13,23 +13,6 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
 
-This page gathers key updates related to my research, teaching, publications, and the IA_4_ZEP and MSCA projects.
-
----
----
-layout: page
-title: "IA4ZEP in Action: From Digital Lessons to Pedagogical Innovation in Priority Zones"
-permalink: /news/
-lang: en
----
-
-<div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
-  🌐 <a href="/fr/news/" style="font-weight:bold;">FR</a>
-</div>
-
-# News & Updates  
-## Latest announcements, academic activities, and project milestones  
-
 ---
 
 ### **March 2026 — IA4ZEP in Action: From Digital Lessons to Pedagogical Innovation in Priority Zones**
@@ -54,8 +37,6 @@ IA4ZEP is thus confirming its mission: combining scientific rigor with the harsh
 - **Teacher Training:** Workshop on the use of AI tools for lesson preparation and assessment.
 
 ---
-
-<hr style="margin-top:40px;">
 
 # 🔔 2026  
 
