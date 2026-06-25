@@ -89,7 +89,10 @@ Building on the *Pedagogical Trapeze & Swing Model* and the **IA4ZEP** field exp
 Formalization of the Cognitive Trapeze model, integrating philosophy of language and cognitive science.
 
 ### WP2 — Empirical & Experimental Studies  
-Collection of empirical data through **field experimentation** in priority education zones. Deployment of AI-assisted reading protocols (using digitalized lesson plans and videos) to measure decoding-to-comprehension shifts.
+- **Design and deployment** of a tablet-based AI reading assistant prototype in 3 pilot ZEP classes (Cameroon).  
+- **Data collection** on pronunciation accuracy, reading fluency, and comprehension rates.  
+- **Mixed-methods analysis** correlating performance data with qualitative feedback from teachers and learners.  
+- **Iterative refinement** of the application based on field results.
 
 ### WP3 — Computational Modeling  
 Agent‑based simulation of the language–thought dynamics during reading comprehension tasks.
