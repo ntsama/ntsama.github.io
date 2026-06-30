@@ -100,8 +100,22 @@ Measuring cognitive, pedagogical, and social outcomes.
 
 ---
 
+### Pilot Materials Already Developed
+The IA4ZEP program has already produced concrete pedagogical resources for the 6th‑grade French curriculum:
+
+- **Digital lesson plan** for the tale *“La parole vaut contrat”*, following the official 5‑step guided reading protocol (situation, reading, grid, confrontation, synthesis).
+- **AI‑generated video** illustrating the story, available here: [https://youtu.be/4pYfYoghKm0](https://youtu.be/4pYfYoghKm0).
+
+These materials will serve as the primary corpus for the **empirical pilot phase (WP2)** of the MSCA project, demonstrating that the approach is already grounded in real classroom practice.
+
+---
+
 ### AI Reading Companion Pilot
-IA4ZEP is currently developing a **digital reading companion** to support guided reading in 6th-grade French classes. The tool will be piloted in the 2026-2027 school year. It integrates state-of-the-art speech recognition to evaluate pronunciation and comprehension, providing immediate feedback to learners. This initiative is a direct application of the Cognitive Trapeze Model in a real classroom setting.
+IA4ZEP is currently developing a **digital reading companion** to support guided reading in 6th‑grade French classes. The application will be piloted during the 2026‑2027 school year.
+
+It integrates state‑of‑the‑art speech recognition and natural language processing to evaluate pronunciation and comprehension, providing immediate, adaptive feedback to learners. The tool is designed to follow the **official 5‑step guided reading methodology**, ensuring alignment with the national curriculum.
+
+This initiative is a direct, field‑based application of the **Cognitive Trapeze Model**.
 
 ---
 
