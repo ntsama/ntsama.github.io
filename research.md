@@ -50,12 +50,15 @@ Focus areas:
 - cognitive scaffolding  
 - AI as a cognitive partner  
 
-#### **AI-Powered Reading Companion for ZEP**
-In collaboration with the **IA4ZEP** program, I am designing a mobile application that uses **Automatic Speech Recognition (ASR)** and **Large Language Models (LLM)** to support guided reading sessions in priority education zones. The app provides:
+#### AI-Powered Reading Companion for ZEP
+In collaboration with the **IA4ZEP** program, I am designing a mobile application that uses **Automatic Speech Recognition (ASR)** and **Large Language Models (LLM)** to support guided reading sessions in priority education zones.
+
+The application strictly follows the **official 5-step guided reading methodology** (situation, reading, grid, confrontation, synthesis) prescribed by the Cameroonian curriculum for 6th grade French classes. It provides:
 - Real-time pronunciation feedback (phonetic accuracy, fluency, prosody).
 - Semantic comprehension checks (literal and inferential questions).
-- A performance dashboard with a **90% progression threshold**, ensuring learners achieve mastery before moving forward.
-This tool bridges the gap between **linguistic decoding** and **deep semantic comprehension**, directly validating the **Cognitive Trapeze Model**.
+- A performance dashboard with a **90% mastery threshold**, ensuring learners achieve proficiency before progressing.
+
+This tool bridges the gap between **linguistic decoding** and **deep semantic comprehension**, directly validating the **Cognitive Trapeze Model** and aligning with national educational priorities.
 
 ### Axis 3 — Digital Literacies in African Contexts  
 Investigating how learners in African contexts engage with digital tools.  
