@@ -21,6 +21,8 @@ Le projet intègre l'analyse conceptuelle, l'expérimentation cognitive, les don
 
 **Objectif pédagogique central :** Le projet cible spécifiquement la **lecture suivie** dans les zones d'éducation prioritaire (ZEP). Il vise à démontrer comment les outils multimodaux assistés par l'IA aident les apprenants à combler le fossé entre le **décodage linguistique** et la **compréhension sémantique profonde**.
 
+**Matériels pilotes déjà développés :** Une **fiche de leçon digitalisée** et une **vidéo générée par l'IA** pour le conte *« La parole vaut contrat »* (classe de 6ème) ont déjà été produites, suivant le protocole officiel en 5 étapes. Ces ressources serviront de corpus principal pour la phase pilote empirique.
+
 Les résultats attendus comprennent :  
 - un modèle théorique unifié (Trapèze Cognitif) ;  
 - des perspectives empiriques sur les apprenants multilingues et neurodivers ;  
@@ -37,7 +39,7 @@ Trapèze Cognitif : Modélisation de la Dynamique Langage–Pensée dans l'Appre
 
 ## 2. Résumé  
 Ce projet explore comment le **langage et la pensée co-évoluent** au sein d'environnements d'apprentissage augmentés par l'IA.  
-S'appuyant sur le *Modèle du Trapèze et de la Balançoire Pédagogiques* et sur l'expérience de terrain du programme **IA4ZEP**, il propose un cadre dynamique pour modéliser la manière dont les apprenants se déplacent entre les structures linguistiques, les représentations cognitives et la médiation technologique. L'objectif spécifique est d'améliorer la compréhension en lecture en intégrant du contenu multimodal généré par l'IA (vidéo, audio, feedback adaptatif) dans les séances de lecture suivie, réduisant ainsi la charge cognitive et facilitant l'accès sémantique.
+S'appuyant sur le *Modèle du Trapèze et de la Balançoire Pédagogiques* et sur l'expérience de terrain du programme **IA4ZEP**, il propose un cadre dynamique pour modéliser la manière dont les apprenants se déplacent entre les structures linguistiques, les représentations cognitives et la médiation technologique. L'objectif spécifique est d'améliorer la compréhension en lecture en intégrant du contenu multimodal généré par l'IA (vidéo, audio, feedback adaptatif) dans les séances de lecture suivie, réduisant ainsi la charge cognitive et facilitant l'accès sémantique. Le projet s'ancre dans le programme officiel de français de 6ème au Cameroun et suit sa méthodologie en 5 étapes.
 
 ## 3. Objectifs  
 
@@ -49,7 +51,8 @@ S'appuyant sur le *Modèle du Trapèze et de la Balançoire Pédagogiques* et su
 ### Objectifs méthodologiques  
 - Intégrer les approches théoriques, empiriques et computationnelles ;  
 - Développer une simulation multi-agents du processus de compréhension en lecture ;  
-- Produire un jeu de données multilingue d'interactions de lecture médiatisées par l'IA.  
+- Produire un jeu de données multilingue d'interactions de lecture médiatisées par l'IA ;  
+- **Aligner l'outil d'IA sur les programmes nationaux** et valider son efficacité dans des contextes de classe réels.  
 
 ### Objectifs de développement de carrière  
 - Renforcer l'expertise en sciences cognitives et en modélisation computationnelle ;  
@@ -86,19 +89,19 @@ S'appuyant sur le *Modèle du Trapèze et de la Balançoire Pédagogiques* et su
 ## Lots de travail (Work Packages)  
 
 ### WP1 — Fondements théoriques  
-Formalisation du modèle du Trapèze Cognitif, intégrant la philosophie du langage et les sciences cognitives.
+Formalisation du modèle du Trapèze Cognitif, intégrant la philosophie du langage et les sciences cognitives. Le modèle sera opérationnalisé à travers les trois boucles de rétroaction (courte, moyenne, longue) et le concept de savoir incarné.
 
 ### WP2 — Études empiriques et expérimentales  
-- **Conception et déploiement** d'un prototype d'assistant de lecture IA sur tablette dans 3 classes ZEP pilotes (Cameroun).  
-- **Collecte de données** sur la précision de la prononciation, la fluidité de lecture et les taux de compréhension.  
-- **Analyse par méthodes mixtes** corrélant les données de performance avec les retours qualitatifs des enseignants et des apprenants.  
-- **Amélioration itérative** de l'application en fonction des résultats de terrain.
+- **Sélection du corpus :** Déploiement de la leçon digitalisée *« La parole vaut contrat »*, intégrant la vidéo générée par l'IA et suivant la méthodologie officielle en 5 étapes.  
+- **Déploiement du prototype :** Test de l'application MVP (ASR + quiz de compréhension) dans 3 classes ZEP pilotes au Cameroun.  
+- **Collecte de données :** Mesure des progrès en fluidité de décodage, précision de la prononciation et scores de compréhension.  
+- **Amélioration itérative :** Ajustement du seuil de maîtrise de 90 % et des modalités de feedback en fonction des retours des enseignants et des données de performance des apprenants.  
 
 ### WP3 — Modélisation computationnelle  
-Simulation multi-agents de la dynamique langage–pensée lors de tâches de compréhension en lecture.
+Simulation multi-agents de la dynamique langage–pensée lors de tâches de compréhension en lecture, informée par les données empiriques collectées dans le WP2.
 
 ### WP4 — Dissémination et impact  
-Publications, ateliers, jeux de données ouverts et initiatives éducatives Afrique–Europe.
+Publications, ateliers, jeux de données ouverts et initiatives éducatives Afrique–Europe. Le projet produira également un **module de formation des enseignants** à l'enseignement de la lecture assisté par l'IA.
 
 ---
 
@@ -140,12 +143,31 @@ Le plan de formation comprend :
 
 ---
 
+# Feuille de route évolutive : MVP → ROT immersif
+
+Le projet est conçu avec une **stratégie évolutive en deux phases**, garantissant à la fois le réalisme à court terme et l'ambition à long terme.
+
+**Phase 1 – MVP (2026–2027) : Assistant de lecture suivie**  
+- Fonctionnalités de base : lecture de texte intégral, feedback ASR, quiz de compréhension, seuil de maîtrise de 90 %.  
+- Déploiement sur tablettes et smartphones Android dans des classes ZEP pilotes.  
+- Alignement strict avec la méthodologie officielle en 5 étapes.
+
+**Phase 2 – ROT immersif (2027–2029) : Entraînement oral à la lecture (Reading Oral Training)**  
+- Progression graduée : mot → phrase → texte intégral.  
+- Gamification : niveaux, défis, suivi des progrès, badges.  
+- Soutien multimodal : vidéos illustratives courtes (≤30 sec), remédiation adaptative.  
+- Rétrocompatibilité avec l'architecture MVP via une API de progression dédiée.
+
+Cette feuille de route sera présentée aux évaluateurs comme un **chemin de développement réaliste mais visionnaire**, démontrant que le projet est à la fois faisable aujourd'hui et évolutif pour l'avenir.
+
+---
+
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/fr/a-propos/">À propos</a> •
-  <a href="/fr/theorie/">Théorie</a> •
-  <a href="/fr/recherche/">Recherche</a> •
+  <a href="/fr/about/">À propos</a> •
+  <a href="/fr/theory/">Théorie</a> •
+  <a href="/fr/research/">Recherche</a> •
   <a href="/fr/msca/">MSCA</a> •
   <a href="/fr/ia4zep/">IA_4_ZEP</a> •
   <a href="/fr/faq/">FAQ</a>
