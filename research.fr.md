@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Recherche — Langage, Pensée & IA"
-permalink: /fr/recherche/
+permalink: /fr/research/
 lang: fr
 description: "Programme de recherche de Jean Marie Ntsama — dynamique langage-pensée, apprentissage augmenté par l'IA, littératies numériques et modélisation computationnelle."
 ---
@@ -50,12 +50,15 @@ Domaines d'intérêt :
 - l'étayage cognitif ;  
 - l'IA comme partenaire cognitif.  
 
-#### **Compagnon de Lecture Assisté par l'IA pour les ZEP**
-En collaboration avec le programme **IA4ZEP**, je conçois une application mobile qui utilise la **Reconnaissance Automatique de la Parole (ASR)** et les **Grands Modèles de Langage (LLM)** pour soutenir des séances de lecture guidée dans les zones d'éducation prioritaire. L'application fournit :
+#### Compagnon de Lecture Assisté par l'IA pour les ZEP
+En collaboration avec le programme **IA4ZEP**, je conçois une application mobile qui utilise la **Reconnaissance Automatique de la Parole (ASR)** et les **Grands Modèles de Langage (LLM)** pour soutenir des séances de lecture guidée dans les zones d'éducation prioritaire (ZEP).
+
+L'application suit rigoureusement la **méthodologie officielle en 5 étapes** (situation, lecture, grille, confrontation, synthèse) prescrite par le programme camerounais pour les classes de 6ème en français. Elle fournit :
 - Un retour en temps réel sur la prononciation (précision phonétique, fluidité, prosodie).
 - Des vérifications de la compréhension sémantique (questions littérales et inférentielles).
-- Un tableau de bord de performance avec un **seuil de progression de 90 %**, garantissant que les apprenants atteignent la maîtrise avant de passer à l'étape suivante.
-Cet outil comble le fossé entre le **décodage linguistique** et la **compréhension sémantique profonde**, validant directement le **Modèle du Trapèze Cognitif**.
+- Un tableau de bord de performance avec un **seuil de maîtrise de 90 %**, garantissant que les apprenants atteignent la compétence avant de passer à l'étape suivante.
+
+Cet outil comble le fossé entre le **décodage linguistique** et la **compréhension sémantique profonde**, validant directement le **Modèle du Trapèze Cognitif** et s'alignant sur les priorités éducatives nationales.
 
 ### Axe 3 — Littératies Numériques en Contextes Africains  
 Étude de la manière dont les apprenants en contextes africains interagissent avec les outils numériques.  
@@ -108,9 +111,9 @@ Il fournit un cadre cohérent pour :
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/fr/a-propos/">À propos</a> •
-  <a href="/fr/theorie/">Théorie</a> •
-  <a href="/fr/recherche/">Recherche</a> •
+  <a href="/fr/about/">À propos</a> •
+  <a href="/fr/theory/">Théorie</a> •
+  <a href="/fr/research/">Recherche</a> •
   <a href="/fr/msca/">MSCA</a> •
   <a href="/fr/ia4zep/">IA_4_ZEP</a> •
   <a href="/fr/faq/">FAQ</a>
