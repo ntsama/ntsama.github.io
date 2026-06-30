@@ -41,6 +41,22 @@ This model explains how AI tools influence:
 - metacognitive awareness  
 - multimodal understanding  
 
+### The Three Feedback Loops
+The Cognitive Trapeze functions as a cybernetic learning system, structured around three nested feedback loops:
+
+- **Short loop (Learner – AI – Knowledge):** Instant correction during oral reading. The AI captures pronunciation via ASR, compares it to the target text, and delivers immediate multimodal feedback (visual, auditory, haptic).
+- **Medium loop (Teacher – AI – Learner):** Aggregated performance data (reading time, recurrent errors) is provided to the teacher, who adjusts parameters (text choice, difficulty thresholds) or intervenes directly.
+- **Long loop (Teacher – Knowledge – AI):** The teacher selects and sequences content. The AI, using language models and learner corpora, suggests tailored exercises and reorganizations, enabling massive differentiation.
+
+### Embodied Knowledge
+The model integrates the concept of **embodied knowledge** (Varela, Thompson & Rosch, 1991). Learning is not merely abstract; it is multi-sensory. The AI presents knowledge through:
+
+- **Auditory modality:** correct pronunciation model, slowed or contrasted playback of the learner's own voice.
+- **Visual modality:** dynamically annotated text (highlighted syllables, intonation graphs).
+- **Haptic modality:** brief vibrations to mark syllabic rhythm or omissions.
+
+These feedbacks are not merely corrective; they are contingent and adaptive, ensuring redundancy that favors memorization and automatization.
+
 ---
 
 ## 2. The Pedagogical Swing  
