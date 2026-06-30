@@ -41,6 +41,22 @@ Ce modèle permet d’analyser l’influence de l’IA sur :
 - la conscience métacognitive  
 - la compréhension multimodale  
 
+### Les trois boucles de rétroaction
+Le Trapèze Cognitif fonctionne comme un système cybernétique d’apprentissage, structuré autour de trois boucles de rétroaction emboîtées :
+
+- **Boucle courte (Apprenant – IA – Savoir) :** Correction instantanée lors de la lecture oralisée. L’IA capture la prononciation via la reconnaissance vocale (ASR), la confronte au texte cible, et délivre un feedback multimodal immédiat (visuel, auditif, haptique).
+- **Boucle moyenne (Enseignant – IA – Apprenant) :** L’IA restitue à l’enseignant des données agrégées de performance (temps de lecture, erreurs récurrentes). L’enseignant ajuste les paramètres (choix des textes, seuils de difficulté) ou intervient directement.
+- **Boucle longue (Enseignant – Savoir – IA) :** L’enseignant sélectionne et séquence les contenus. L’IA, en s’appuyant sur des modèles linguistiques et des corpus de productions d’élèves, suggère des exercices ciblés et des réorganisations, facilitant une différenciation massive.
+
+### Le savoir incarné
+Le modèle intègre le concept de **savoir incarné** (Varela, Thompson & Rosch, 1991). L’apprentissage n’est pas seulement abstrait ; il est multisensoriel. L’IA présente le savoir à travers :
+
+- **Modalité auditive :** modèle de prononciation correcte, écoute ralentie ou contrastée de la propre voix de l’apprenant.
+- **Modalité visuelle :** texte dynamiquement annoté (syllabes surlignées, courbes intonatives).
+- **Modalité haptique :** brèves vibrations pour marquer le rythme syllabique ou signaler des omissions.
+
+Ces feedbacks ne sont pas seulement correctifs ; ils sont contingents et adaptatifs, assurant une redondance pédagogique qui favorise la mémorisation et l’automatisation.
+
 ---
 
 ## 2. La Balançoire Pédagogique  
@@ -86,10 +102,10 @@ Il soutient :
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
-  <a href="/about_fr/">À propos</a> •
-  <a href="/theory_fr/">Théorie</a> •
-  <a href="/research_fr/">Recherche</a> •
-  <a href="/msca_fr/">MSCA</a> •
-  <a href="/ia4zep_fr/">IA_4_ZEP</a> •
-  <a href="/faq_fr/">FAQ</a>
+  <a href="/fr/about/">À propos</a> •
+  <a href="/fr/theory/">Théorie</a> •
+  <a href="/fr/research/">Recherche</a> •
+  <a href="/fr/msca/">MSCA</a> •
+  <a href="/fr/ia4zep/">IA_4_ZEP</a> •
+  <a href="/fr/faq/">FAQ</a>
 </div>
