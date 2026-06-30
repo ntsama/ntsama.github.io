@@ -100,8 +100,22 @@ Mesure des résultats cognitifs, pédagogiques et sociaux.
 
 ---
 
-### Projet Pilote de Compagnon de Lecture IA
-IA4ZEP développe actuellement un **compagnon de lecture numérique** pour soutenir la lecture suivie dans les classes de français de 6e. L'outil sera testé en phase pilote durant l'année scolaire 2026-2027. Il intègre une reconnaissance vocale de pointe pour évaluer la prononciation et la compréhension, fournissant un feedback immédiat aux apprenants. Cette initiative est une application directe du Modèle du Trapèze Cognitif dans un contexte réel de classe.
+### Matériels pilotes déjà développés
+Le programme IA4ZEP a déjà produit des ressources pédagogiques concrètes pour le programme de français de 6ème :
+
+- **Fiche de leçon digitalisée** pour le conte *« La parole vaut contrat »*, suivant le protocole officiel en 5 étapes (situation, lecture, grille, confrontation, synthèse).
+- **Vidéo générée par l'IA** illustrant l'histoire, disponible ici : [https://youtu.be/4pYfYoghKm0](https://youtu.be/4pYfYoghKm0).
+
+Ces matériels serviront de corpus principal pour la **phase pilote empirique (WP2)** du projet MSCA, démontrant que l'approche est déjà ancrée dans la pratique réelle de la classe.
+
+---
+
+### Projet pilote de compagnon de lecture IA
+IA4ZEP développe actuellement un **compagnon de lecture numérique** pour soutenir la lecture suivie dans les classes de français de 6ème. L'application sera testée en phase pilote durant l'année scolaire 2026-2027.
+
+Elle intègre une reconnaissance vocale et un traitement du langage naturel de pointe pour évaluer la prononciation et la compréhension, fournissant un feedback immédiat et adaptatif aux apprenants. L'outil est conçu pour suivre la **méthodologie officielle en 5 étapes**, garantissant un alignement avec le programme national.
+
+Cette initiative est une application directe et terrain du **Modèle du Trapèze Cognitif**.
 
 ---
 
@@ -124,9 +138,9 @@ IA_4_ZEP ambitionne de devenir un **modèle de référence** pour l'éducation a
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.8;">
-  <a href="/fr/a-propos/">À propos</a> • 
-  <a href="/fr/theorie/">Théorie</a> • 
-  <a href="/fr/recherche/">Recherche</a> • 
+  <a href="/fr/about/">À propos</a> • 
+  <a href="/fr/theory/">Théorie</a> • 
+  <a href="/fr/research/">Recherche</a> • 
   <a href="/fr/msca/">MSCA</a> • 
   <a href="/fr/ia4zep/">IA_4_ZEP</a> •
   <a href="/fr/faq/">FAQ</a>
