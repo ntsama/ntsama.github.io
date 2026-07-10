@@ -38,6 +38,16 @@ Basé à **Ngaoundéré (Cameroun)** et collaborant entre **l’Europe et l’Af
 
 ---
 
+## Supervision et équipe de recherche
+
+Le projet **« Cognitive Trapeze »** est encadré par une équipe internationale solide :
+
+- **Co-superviseur international :** Professeur Marcelo Worsley (Université Northwestern, États-Unis) — Co-superviseur confirmé pour les phases de modélisation computationnelle et de prototypage IA, avec un secondement de 7 mois prévu à Northwestern (M10–M16).
+- **Superviseur terrain :** Professeur Pius Ondoua (Université de Yaoundé I, Cameroun) — Coordinateur des expérimentations empiriques dans les écoles ZEP.
+- **Superviseur hôte principal (Europe) :** *En cours de confirmation via le réseau académique du Professeur Worsley (France, Belgique ou Suisse).*
+
+---
+
 ## Vision MSCA  
 Mon projet MSCA — **Cognitive Trapeze** — vise à modéliser la co‑évolution du langage et de la pensée dans des environnements d’apprentissage augmentés par IA.
 
