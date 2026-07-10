@@ -32,6 +32,16 @@ Les résultats attendus comprennent :
 
 ---
 
+# État d'avancement du projet (Juillet 2026)
+
+**✅ Co‑supervision confirmée :** Le Professeur Marcelo Worsley (Université Northwestern, États‑Unis) a officiellement accepté d’être mon **co‑superviseur** pour le projet MSCA, avec un **secondement de 7 mois à Northwestern (M10–M16)** consacré à la modélisation computationnelle et au prototypage de l’IA.
+
+**⏳ Hôte principal en Europe :** Le Professeur Worsley m’accompagne activement dans l’identification d’un **superviseur principal en Europe** (France, Belgique ou Suisse) grâce à son réseau académique.
+
+**✅ Preuve de concept technique validée :** La première expérimentation ASR pilote (Whisper Tiny/Medium/Large sur 4 apprenants en classe ZEP) a été menée et analysée. Les résultats valident le choix de **Whisper Large quantifié** comme moteur ASR embarqué, couplé à un LLM léger pour la vérification sémantique. Le rapport complet WER a été partagé avec le Professeur Worsley et est disponible sur ce site.
+
+---
+
 # PARTIE B1 — EXCELLENCE  
 
 ## 1. Titre du projet  
@@ -55,9 +65,9 @@ S'appuyant sur le *Modèle du Trapèze et de la Balançoire Pédagogiques* et su
 - **Aligner l'outil d'IA sur les programmes nationaux** et valider son efficacité dans des contextes de classe réels.  
 
 ### Objectifs de développement de carrière  
-- Renforcer l'expertise en sciences cognitives et en modélisation computationnelle ;  
-- Construire un réseau de recherche international (Europe–Afrique) ;  
-- Publier des travaux interdisciplinaires à fort impact.  
+- Renforcer l'expertise en sciences cognitives et en modélisation computationnelle, notamment grâce au **secondement de 7 mois à l'Université Northwestern** sous la co‑supervision du **Professeur Marcelo Worsley**.  
+- Construire un réseau de recherche international (Europe–Afrique–États‑Unis) via une collaboration active avec le Professeur Worsley et l'identification d'un hôte principal européen.  
+- Publier des travaux interdisciplinaires à fort impact co‑signés avec le Professeur Worsley.  
 
 ---
 
@@ -66,7 +76,7 @@ S'appuyant sur le *Modèle du Trapèze et de la Balançoire Pédagogiques* et su
 ## Impact sur le chercheur  
 - Expertise avancée en modélisation cognitive et en pédagogie de l'IA ;  
 - Profil interdisciplinaire solide faisant le lien entre philosophie, linguistique et IA ;  
-- Visibilité internationale grâce aux réseaux européens et africains.  
+- Visibilité internationale grâce aux réseaux européens, africains et américains.  
 
 ## Impact sur l'établissement d'accueil  
 - Nouvelles collaborations en sciences cognitives et en éducation numérique ;  
@@ -100,6 +110,13 @@ Formalisation du modèle du Trapèze Cognitif, intégrant la philosophie du lang
 ### WP3 — Modélisation computationnelle  
 Simulation multi-agents de la dynamique langage–pensée lors de tâches de compréhension en lecture, informée par les données empiriques collectées dans le WP2.
 
+Ce travail sera mené en étroite collaboration avec le **Professeur Marcelo Worsley**, avec un développement intensif lors du **secondement de 7 mois à l'Université Northwestern (M10–M16)**. Les activités du secondement seront structurées comme suit :
+
+- **M10 – M11 :** Analyse des données de terrain (WER). Affinement du pipeline de pré‑traitement audio (filtrage du bruit, normalisation du volume). Collaboration avec les étudiants de master de Northwestern pour optimiser le moteur ASR.
+- **M12 – M14 :** Développement intensif de l'APK Android MVP. Intégration du modèle **Whisper Large quantifié** et du LLM **Qwen 0.5B** pour la vérification sémantique sur du matériel bas de gamme.
+- **M13 – M15 :** Implémentation de l'**API de progression** (structure de base de données SQLite pour le suivi multi‑utilisateur) et développement des **boucles de feedback multimodal** (visuel, auditif, haptique), garantissant l'adaptabilité aux profils neurodivers.
+- **M16 :** Finalisation du prototype et co‑rédaction d'un article scientifique sur l'architecture ASR/LLM embarquée pour environnements offline (soumis à une revue ou conférence de rang A).
+
 ### WP4 — Dissémination et impact  
 Publications, ateliers, jeux de données ouverts et initiatives éducatives Afrique–Europe. Le projet produira également un **module de formation des enseignants** à l'enseignement de la lecture assisté par l'IA.
 
@@ -108,7 +125,7 @@ Publications, ateliers, jeux de données ouverts et initiatives éducatives Afri
 ## Diagramme de Gantt (version texte)  
 - **Mois 1–6 :** WP1  
 - **Mois 4–18 :** WP2  
-- **Mois 10–24 :** WP3  
+- **Mois 10–24 :** WP3 (avec un secondement de 7 mois à Northwestern University de M10 à M16, structuré en phases jalon)  
 - **Mois 1–24 :** WP4  
 
 ---
@@ -129,7 +146,7 @@ Publications, ateliers, jeux de données ouverts et initiatives éducatives Afri
 ---
 
 # Adéquation avec l'établissement d'accueil et plan de formation  
-L'établissement d'accueil fournit :  
+L'établissement d'accueil en Europe fournira :  
 - une expertise en sciences cognitives et en IA ;  
 - un accès aux installations de modélisation computationnelle ;  
 - un encadrement interdisciplinaire ;  
@@ -140,6 +157,11 @@ Le plan de formation comprend :
 - des ateliers sur l'apprentissage médiatisé par l'IA ;  
 - des séminaires interdisciplinaires ;  
 - une mobilité de recherche à travers l'Europe.  
+
+**En complément, le secondement de 7 mois à l'Université Northwestern (États‑Unis) sous la co‑supervision du Professeur Marcelo Worsley permettra :**  
+- Une exposition unique aux technologies de pointe en analyse d'apprentissage multimodal et en conception d'IA centrée sur l'humain.  
+- Un accès direct aux ressources de calcul haute performance et aux assistants de recherche étudiants pour un prototypage rapide.  
+- Un mentorat sur la traduction de la recherche ASR/LLM en un outil éducatif offline déployable, renforçant les compétences en modélisation computationnelle essentielles pour le WP3.
 
 ---
 
