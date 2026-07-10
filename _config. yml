@@ -27,6 +27,8 @@ navbar:
     url: /ia4zep/
   - title: "Publications"
     url: /publications/
+  - title: "ASR Pilot"
+    url: /asr-pilot/
   - title: "Teaching"
     url: /teaching/
   - title: "Talks"
