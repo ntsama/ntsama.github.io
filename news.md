@@ -15,6 +15,20 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 
 ---
 
+### **July 2026 — Successful Preliminary Meeting with Prof. Marcelo Worsley (Northwestern University, USA)**
+
+I am delighted to announce that I have successfully completed an exploratory meeting with **Prof. Marcelo Worsley** from Northwestern University (USA). Prof. Worsley has officially accepted to serve as my **co-supervisor** for the MSCA "Cognitive Trapeze" project, with a planned 7‑month secondment at Northwestern University (M10–M16) dedicated to the computational modeling and prototyping phase of the project.
+
+He has also kindly offered to leverage his academic network to help me identify a **primary supervisor in Europe**.
+
+The meeting centered on the technical architecture of our offline ASR engine. Based on our preliminary data collection in a ZEP classroom in Cameroon, we validated the choice of **Whisper Large quantized** for the embedded system and refined the dual‑layer architecture (ASR + lightweight LLM for semantic verification) to ensure robust pedagogical feedback.
+
+A full technical report on the Word Error Rate (WER) analysis of Text 1 has been shared with him. The results demonstrate that **Whisper Large is up to 17 times more accurate than Whisper Tiny** for calm readers (1.3% vs 50.6%), while Tiny proves unusable in real classroom conditions due to massive hallucinations.
+
+👉 **Read the full ASR pilot report:** [ASR Pilot & WER Analysis](/asr-pilot/)
+
+---
+
 ### **March 2026 — IA4ZEP in Action: From Digital Lessons to Pedagogical Innovation in Priority Zones**
 
 The 2026 edition of the Open Days and Entrepreneurial Days (JPOE) at the *Lycée Technique Bilingue de Ngaoundéré Mardock* highlighted a crucial reality: in priority education zones (ZEP), the lack of resources and motivation remains a major obstacle to quality teaching.
