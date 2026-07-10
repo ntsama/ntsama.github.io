@@ -15,6 +15,20 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 
 ---
 
+### **Juillet 2026 — Réunion préliminaire réussie avec le Professeur Marcelo Worsley (Université Northwestern, États-Unis)**
+
+J’ai le plaisir d’annoncer que j’ai mené avec succès une réunion exploratoire avec le **Professeur Marcelo Worsley** de l’Université Northwestern (États-Unis). Le Professeur Worsley a officiellement accepté de devenir mon **co-superviseur** pour le projet MSCA « Cognitive Trapeze », avec un **secondement de 7 mois prévu à l’Université Northwestern (du M10 au M16)** , consacré à la phase de modélisation computationnelle et de prototypage du projet.
+
+Il a également proposé de mobiliser son réseau académique pour m’aider à identifier un **superviseur principal en Europe**.
+
+L’échange a porté sur l’architecture technique de notre moteur ASR offline. Sur la base de notre collecte de données préliminaire dans une classe ZEP au Cameroun, nous avons validé le choix de **Whisper Large quantifié** pour le système embarqué et affiné l’architecture à double couche (ASR + LLM léger pour la vérification sémantique) pour garantir un feedback pédagogique robuste.
+
+Un rapport technique complet sur l’analyse du taux d’erreur de mots (WER) du Texte 1 lui a été partagé. Les résultats démontrent que **Whisper Large est jusqu’à 17 fois plus précis que Whisper Tiny** pour les lecteurs calmes (1,3 % contre 50,6 %), tandis que Tiny s’avère inutilisable en conditions réelles de classe en raison d’hallucinations massives.
+
+👉 **Consultez le rapport complet de l’expérimentation ASR :** [Expérimentation ASR et analyse WER](/fr/asr-pilot/)
+
+---
+
 ### **Mars 2026 — IA4ZEP en action : De la digitalisation des leçons à l’innovation pédagogique en ZEP**
 
 L’édition 2026 des Journées Portes Ouvertes et Entrepreneuriales (JPOE) au *Lycée Technique Bilingue de Ngaoundéré Mardock* a mis en lumière une réalité cruciale : dans les zones d’éducation prioritaires (ZEP), le manque de moyens et de motivation reste un obstacle majeur à un enseignement de qualité.
