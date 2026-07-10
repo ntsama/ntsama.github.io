@@ -38,6 +38,16 @@ Based in **Ngaoundéré (Cameroon)** and collaborating across **Europe and Afric
 
 ---
 
+## Supervision & Research Team
+
+The **"Cognitive Trapeze"** project is guided by a strong international team:
+
+- **International Co-Supervisor:** Prof. Marcelo Worsley (Northwestern University, USA) — Confirmed co-supervisor for the computational modeling and AI prototyping phases, with a planned 7-month secondment at Northwestern (M10–M16).
+- **Field Supervisor:** Prof. Pius Ondoua (University of Yaoundé I, Cameroon) — Coordinator for the empirical field experiments in the ZEP schools.
+- **Primary Host Supervisor (Europe):** *Currently being confirmed through Prof. Worsley's academic network (France, Belgium, or Switzerland).*
+
+---
+
 ## MSCA Research Vision  
 My MSCA project — **Cognitive Trapeze** — aims to model the co‑development of language and thought in AI‑augmented learning environments.
 
