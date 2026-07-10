@@ -32,6 +32,16 @@ Expected outcomes include:
 
 ---
 
+# Project Status (July 2026)
+
+**✅ Co-supervision confirmed:** Prof. Marcelo Worsley (Northwestern University, USA) has officially accepted to serve as my **co-supervisor** for the MSCA project, with a planned **7‑month secondment at Northwestern University (M10–M16)** dedicated to computational modeling and AI prototyping.
+
+**⏳ Primary host in Europe:** Prof. Worsley is actively assisting me in identifying a **primary supervisor in Europe** (France, Belgium, or Switzerland) through his academic network.
+
+**✅ Technical proof of concept validated:** The first ASR pilot experiment (Whisper Tiny/Medium/Large on 4 learners in a ZEP classroom) has been conducted and analyzed. The results validate the choice of **Whisper Large quantized** as the embedded ASR engine, paired with a lightweight LLM for semantic verification. The full WER report has been shared with Prof. Worsley and is available on this site.
+
+---
+
 # PART B1 — EXCELLENCE  
 
 ## 1. Project Title  
@@ -55,9 +65,9 @@ Building on the *Pedagogical Trapeze & Swing Model* and the **IA4ZEP** field exp
 - **Align the AI tool with national curricula** and validate its effectiveness in real classroom settings  
 
 ### Career Development Objectives  
-- Strengthen expertise in cognitive science and computational modeling  
-- Build an international research network (Europe–Africa)  
-- Publish high‑impact interdisciplinary work  
+- Strengthen expertise in cognitive science and computational modeling, particularly through the 7‑month secondment at **Northwestern University** under the co‑supervision of **Prof. Marcelo Worsley**.  
+- Build an international research network (Europe–Africa–USA) through active collaboration with Prof. Worsley and the identification of a European primary host.  
+- Publish high‑impact interdisciplinary work co‑authored with Prof. Worsley.  
 
 ---
 
@@ -66,7 +76,7 @@ Building on the *Pedagogical Trapeze & Swing Model* and the **IA4ZEP** field exp
 ## Impact on the Researcher  
 - Advanced expertise in cognitive modeling and AI pedagogy  
 - Strong interdisciplinary profile bridging philosophy, linguistics, and AI  
-- International visibility through European and African networks  
+- International visibility through European, African, and American networks  
 
 ## Impact on the Host Institution  
 - New collaborations in cognitive science and digital education  
@@ -98,7 +108,14 @@ Formalization of the Cognitive Trapeze model, integrating philosophy of language
 - **Iterative refinement:** Adjusting the 90% mastery threshold and feedback modalities based on teacher feedback and learner performance data.  
 
 ### WP3 — Computational Modeling  
-Agent‑based simulation of the language–thought dynamics during reading comprehension tasks, informed by the empirical data collected in WP2.
+Agent‑based simulation of the language–thought dynamics during reading comprehension tasks, informed by the empirical data collected in WP2. 
+
+This work will be carried out in close collaboration with **Prof. Marcelo Worsley**, with intensive development during the **7‑month secondment at Northwestern University (M10–M16)**. The secondment activities will be structured as follows:
+
+- **M10 – M11:** Analysis of field data (WER). Refinement of the audio pre‑processing pipeline (noise filtering, volume normalization). Collaboration with Northwestern Master’s students to optimize the ASR engine.
+- **M12 – M14:** Intensive development of the MVP Android APK. Integration of the quantized **Whisper Large** model and the **Qwen 0.5B** LLM for semantic verification on low-end hardware.
+- **M13 – M15:** Implementation of the **progression API** (SQLite database structure for multi‑user tracking) and development of the **multimodal feedback loops** (visual, auditory, haptic), ensuring adaptability to neurodiverse profiles.
+- **M16:** Finalization of the prototype and co‑authoring of a scientific article on the embedded ASR/LLM architecture for offline environments (submitted to a top‑tier journal or conference).
 
 ### WP4 — Dissemination & Impact  
 Publications, workshops, open datasets, and Africa–Europe educational initiatives. The project will also produce a **teacher training module** on AI‑assisted reading instruction.
@@ -108,7 +125,7 @@ Publications, workshops, open datasets, and Africa–Europe educational initiati
 ## Gantt Chart (text version)  
 - **Months 1–6:** WP1  
 - **Months 4–18:** WP2  
-- **Months 10–24:** WP3  
+- **Months 10–24:** WP3 (with a 7‑month secondment at Northwestern University from M10–M16, structured into specific milestone phases)  
 - **Months 1–24:** WP4  
 
 ---
@@ -129,7 +146,7 @@ Publications, workshops, open datasets, and Africa–Europe educational initiati
 ---
 
 # Host Fit & Training Plan  
-The host institution provides:  
+The host institution in Europe will provide:  
 - expertise in cognitive science and AI  
 - access to computational modeling facilities  
 - interdisciplinary supervision  
@@ -140,6 +157,11 @@ The training plan includes:
 - workshops on AI‑mediated learning  
 - interdisciplinary seminars  
 - research mobility across Europe  
+
+**In addition, the 7‑month secondment at Northwestern University (USA) under the co‑supervision of Prof. Marcelo Worsley will provide:**  
+- Unique exposure to cutting‑edge multimodal learning analytics and human‑centered AI design.  
+- Direct access to high‑performance computing resources and student research assistants for fast prototyping.  
+- Mentorship on translating ASR/LLM research into a deployable, offline educational tool, strengthening the computational modeling skills essential for WP3.
 
 ---
 
