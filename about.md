@@ -42,9 +42,10 @@ Based in **Ngaoundéré (Cameroon)** and collaborating across **Europe and Afric
 
 The **"Cognitive Trapeze"** project is guided by a strong international team:
 
-- **International Co-Supervisor:** Prof. Marcelo Worsley (Northwestern University, USA) — Confirmed co-supervisor for the computational modeling and AI prototyping phases, with a planned 7-month secondment at Northwestern (M10–M16).
-- **Field Supervisor:** Prof. Pius Ondoua (University of Yaoundé I, Cameroon) — Coordinator for the empirical field experiments in the ZEP schools.
-- **Primary Host Supervisor (Europe):** *Currently being confirmed through Prof. Worsley's academic network (France, Belgium, or Switzerland).*
+- **Primary Supervisor (Host Institution):** Prof. Daniel Spikol (University of Copenhagen, Denmark) — Overall project leadership, MSCA compliance, theoretical formalization, statistical analysis, and long‑term consortium building.
+- **Co‑Supervisor (Secondment):** Prof. Marcelo Worsley (Northwestern University, USA) — Scientific supervision for computational modeling and AI prototyping, with a 6‑month secondment (M10–M16) at the *tiilt lab*.
+- **Field Supervision:** Regional Delegation of MINESEC (Adamaoua) and its Regional Inspectors (ICR) for IT and Languages — Oversee deployment, teacher training, protocol adherence, and data collection in the 4 pilot schools.
+- **Academic Advisor:** Prof. Pius Ondoua (University of Yaoundé I, Cameroon) — Theoretical grounding in philosophy of language and remedial pedagogy, ensuring philosophical coherence with empirical findings.
 
 ---
 
