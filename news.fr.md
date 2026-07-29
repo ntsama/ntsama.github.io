@@ -14,7 +14,15 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 ## Annonces, activités académiques et avancées des projets  
 
 ---
+### Juillet 2026 — Institution hôte et équipe de supervision confirmées pour le projet MSCA
 
+J’ai le plaisir d’annoncer que l’**Université de Copenhague (UCPH), Danemark**, a été officiellement confirmée comme institution hôte pour mon projet MSCA Postdoctoral Fellowship *« Cognitive Trapeze »*. Le projet sera supervisé par le **Professeur Daniel Spikol** (UCPH) comme superviseur principal, avec le **Professeur Marcelo Worsley** (Université Northwestern, États‑Unis) comme co‑superviseur pour les aspects computationnels, incluant un secondement de 6 mois (M10–M16) au *tiilt lab*.
+
+Les activités de terrain au Cameroun seront supervisées par la **Délégation Régionale du MINESEC (Adamaoua)** et ses Inspecteurs Régionaux (ICR). Le Professeur Pius Ondoua (Université de Yaoundé I) agit comme conseiller académique.
+
+La date limite de soumission pour l'appel MSCA 2026 est le 9 septembre 2026. Je finalise actuellement la proposition complète avec mon équipe de supervision.
+
+---
 ### **Juillet 2026 — Réunion préliminaire réussie avec le Professeur Marcelo Worsley (Université Northwestern, États-Unis)**
 
 J’ai le plaisir d’annoncer que j’ai mené avec succès une réunion exploratoire avec le **Professeur Marcelo Worsley** de l’Université Northwestern (États-Unis). Le Professeur Worsley a officiellement accepté de devenir mon **co-superviseur** pour le projet MSCA « Cognitive Trapeze », avec un **secondement de 7 mois prévu à l’Université Northwestern (du M10 au M16)** , consacré à la phase de modélisation computationnelle et de prototypage du projet.
