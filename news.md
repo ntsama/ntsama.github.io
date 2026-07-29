@@ -21,6 +21,7 @@ I am delighted to announce that the **University of Copenhagen (UCPH), Denmark**
 Field activities in Cameroon will be supervised by the **Regional Delegation of MINESEC (Adamaoua)** and its Regional Inspectors (ICR). Prof. Pius Ondoua (University of Yaoundé I) serves as academic advisor.
 
 The submission deadline for the MSCA 2026 call is 9 September 2026. I am now finalizing the full proposal with my supervision team.
+
 ---
 ### **July 2026 — Successful Preliminary Meeting with Prof. Marcelo Worsley (Northwestern University, USA)**
 
