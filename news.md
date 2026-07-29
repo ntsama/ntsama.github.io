@@ -14,7 +14,14 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 ## Latest announcements, academic activities, and project milestones  
 
 ---
+### July 2026 — Host Institution and Supervision Team Confirmed for MSCA Project
 
+I am delighted to announce that the **University of Copenhagen (UCPH), Denmark**, has officially been confirmed as the host institution for my MSCA Postdoctoral Fellowship project *"Cognitive Trapeze"*. The project will be supervised by **Prof. Daniel Spikol** (UCPH) as primary supervisor, with **Prof. Marcelo Worsley** (Northwestern University, USA) as co‑supervisor for the computational components, including a 6‑month secondment (M10–M16) at the *tiilt lab*.
+
+Field activities in Cameroon will be supervised by the **Regional Delegation of MINESEC (Adamaoua)** and its Regional Inspectors (ICR). Prof. Pius Ondoua (University of Yaoundé I) serves as academic advisor.
+
+The submission deadline for the MSCA 2026 call is 9 September 2026. I am now finalizing the full proposal with my supervision team.
+---
 ### **July 2026 — Successful Preliminary Meeting with Prof. Marcelo Worsley (Northwestern University, USA)**
 
 I am delighted to announce that I have successfully completed an exploratory meeting with **Prof. Marcelo Worsley** from Northwestern University (USA). Prof. Worsley has officially accepted to serve as my **co-supervisor** for the MSCA "Cognitive Trapeze" project, with a planned 7‑month secondment at Northwestern University (M10–M16) dedicated to the computational modeling and prototyping phase of the project.
