@@ -86,8 +86,16 @@ My work combines:
 This methodological diversity bridges **theory, empirical data, and computational simulation**.
 
 ---
+# 4. Research Hypotheses
 
-# 4. Europe–Africa Research Strategy  
+The project is built on four core hypotheses:
+
+- **H1 (Predictive validity):** The Bayesian model predicts reading gains (p < 0.05) explaining a substantial portion of variance (target ≥ 40%, subject to model complexity).
+- **H2 (Disorder sensitivity):** The AI tutors reduce the gap between dyslexic and typical learners by ≥ 25% (Cohen’s d ≥ 0.6) within 12 weeks of intervention.
+- **H3 (Multilingual transfer):** Strategies acquired in French transfer to Fulfulde at ≥ 60%.
+- **H4 (Scalability):** The prototype functions with > 80% fidelity in low‑bandwidth settings (< 2 Mbps) and offline mode.
+---
+# 5. Europe–Africa Research Strategy  
 Based in Ngaoundéré (Cameroon) and collaborating across Europe and Africa, my research builds bridges between:  
 - cognitive science  
 - digital education  
@@ -98,7 +106,7 @@ This strategy strengthens both scientific and societal impact.
 
 ---
 
-# 5. Alignment with My MSCA Project  
+# 6. Alignment with My MSCA Project  
 My MSCA project **Cognitive Trapeze** integrates all four research axes.  
 It provides a coherent framework for:  
 - theoretical modeling  
