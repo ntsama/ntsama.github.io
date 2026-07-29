@@ -86,8 +86,16 @@ Mon travail combine :
 Cette diversité méthodologique fait le pont entre la **théorie**, les **données empiriques** et la **simulation computationnelle**.
 
 ---
+# 4. Hypothèses de recherche
 
-# 4. Stratégie de Recherche Europe–Afrique  
+Le projet repose sur quatre hypothèses fondamentales :
+
+- **H1 (Validité prédictive) :** Le modèle bayésien prédit les progrès en lecture (p < 0,05) et explique une part substantielle de la variance (objectif ≥ 40 %, selon la complexité du modèle).
+- **H2 (Sensibilité aux troubles) :** Les tuteurs IA réduisent l'écart entre les apprenants dyslexiques et typiques d'au moins 25 % (d de Cohen ≥ 0,6) en 12 semaines d'intervention.
+- **H3 (Transfert multilingue) :** Les stratégies acquises en français se transfèrent au fulfulde à au moins 60 %.
+- **H4 (Passage à l'échelle) :** Le prototype fonctionne avec une fidélité > 80 % dans des environnements à faible bande passante (< 2 Mbps) et en mode hors ligne.
+---
+# 5. Stratégie de Recherche Europe–Afrique  
 Basé à Ngaoundéré (Cameroun) et collaborant à travers l'Europe et l'Afrique, ma recherche établit des ponts entre :  
 - les sciences cognitives ;  
 - l'éducation numérique ;  
@@ -98,7 +106,7 @@ Cette stratégie renforce à la fois l'impact scientifique et sociétal.
 
 ---
 
-# 5. Alignement avec mon Projet MSCA  
+# 6. Alignement avec mon Projet MSCA  
 Mon projet MSCA **Cognitive Trapeze** intègre les quatre axes de recherche.  
 Il fournit un cadre cohérent pour :  
 - la modélisation théorique ;  
