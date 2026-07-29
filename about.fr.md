@@ -42,9 +42,10 @@ Basé à **Ngaoundéré (Cameroun)** et collaborant entre **l’Europe et l’Af
 
 Le projet **« Cognitive Trapeze »** est encadré par une équipe internationale solide :
 
-- **Co-superviseur international :** Professeur Marcelo Worsley (Université Northwestern, États-Unis) — Co-superviseur confirmé pour les phases de modélisation computationnelle et de prototypage IA, avec un secondement de 7 mois prévu à Northwestern (M10–M16).
-- **Superviseur terrain :** Professeur Pius Ondoua (Université de Yaoundé I, Cameroun) — Coordinateur des expérimentations empiriques dans les écoles ZEP.
-- **Superviseur hôte principal (Europe) :** *En cours de confirmation via le réseau académique du Professeur Worsley (France, Belgique ou Suisse).*
+- **Superviseur principal (Institution hôte) :** Professeur Daniel Spikol (Université de Copenhague, Danemark) — Direction globale du projet, conformité MSCA, formalisation théorique, analyse statistique et construction de consortium.
+- **Co‑superviseur (Secondement) :** Professeur Marcelo Worsley (Université Northwestern, États‑Unis) — Supervision scientifique pour la modélisation computationnelle et le prototypage IA, avec un secondement de 6 mois (M10–M16) au *tiilt lab*.
+- **Supervision terrain :** Délégation Régionale du MINESEC (Adamaoua) et ses Inspecteurs Régionaux (ICR) en Informatique et en Langues — Supervision du déploiement, de la formation des enseignants, du respect du protocole et de la collecte de données dans les 4 écoles pilotes.
+- **Conseiller académique :** Professeur Pius Ondoua (Université de Yaoundé I, Cameroun) — Ancrage théorique en philosophie du langage et pédagogie curative, garant de la cohérence philosophique du modèle avec les résultats empiriques.
 
 ---
 
