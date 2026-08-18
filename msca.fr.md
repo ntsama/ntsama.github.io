@@ -26,7 +26,7 @@ Le projet intègre l'analyse conceptuelle, l'expérimentation cognitive, les don
 
 ---
 
-# État d'avancement du projet (Juillet 2026)
+# État d'avancement du projet (Août 2026)
 
 **✅ Institution hôte et superviseur principal confirmés :** Le projet est hébergé par l'**Université de Copenhague (UCPH), Danemark**, sous la supervision du **Professeur Daniel Spikol** (Département d'Informatique, DIKU).
 
@@ -34,7 +34,7 @@ Le projet intègre l'analyse conceptuelle, l'expérimentation cognitive, les don
 
 **✅ Supervision terrain :** La **Délégation Régionale du MINESEC (Adamaoua)** et ses Inspecteurs Régionaux (ICR) superviseront officiellement toutes les activités de terrain. Le **Professeur Pius Ondoua** (Université de Yaoundé I) agit en tant que conseiller académique pour la cohérence philosophique du modèle.
 
-**✅ Preuve de concept technique validée :** Plus de 18 textes du corpus ont été évalués (WER) dans des conditions réelles de classe. Les résultats valident le choix de **Whisper Large quantifié** comme moteur ASR embarqué, couplé à un LLM léger (Qwen 0.5B) pour la vérification sémantique. Un preprint est en cours de finalisation sur arXiv (co‑signé avec le Prof. Worsley).
+**✅ Dossier final validé :** La proposition complète (Partie A, Partie B-1, Partie B-2) a été examinée et validée par le bureau de soutien à la recherche de l'UCPH et l'équipe de supervision. La soumission finale sur le portail EU Funding & Tenders est prévue avant la date limite du **9 septembre 2026**.
 
 ---
 
@@ -96,7 +96,7 @@ S'appuyant sur le *Modèle du Trapèze Cognitif* et sur l'expérience de terrain
 ## Lots de travail (Work Packages)  
 
 ### WP1 — Fondements théoriques (M1–M8)  
-Formalisation du modèle du Trapèze Cognitif (réseaux bayésiens, ABM).  
+Formalisation du modèle du Trapèze Cognitif en un **réseau bayésien** et une **simulation multi‑agents (ABM)** prédictive.  
 *Livrable :* Rapport technique + **Article 1 (Théorie)** soumis en M8.  
 
 ### WP2 — Validation empirique (M6–M22)  
