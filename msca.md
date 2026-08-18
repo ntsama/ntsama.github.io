@@ -26,7 +26,7 @@ The project integrates conceptual analysis, cognitive experimentation, multiling
 
 ---
 
-# Project Status (July 2026)
+# Project Status (August 2026)
 
 **✅ Host institution and primary supervisor confirmed:** The project is hosted by the **University of Copenhagen (UCPH), Denmark**, under the supervision of **Prof. Daniel Spikol** (Department of Computer Science, DIKU).
 
@@ -34,7 +34,7 @@ The project integrates conceptual analysis, cognitive experimentation, multiling
 
 **✅ Field supervision:** The **Regional Delegation of MINESEC (Adamaoua)** and its Regional Inspectors (ICR) will officially supervise all field activities. **Prof. Pius Ondoua** (University of Yaoundé I) acts as academic advisor for the philosophical coherence of the model.
 
-**✅ Technical proof of concept validated:** Over 18 corpus texts have been evaluated (WER) under real classroom conditions. The results validate the choice of **quantized Whisper Large** as the on‑device ASR engine, paired with a lightweight LLM (Qwen 0.5B) for semantic verification. A preprint is being finalized on arXiv (co‑signed with Prof. Worsley).
+**✅ Proposal fully validated:** The full proposal (Part A, Part B-1, Part B-2) has been reviewed and validated by the UCPH Research Support Office and the supervision team. The final submission to the EU Funding & Tenders Portal is scheduled before the **9 September 2026** deadline.
 
 ---
 
@@ -96,7 +96,7 @@ Building on the *Cognitive Trapeze Model* and the field experience of the **IA4Z
 ## Work Packages  
 
 ### WP1 — Theoretical Foundations (M1–M8)  
-Formalization of the Cognitive Trapeze model (Bayesian networks, ABM).  
+Formalization of the Cognitive Trapeze model into a predictive **Bayesian network** and **agent‑based simulation (ABM)**.  
 *Deliverable:* Technical report + **Article 1 (Theoretical)** submitted at M8.  
 
 ### WP2 — Empirical Validation (M6–M22)  
