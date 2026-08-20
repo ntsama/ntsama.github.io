@@ -14,11 +14,11 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 ## Annonces, activités académiques et avancées des projets  
 
 ---
-### Août 2026 — L’évaluation ASR révèle des signatures de neurodiversité chez les apprenants ZEP
+### **Août 2026 — L’évaluation ASR révèle des signatures de neurodiversité chez les apprenants ZEP**
 
 Une évaluation ASR complète menée dans le cadre du projet Trapèze Cognitif a identifié des schémas acoustiques et attentionnels compatibles avec des profils neurodivergents chez 4 des 26 apprenants (15,4 %) d’une classe ZEP au Cameroun. En utilisant les modèles Whisper Tiny, Medium et Large comme outils diagnostiques, l’étude a appliqué quatre critères fondés sur des preuves pour détecter des traits de dyspraxie, de dysarthrie et du spectre TDAH.
 
-Ces résultats valident l’architecture à double couche ASR+LLM du projet et confirment que le prétraitement audio adaptatif et les seuils de maîtrise dépendants de l’état ne sont pas optionnels – ils sont essentiels pour une pédagogie inclusive. Les résultats seront intégrés dans le prochain preprint avec le Professeur Marcelo Worsley et guideront le développement du tuteur IA Trapèze Cognitif. Un rapport détaillé est disponible sur la page ASR Pilot.
+Ces résultats valident l’architecture à double couche ASR+LLM du projet et confirment que le prétraitement audio adaptatif et les seuils de maîtrise dépendants de l’état ne sont pas optionnels – ils sont essentiels pour une pédagogie inclusive. Les résultats seront intégrés dans le prochain preprint avec le Professeur Marcelo Worsley et guideront le développement du tuteur IA Trapèze Cognitif. Un rapport détaillé est disponible sur [la page ASR Pilot](/fr/asr-pilot/).
 
 ### **Août 2026 — Proposition MSCA finalement validée et prête pour la soumission**
 
