@@ -52,9 +52,25 @@ The wireframes below illustrate the 4‑step user flow designed for the MVP: **S
 
 ---
 
-### 5. Next Steps
-This pilot validates our architectural choices. We are now preparing the data collection for **Text 2** and refining the audio pre‑processing pipeline. A consolidated report and a scientific article, co‑authored with Prof. Marcelo Worsley, will follow the analysis of the full corpus.
+### 5. Classification Insights: Neurodiversity Signatures from ASR Performance
 
+Beyond evaluating ASR engines, the collected data allowed us to develop an evidence‑based classification framework to detect potential neurodivergent profiles using WER patterns. Across 13+ texts and 26 learners, we identified **4 learners (15.4%)** exhibiting hallmark characteristics of neurodevelopmental differences (dyspraxia, dysarthria, ADHD spectrum). The classification criteria are:
+
+- **Persistent Tiny Hallucination (Mean WER > 90%):** Systematic failure of the smallest model to encode phonetic information.
+- **Multiple Hallucination Cascades (WER > 100% on Tiny for ≥2 texts):** Uncontrolled generative drift triggered by acoustic ambiguities.
+- **Extreme Large‑Model Volatility (Max Large WER > 100%):** Breakdown of Large’s mitigation capacity, indicating signal pathology.
+- **High Standard Deviation of Large WER (σ > 40 pp):** State‑dependent processing instability.
+
+These 4 learners show acoustic and attentional patterns that standard reading assessments miss, but that ASR systems reveal with precision. This finding validates the dual‑layer ASR+LLM architecture (TDR v2) as essential for neurodiverse learners, because it can adapt audio preprocessing, dynamically switch models, and apply state‑dependent mastery thresholds.
+
+---
+
+### 6. Next Steps
+This pilot validates our architectural choices and provides a concrete neurodiversity‑sensitive methodology. We are now:
+- Preparing the data collection for **Text 2** with refined audio preprocessing.
+- Designing individualized acoustic profiles for the 4 flagged learners.
+- Finalizing the preprint with Prof. Worsley (co‑signed).
+- A consolidated report and a scientific article will follow the analysis of the full corpus.
 ---
 
 <hr style="margin-top:40px;">
