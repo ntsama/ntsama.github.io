@@ -63,6 +63,20 @@ Au‑delà de l’évaluation des moteurs ASR, les données collectées nous ont
 
 Ces 4 apprenants présentent des schémas acoustiques et attentionnels que les évaluations de lecture standard ne détectent pas, mais que les systèmes ASR révèlent avec précision. Cette découverte valide l’architecture à double couche ASR+LLM (TDR v2) comme essentielle pour les apprenants neurodivers, car elle peut adapter le prétraitement audio, changer dynamiquement de modèle et appliquer des seuils de maîtrise dépendants de l’état.
 
+### Analyse visuelle : les quatre cas neurodivers
+
+Le cadre de classification a identifié quatre apprenants dont les schémas de performance ASR sont fortement corrélés à des profils neurodivergents. Le graphique ci-dessous visualise leur taux d'erreur de mots (WER) sur les trois modèles Whisper (Tiny, Medium et Large).
+
+![Graphique de classification neurodivers](/assets/img/neurodiverse_classification_graph.png)
+
+**Récapitulatif des quatre apprenants identifiés :**
+
+- **Élève 03 – Soupçon de dysarthrie ou trouble moteur de la parole :** Caractérisé par un Tiny WER persistant > 90 % (5/7 textes), un effondrement catastrophique du Large WER (141,5 %) et une forte volatilité (\(\sigma\) = 51,3 pp). Le signal acoustique peine à être encodé, y compris par le modèle Large.
+- **Élève 06 – Soupçon de TDAH ou dérégulation :** Montre un ratio Medium/Large erratique et un effondrement extrême du Large (94,4 %). La performance varie fortement, indiquant un traitement dépendant de l'état plutôt qu'une limite de capacité fixe.
+- **Élève 22 – Soupçon de dyspraxie ou trouble du contrôle moteur :** Présente une performance Tiny extrême (WER > 100 % sur 3/3 textes) dominée par des hallucinations. Bien que le Large WER soit modéré (79,6 %), la pathologie acoustique est constamment présente sur tous les modèles.
+- **Élève 23 – Soupçon de dyspraxie ou dysarthrie :** Démontre un Tiny WER persistant > 100 % (sur 4 textes) avec des déclenchements d'hallucinations stables. Large WER modéré (50 %) mais forte volatilité (\(\sigma\) = 24,6 pp) suggérant une fragmentation attentionnelle et des effets de fatigue.
+
+**Enseignement pédagogique :** Ces quatre apprenants ne sont pas en « échec » face à l'ASR ; leur diversité acoustique et attentionnelle nécessite précisément l'architecture adaptative du Trapèze Cognitif (double couche ASR+LLM, prétraitement adaptatif, seuils dépendants de l'état) pour fournir un feedback pédagogique fiable et inclusif.
 ---
 
 ### 6. Prochaines étapes
