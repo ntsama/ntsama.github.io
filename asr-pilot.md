@@ -63,6 +63,20 @@ Beyond evaluating ASR engines, the collected data allowed us to develop an evide
 
 These 4 learners show acoustic and attentional patterns that standard reading assessments miss, but that ASR systems reveal with precision. This finding validates the dual‑layer ASR+LLM architecture (TDR v2) as essential for neurodiverse learners, because it can adapt audio preprocessing, dynamically switch models, and apply state‑dependent mastery thresholds.
 
+### Visual Analysis: The Four Neurodiverse Cases
+
+The classification framework identified four learners whose ASR performance patterns strongly correlate with neurodivergent profiles. The graph below visualizes their Word Error Rate (WER) across the three Whisper models (Tiny, Medium, and Large).
+
+![Neurodiversity Classification Graph](/assets/img/neurodiverse_classification_graph.png)
+
+**Summary of the four flagged learners:**
+
+- **Learner 03 – Suspected Dysarthria or Speech Motor Disorder:** Characterized by persistent Tiny WER > 90% (5/7 texts), catastrophic Large WER collapse (141.5%), and high volatility (\(\sigma\) = 51.3 pp). The acoustic signal struggles to be encoded even by the Large model.
+- **Learner 06 – Suspected ADHD or Dysregulation:** Shows erratic Medium/Large ratio and extreme Large collapse (94.4%). Performance shifts wildly, indicating state-dependent processing rather than a fixed capacity limit.
+- **Learner 22 – Suspected Dyspraxia or Motor Control Disorder:** Features extreme Tiny performance (WER > 100% on 3/3 texts) dominated by hallucinations. While Large WER is moderate (79.6%), the acoustic pathology is consistently present across all models.
+- **Learner 23 – Suspected Dyspraxia or Dysarthria:** Demonstrates persistent Tiny WER > 100% (across 4 texts) with stable hallucination triggers. Moderate Large WER (50%) but high volatility (\(\sigma\) = 24.6 pp) suggests attentional fragmentation and fatigue effects.
+
+**Pedagogical takeaway:** These four learners are not "failing" the ASR; their acoustic and attentional diversity requires the adaptive architecture of the Cognitive Trapeze (dual-layer ASR+LLM, adaptive preprocessing, state-dependent thresholds) to provide reliable, inclusive pedagogical feedback.
 ---
 
 ### 6. Next Steps
