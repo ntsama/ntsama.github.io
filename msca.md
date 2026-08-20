@@ -25,6 +25,55 @@ The project integrates conceptual analysis, cognitive experimentation, multiling
 **Field setting:** 4 pilot schools representing the 4 types of Cameroonian educational institutions (CES, CETIC, General Lycée, Technical Lycée), totaling approximately **160 learners**. All field activities are officially supervised by the **Regional Delegation of MINESEC (Adamaoua)** and its Regional Inspectors (ICR) for IT and Languages.
 
 ---
+---
+
+## Technical Proof of Concept – ASR Results from 60+ ZEP Learners
+
+To validate our ASR engine choice, we conducted a comparative evaluation campaign under real classroom conditions in Cameroon's Adamaoua ZEPs. Over **60 learners** were tested on **18 corpus texts**, comparing Whisper models (Tiny, Medium, Large).
+
+The results are clear:
+
+| Text | Grade | Whisper Tiny | Whisper Medium | Whisper Large |
+| :--- | :--- | :--- | :--- | :--- |
+| **Text 1** | 6th grade | 50.6% | 23.4% | **1.3%** |
+| **Text 2** | CE1 (Grade 1) | 75.5% | 29.6% | **24.5%** |
+| **Text 3** | CE2/CM1 | 97.4% | 32.9% | **23.1%** |
+| **Text 4** | CE2 | 83.8% | 31.5% | **25.7%** |
+| **Text 5** | CM1/CM2 | 78.0% | 24.4% | **14.9%** |
+| **Text 7** | CM2/6th grade | 75.5% | 12.9% | **14.8%** |
+
+*(WERs shown are averages for Whisper models. Large is the most reliable, delivering remarkable accuracy even in the most challenging conditions).*
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="/assets/images/synthese_texte1.png" alt="ASR Results Text 1" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/synthese_texte2.png" alt="ASR Results Text 2" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/synthese_texte3.png" alt="ASR Results Text 3" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/synthese_texte4.png" alt="ASR Results Text 4" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/synthese_texte5.png" alt="ASR Results Text 5" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/synthese_texte7.png" alt="ASR Results Text 7" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+</div>
+
+### 🔴 The Critical Challenge: Semantic Hallucinations
+
+Despite the excellent performance of **Whisper Large**, qualitative analysis reveals a fundamental problem for pedagogical use: **semantic hallucinations**. The model transcribes the sounds correctly, but inverts the meaning of the sentence or shifts the verb tense.
+
+**Real examples observed with our learners:**
+- *"La maman prépare le repas"* → **"La maman ne fait pas le repas"** *(Intrusive negation)*
+- *"Je regarde par la fenêtre"* → **"Je ne regarde pas la fenêtre"** *(Meaning inversion)*
+- *"Papa a acheté"* → **"Papa achetait"** *(Tense drift)*
+
+### ✅ The Architectural Solution: A Dual-Layer ASR + LLM
+
+These semantic errors are invisible to a simple phonetic corrector. They can only be detected by a **Language Model (LLM)** capable of understanding context.
+
+This is why the **TDR v2** of the Cognitive Trapeze application integrates a **mandatory dual-layer architecture**:
+1. **ASR Engine (quantized Whisper Large):** for phonetic decoding.
+2. **LLM Engine (Qwen 0.5B or Phi-3-mini):** for semantic verification, detecting meaning inversions, and correcting tense drifts before delivering feedback to the student.
+
+**This architecture is not an option: it is the guarantee of reliable pedagogical feedback.**
+
+---
+
 
 # Project Status (August 2026)
 
