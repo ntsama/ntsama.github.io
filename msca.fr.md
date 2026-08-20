@@ -20,6 +20,55 @@ description: "Projet MSCA — Trapèze Cognitif : modélisation computationnelle
 Le projet **Trapèze Cognitif** étudie comment le **langage et la pensée se développent conjointement** dans des environnements d'apprentissage augmentés par l'IA.  
 Le projet intègre l'analyse conceptuelle, l'expérimentation cognitive, les données multilingues et la modélisation computationnelle pour comprendre comment les apprenants naviguent entre les structures linguistiques, les représentations cognitives et la médiation technologique.
 
+---
+
+## Preuve de concept technique – Résultats ASR sur plus de 60 élèves en ZEP
+
+Pour valider le choix de notre moteur de reconnaissance vocale (ASR), nous avons mené une campagne d'évaluation comparative en conditions réelles de classe dans les ZEP de l'Adamaoua. Plus de **60 apprenants** ont été testés sur **18 textes du corpus**, en comparant les modèles Whisper (Tiny, Medium, Large).
+
+Les résultats sont sans équivoque :
+
+| Texte | Niveau | Whisper Tiny | Whisper Medium | Whisper Large |
+| :--- | :--- | :--- | :--- | :--- |
+| **Texte 1** | 6ème | 50,6 % | 23,4 % | **1,3 %** |
+| **Texte 2** | CE1 | 75,5 % | 29,6 % | **24,5 %** |
+| **Texte 3** | CE2/CM1 | 97,4 % | 32,9 % | **23,1 %** |
+| **Texte 4** | CE2 | 83,8 % | 31,5 % | **25,7 %** |
+| **Texte 5** | CM1/CM2 | 78,0 % | 24,4 % | **14,9 %** |
+| **Texte 7** | CM2/6ème | 75,5 % | 12,9 % | **14,8 %** |
+
+*(Les WER affichés sont des moyennes pour les modèles Whisper. Large est le plus fiable, avec une précision remarquable dans les conditions les plus difficiles).*
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="/assets/images/synthese_texte1.png" alt="Résultats ASR Texte 1" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/synthese_texte2.png" alt="Résultats ASR Texte 2" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/synthese_texte3.png" alt="Résultats ASR Texte 3" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/synthese_texte4.png" alt="Résultats ASR Texte 4" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/synthese_texte5.png" alt="Résultats ASR Texte 5" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+  <img src="/assets/images/synthese_texte7.png" alt="Résultats ASR Texte 7" style="max-width: 100%; height: auto; width: 400px; border: 1px solid #ddd; border-radius: 8px;">
+</div>
+
+### 🔴 Le défi critique : les hallucinations sémantiques
+
+Malgré l'excellente performance de **Whisper Large**, l'analyse qualitative révèle un problème fondamental pour un usage pédagogique : **les hallucinations sémantiques**. Le modèle transcrit correctement les sons, mais inverse le sens de la phrase ou change le temps verbal.
+
+**Exemples réels observés sur nos élèves :**
+- *"La maman prépare le repas"* → **"La maman ne fait pas le repas"** *(Négation intruse)*
+- *"Je regarde par la fenêtre"* → **"Je ne regarde pas la fenêtre"** *(Inversion de sens)*
+- *"Papa a acheté"* → **"Papa achetait"** *(Dérive temporelle)*
+
+### ✅ La solution architecturale : une double couche ASR + LLM
+
+Ces erreurs sémantiques sont invisibles pour un simple correcteur phonétique. Elles ne peuvent être détectées que par un **modèle de langage (LLM)** capable de comprendre le contexte.
+
+C'est pourquoi le **TDR v2** de l'application Cognitive Trapeze intègre une **double couche obligatoire** :
+1. **Moteur ASR (Whisper Large quantifié)** : pour le décodage phonétique.
+2. **Moteur LLM (Qwen 0.5B ou Phi-3-mini)** : pour la vérification sémantique, la détection des inversions de sens et la correction des dérives temporelles avant transmission du feedback à l'élève.
+
+**Cette architecture n'est pas une option : elle est la garantie d'un feedback pédagogique fiable.**
+
+---
+
 **Objectif pédagogique central :** Le projet cible spécifiquement la **lecture suivie** dans les zones d'éducation prioritaire (ZEP) du Cameroun. Il vise à démontrer comment les outils multimodaux assistés par l'IA aident les apprenants à combler le fossé entre le **décodage linguistique** et la **compréhension sémantique profonde**.
 
 **Terrain empirique :** 4 écoles pilotes représentant les 4 types d'établissements du système éducatif camerounais (CES, CETIC, Lycée Général, Lycée Technique), soit environ **160 apprenants**. L'ensemble des activités de terrain est officiellement supervisé par la **Délégation Régionale du MINESEC (Adamaoua)** et ses Inspecteurs Régionaux (ICR) en Informatique et en Langues.
