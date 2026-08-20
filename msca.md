@@ -25,7 +25,6 @@ The project integrates conceptual analysis, cognitive experimentation, multiling
 **Field setting:** 4 pilot schools representing the 4 types of Cameroonian educational institutions (CES, CETIC, General Lycée, Technical Lycée), totaling approximately **160 learners**. All field activities are officially supervised by the **Regional Delegation of MINESEC (Adamaoua)** and its Regional Inspectors (ICR) for IT and Languages.
 
 ---
----
 
 ## Technical Proof of Concept – ASR Results from 60+ ZEP Learners
 
@@ -73,7 +72,6 @@ This is why the **TDR v2** of the Cognitive Trapeze application integrates a **m
 **This architecture is not an option: it is the guarantee of reliable pedagogical feedback.**
 
 ---
-
 
 # Project Status (August 2026)
 
