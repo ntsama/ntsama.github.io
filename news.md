@@ -14,11 +14,11 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 ## Latest announcements, academic activities, and project milestones  
 
 ---
-### August 2026 — ASR Evaluation Reveals Neurodiversity Signatures in ZEP Learners
+### **August 2026 — ASR Evaluation Reveals Neurodiversity Signatures in ZEP Learners**
 
 A comprehensive ASR evaluation conducted as part of the Cognitive Trapeze project has identified acoustic and attentional patterns consistent with neurodivergent profiles in 4 out of 26 learners (15.4%) from a Priority Education Zone (ZEP) classroom in Cameroon. Using Whisper Tiny, Medium, and Large as diagnostic tools, the study applied four evidence‑based criteria to detect dyspraxia, dysarthria, and ADHD‑spectrum traits.
 
-These findings validate the project’s dual‑layer ASR+LLM architecture and confirm that adaptive, learner‑specific audio preprocessing and state‑dependent mastery thresholds are not optional—they are essential for inclusive pedagogy. The results will be incorporated into the upcoming preprint with Prof. Marcelo Worsley and will inform the development of the Cognitive Trapeze AI tutor. A detailed report is available on the ASR Pilot page.
+These findings validate the project’s dual‑layer ASR+LLM architecture and confirm that adaptive, learner‑specific audio preprocessing and state‑dependent mastery thresholds are not optional—they are essential for inclusive pedagogy. The results will be incorporated into the upcoming preprint with Prof. Marcelo Worsley and will inform the development of the Cognitive Trapeze AI tutor. A detailed report is available on the [ASR Pilot page](/asr-pilot/).
 
 ### **August 2026 — MSCA Proposal Fully Validated and Ready for Submission**
 
