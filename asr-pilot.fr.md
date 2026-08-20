@@ -52,9 +52,25 @@ Les maquettes ci-dessous illustrent le flux utilisateur en 4 étapes conçu pour
 
 ---
 
-### 5. Prochaines étapes
-Ce pilote valide nos choix d'architecture. Nous préparons actuellement la collecte de données pour le **Texte 2** et l'affinement de la chaîne de pré‑traitement audio. Un rapport consolidé et un article scientifique, co‑signé avec le Professeur Marcelo Worsley, suivront l'analyse de l'ensemble du corpus.
+### 5. Résultats de classification : signatures de la neurodiversité à partir des performances ASR
 
+Au‑delà de l’évaluation des moteurs ASR, les données collectées nous ont permis de développer un cadre de classification fondé sur des preuves pour détecter d’éventuels profils neurodivergents à partir des schémas de WER. Sur plus de 13 textes et 26 apprenants, nous avons identifié **4 apprenants (15,4 %)** présentant des caractéristiques de différences neurodéveloppementales (dyspraxie, dysarthrie, spectre TDAH). Les critères de classification sont :
+
+- **Hallucination persistante de Tiny (WER moyen > 90 %) :** défaillance systématique du petit modèle à encoder l’information phonétique.
+- **Cascades d’hallucinations multiples (WER > 100 % sur Tiny pour ≥2 textes) :** dérive générative incontrôlée déclenchée par des ambiguïtés acoustiques.
+- **Volatilité extrême du modèle Large (WER maximal > 100 %) :** effondrement de la capacité d’atténuation de Large, indiquant une pathologie du signal.
+- **Écart‑type élevé du WER de Large (σ > 40 pp) :** instabilité du traitement dépendant de l’état.
+
+Ces 4 apprenants présentent des schémas acoustiques et attentionnels que les évaluations de lecture standard ne détectent pas, mais que les systèmes ASR révèlent avec précision. Cette découverte valide l’architecture à double couche ASR+LLM (TDR v2) comme essentielle pour les apprenants neurodivers, car elle peut adapter le prétraitement audio, changer dynamiquement de modèle et appliquer des seuils de maîtrise dépendants de l’état.
+
+---
+
+### 6. Prochaines étapes
+Ce pilote valide nos choix d’architecture et fournit une méthodologie concrète sensible à la neurodiversité. Nous préparons actuellement :
+- La collecte de données pour le **Texte 2** avec un prétraitement audio affiné.
+- La conception de profils acoustiques individualisés pour les 4 apprenants identifiés.
+- La finalisation du preprint avec le Prof. Worsley (co‑signé).
+- Un rapport consolidé et un article scientifique suivront l’analyse de l’ensemble du corpus.
 ---
 
 <hr style="margin-top:40px;">
