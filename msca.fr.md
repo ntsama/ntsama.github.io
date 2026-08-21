@@ -77,7 +77,7 @@ C'est pourquoi le **TDR v2** de l'application Cognitive Trapeze intègre une **d
 
 # État d'avancement du projet (Août 2026)
 
-**✅ Institution hôte et superviseur principal confirmés :** Le projet est hébergé par l'**Université de Copenhague (UCPH), Danemark**, sous la supervision du **Professeur Daniel Spikol** (Département d'Informatique, DIKU).
+**✅ Institution hôte et superviseur principal confirmés :** Le projet est hébergé par l'**Université de Copenhague (UCPH), Danemark**, sous la supervision du **Professeur Daniel Spikol**. La **lettre officielle de soutien et de supervision** a été reçue et signée par le Professeur Spikol le 21 août 2026, confirmant son engagement total envers le projet et les missions de terrain prévues au Cameroun.
 
 **✅ Co‑supervision et secondement confirmés :** Le Professeur **Marcelo Worsley** (Université Northwestern, États‑Unis) a officiellement accepté d'être co‑superviseur pour la partie computationnelle et le prototypage de l'IA, avec un **secondement de 6 mois (M10–M16)** au sein du *tiilt lab*.
 
