@@ -13,6 +13,15 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
 
+### **August 2026 — Official Letter of Support Received from Prof. Daniel Spikol (UCPH)**
+
+I am delighted to announce that I have received the official **Letter of Support and Intended Supervision** from **Prof. Daniel Spikol** (University of Copenhagen, Denmark), dated 21 August 2026.
+
+This letter formally confirms Prof. Spikol's role as primary supervisor for the **"Cognitive Trapeze"** MSCA project, his full support for the field missions in Cameroon (under the MINESEC supervision), and his endorsement of the 6‑month secondment at Northwestern University with Prof. Marcelo Worsley.
+
+This document is a crucial pillar for the final submission of the proposal to the EU Funding & Tenders Portal before the 9 September 2026 deadline. I am deeply grateful to Prof. Spikol for his trust and commitment.
+
+👉 **Explore the full project here:** [Cognitive Trapeze](/msca/)
 ---
 ### **August 2026 — ASR Evaluation Reveals Neurodiversity Signatures in ZEP Learners**
 
