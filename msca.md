@@ -77,8 +77,6 @@ This is why the **TDR v2** of the Cognitive Trapeze application integrates a **m
 
 **✅ Host institution and primary supervisor confirmed:** The project is hosted by the **University of Copenhagen (UCPH), Denmark**, under the supervision of **Prof. Daniel Spikol**. The official **Letter of Support and Intended Supervision** has been received and signed by Prof. Spikol on 21 August 2026, confirming his full commitment to the project and the planned field missions in Cameroon.
 
-**✅ Host institution and primary supervisor confirmed:** The project is hosted by the **University of Copenhagen (UCPH), Denmark**, under the supervision of **Prof. Daniel Spikol** (Department of Computer Science, DIKU).
-
 **✅ Co‑supervision and secondment confirmed:** Professor **Marcelo Worsley** (Northwestern University, USA) has officially agreed to serve as co‑supervisor for the computational and AI prototyping components, with a **6‑month secondment (M10–M16)** at the *tiilt lab*.
 
 **✅ Field supervision:** The **Regional Delegation of MINESEC (Adamaoua)** and its Regional Inspectors (ICR) will officially supervise all field activities. **Prof. Pius Ondoua** (University of Yaoundé I) acts as academic advisor for the philosophical coherence of the model.
