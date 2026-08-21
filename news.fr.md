@@ -13,6 +13,16 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 # Actualités  
 ## Annonces, activités académiques et avancées des projets  
 
+### **Août 2026 — Lettre officielle de soutien reçue du Professeur Daniel Spikol (UCPH)**
+
+J’ai le plaisir d’annoncer que j’ai reçu la **lettre officielle de soutien et de supervision** du **Professeur Daniel Spikol** (Université de Copenhague, Danemark), datée du 21 août 2026.
+
+Cette lettre confirme officiellement le rôle du Professeur Spikol comme superviseur principal du projet MSCA **« Cognitive Trapeze »**, son soutien total pour les missions de terrain au Cameroun (sous la supervision du MINESEC) et son approbation du secondement de 6 mois à l'Université Northwestern avec le Professeur Marcelo Worsley.
+
+Ce document est un pilier crucial pour la soumission finale de la proposition sur le portail EU Funding & Tenders avant la date limite du 9 septembre 2026. Je suis profondément reconnaissant envers le Professeur Spikol pour sa confiance et son engagement.
+
+👉 **Découvrez le projet complet ici :** [Trapèze Cognitif](/fr/msca/)
+
 ---
 ### **Août 2026 — L’évaluation ASR révèle des signatures de neurodiversité chez les apprenants ZEP**
 
