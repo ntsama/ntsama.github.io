@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Publications — Travaux sélectionnés et stratégie"
+title: "Publications — Matrice de recherche intégrée"
 permalink: /publications_fr/
 lang: fr
-description: "Publications sélectionnées et stratégie de publication de Jean Marie Ntsama — philosophie du langage, sciences cognitives et apprentissage augmenté par IA."
+description: "Publications sélectionnées et feuille de route stratégique intégrée de Jean Marie Ntsama — philosophie du langage, sciences cognitives et apprentissage augmenté par IA."
 ---
 
 <div style="text-align:right; font-size:0.9rem; margin-bottom:15px;">
@@ -11,7 +11,7 @@ description: "Publications sélectionnées et stratégie de publication de Jean 
 </div>
 
 # Publications  
-## Travaux sélectionnés et feuille de route stratégique  
+## Matrice de recherche intégrée et feuille de route stratégique  
 
 ---
 
@@ -27,45 +27,48 @@ description: "Publications sélectionnées et stratégie de publication de Jean 
 
 ---
 
-### 2. Feuille de route stratégique des publications (5 Axes – MSCA 2026–2029)
+### 2. Stratégie de publication intégrée (MSCA 2026–2029)
+*Chaque article est directement associé à sa littérature fondamentale pour démontrer une maîtrise approfondie du domaine.*
 
-Dans le cadre du projet **Cognitive Trapeze**, j'ai défini une matrice stratégique de publication alignée sur mes axes de recherche pour maximiser l'impact scientifique et la contribution à la science ouverte.
+**Article 1 (Flagship) – Empirique, Neurodiversité et IA**  
+*Acoustic Signatures of Neurodiversity: Using ASR Error Cascades as Computational Biomarkers in Low-Resource Classrooms*  
+> **Cibles :** IJAIED, Computers & Education, ou LAK (Learning Analytics and Knowledge)  
+> **Langue :** Anglais (Impact technique et médical)  
+> **Échéance :** Septembre 2026 (co‑signé avec le Professeur Marcelo Worsley)  
+> **Références clés :** Radford et al. (2022) *Whisper*; Worsley & Blikstein (2018) *Multimodal Learning Analytics*; Yeung & Alwan (2018) *ASR for Children*; Lyon et al. (2003) *Definition of Dyslexia*; Ntsama (2022) *Thèse de doctorat*.
 
-**Axe 1 – Empirique, Neurodiversité et IA (Priorité absolue)**  
-*Acoustic Signatures of Neurodiversity: Using ASR Error Cascades as Computational Biomarkers in Low‑Resource Classrooms*  
-> Cible : **IJAIED** (International Journal of Artificial Intelligence in Education) ou **Computers & Education** (Q1)  
-> Langue : **Anglais** (Impact technique et médical)  
-> Échéance : **Septembre 2026** (co‑signé avec le Professeur Marcelo Worsley)
-
-**Axe 2 – Formalisation théorique et modélisation computationnelle**  
+**Article 2 – Formalisation théorique et modélisation computationnelle**  
 *From Philosophical Framework to Predictive Model: Formalizing the 'Cognitive Trapeze' as a Bayesian Network*  
-> Cible : **Minds and Machines** ou **British Journal of Educational Technology** (Q1)  
-> Langue : **Anglais**  
-> Échéance : **M8** (Mois 8 du projet MSCA)
+> **Cibles :** Minds and Machines, British Journal of Educational Technology  
+> **Langue :** Anglais  
+> **Échéance :** M8 (Mois 8 du projet MSCA)  
+> **Références clés :** Vygotski (1997) *Pensée et langage*; Piaget (1975) *Équilibration*; Varela et al. (1991) *Embodied Mind*; Hutchins (1995) *Cognition in the Wild*; Spikol & Cukurova (2020) *Multimodal Learning Analytics*; Chomsky (1968) *Le langage et la pensée*.
 
-**Axe 3 – Impact pédagogique et contexte du Sud global**  
+**Article 3 – Impact pédagogique et contexte du Sud global**  
 *Evaluating the Impact of an Offline AI Tutor on Semantic Comprehension: A Controlled Pilot Study in Cameroonian ZEPs*  
-> Cible : **International Journal of Educational Development** ou **Learning and Instruction** (Q1)  
-> Langue : **Anglais**  
-> Échéance : **M16 & M22** (Résultats de la validation empirique)
+> **Cibles :** International Journal of Educational Development, Learning and Instruction  
+> **Langue :** Anglais  
+> **Échéance :** M16 et M22 (Validation empirique)  
+> **Références clés :** Banque mondiale & UIS (2022) *Learning Poverty*; UNICEF & ITU (2020) *Accès Internet à la maison*; UNESCO (2023) *GEM Report*; Holmes & Miao (2023) *IA générative en éducation*; Ntsama (2023) *Web social*.
 
-**Axe 4 – Épistémologie, didactique et francophonie**  
-*Le Trapèze Cognitif : De la triangulation pédagogique à l'IA comme actant d'apprentissage*  
-> Cible : **Revue Française de Pédagogie** ou **Langage et Société** (Revues de classe A)  
-> Langue : **Français** (Profondeur conceptuelle et didactique)  
-> Échéance : **Ouvert (post‑M8)**
+**Article 4 (Priorité technique) – Benchmarking des pipelines ASR-LLM quantifiés**  
+*Benchmarking Quantized ASR-LLM Pipelines (Whisper Large + Qwen 0.5B) for Educational Feedback in Low-Resource, Offline African Classrooms*  
+> **Cibles :** IJAIED, IEEE Transactions on Learning Technologies  
+> **Langue :** Anglais  
+> **Échéance :** Septembre – Décembre 2026 (Chantier prioritaire avec le Pr. Worsley)  
+> **Références clés :** Radford et al. (2022) *Whisper*; Jacob et al. (2018) *Quantization*; Worsley (*tiilt lab*) *Équité en technologies d'apprentissage*; Ntsama & Worsley (2026) *Preprint arXiv*.
 
-**Axe 5 – Éthique, politiques éducatives et décolonialité**  
-*Decolonizing AI in Education: Why Offline, Neurodiversity‑Aware Tutors are the Key to Bridging the Digital Divide*  
-> Cible : **AI & Society** ou **Globalisation, Societies and Education** (Q1)  
-> Langue : **Anglais**  
-> Échéance : **Ouvert (post‑M22)**
+**Article 5 – Éthique, politiques éducatives et décolonialité**  
+*Decolonizing AI in Education: Why Offline, Neurodiversity-Aware Tutors are the Key to Bridging the Digital Divide*  
+> **Cibles :** AI & Society, Globalisation, Societies and Education  
+> **Langue :** Anglais  
+> **Échéance :** Ouvert (post‑M22)  
+> **Références clés :** Mohamed et al. (2020) *Decolonial AI*; Selwyn (2016) *Is Technology Good for Education?*; Ollivier & Puren (2011) *Web 2.0*; Ntsama (2023) *Web social*.
 
 ---
 
 ### 3. Stratégie de science ouverte et preprints
-
-Pour garantir une visibilité immédiate et le respect des principes FAIR (Findable, Accessible, Interoperable, Reusable), je dépose systématiquement tous mes preprints sur :
+Pour garantir une visibilité immédiate et le respect des principes FAIR, je dépose systématiquement tous mes preprints sur :
 - **arXiv** – pour tous les articles techniques, empiriques et en anglais (ASR, WER, LLM, modélisation bayésienne).
 - **HAL** – pour tous les articles épistémologiques, didactiques et en français (philosophie du langage, pédagogie).
 
@@ -74,9 +77,9 @@ Tous les jeux de données anonymisés (corpus ASR "Textes 1‑19") et les codes 
 ---
 
 ### 4. Manuscrits en préparation
-
-- *Cognitive Trapeze: Modeling Language–Thought Dynamics in AI‑Augmented Learning*  
-- *Le Modèle du Trapèze‑Balançoire Pédagogique : un cadre dynamique pour l’apprentissage*
+- *Acoustic Signatures of Neurodiversity* (avec le Pr. Worsley)  
+- *From Philosophical Framework to Predictive Model* (avec le Pr. Spikol)  
+- *Benchmarking Quantized ASR-LLM Pipelines* (avec le Pr. Worsley)
 
 ---
 
