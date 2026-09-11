@@ -13,6 +13,25 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
 
+### **September 2026 — MSCA Proposal Officially Submitted to the European Commission**
+
+I am delighted to announce that my Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship proposal, **"Cognitive Trapeze: Modeling Language–Thought Co-Development in AI-Augmented Learning"**, has been officially submitted to the **EU Funding & Tenders Portal**.
+
+The submission was completed by the **University of Copenhagen (UCPH) Research Support Office** before the 9 September 2026 deadline, in close coordination with my primary supervisor, **Prof. Daniel Spikol** (UCPH). This marks the culmination of more than a year of preparation, technical proof-of-concept development, and international collaboration across Europe, Africa, and the United States.
+
+**Project at a glance:**
+- **Host Institution:** University of Copenhagen (UCPH), Denmark
+- **Primary Supervisor:** Prof. Daniel Spikol (DIKU & CDE)
+- **Co‑Supervisor & Secondment Host:** Prof. Marcelo Worsley (Northwestern University, USA)
+- **Field Supervision:** MINESEC Regional Delegation (Adamaoua) and its Regional Inspectors (ICR)
+- **Academic Advisor:** Prof. Pius Ondoua (University of Yaoundé I, Cameroon)
+- **Duration:** 24 months (M1 expected mid-2027)
+- **EU Contribution Requested:** €283,502
+
+The evaluation process by independent experts is expected to conclude in **early 2027**. In the meantime, I will continue the ongoing research activities, including the ASR evaluation campaign, the preparation of the open dataset on Zenodo, and the writing of the first scientific articles with Prof. Worsley and Prof. Spikol.
+
+I am deeply grateful to my supervision team, the UCPH Research Support Office, the MINESEC Regional Delegation, and all collaborators who made this submission possible. This is a major milestone, and I look forward to the next phase of the journey.
+
 ### **August 2026 — Official Letter of Support Received from Prof. Daniel Spikol (UCPH)**
 
 I am delighted to announce that I have received the official **Letter of Support and Intended Supervision** from **Prof. Daniel Spikol** (University of Copenhagen, Denmark), dated 21 August 2026.
