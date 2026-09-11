@@ -13,6 +13,25 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 # Actualités  
 ## Annonces, activités académiques et avancées des projets  
 
+### **Septembre 2026 — Dépôt officiel de la proposition MSCA auprès de la Commission Européenne**
+
+J’ai le plaisir d’annoncer que ma proposition de bourse postdoctorale Marie Skłodowska-Curie Actions (MSCA), **« Cognitive Trapeze : Modélisation de la co-évolution langage–pensée dans l’apprentissage augmenté par l’IA »**, a été officiellement déposée sur le **portail EU Funding & Tenders**.
+
+Le dépôt a été effectué par le **bureau de soutien à la recherche de l’Université de Copenhague (UCPH)** avant la date limite du 9 septembre 2026, en étroite coordination avec mon superviseur principal, le **Professeur Daniel Spikol** (UCPH). Ce dépôt marque l’aboutissement de plus d’un an de préparation, de développement de preuves de concept techniques et de collaboration internationale entre l’Europe, l’Afrique et les États-Unis.
+
+**Le projet en bref :**
+- **Institution hôte :** Université de Copenhague (UCPH), Danemark
+- **Superviseur principal :** Professeur Daniel Spikol (DIKU & CDE)
+- **Co‑superviseur et hôte du secondement :** Professeur Marcelo Worsley (Université Northwestern, États-Unis)
+- **Supervision terrain :** Délégation Régionale du MINESEC (Adamaoua) et ses Inspecteurs Régionaux (ICR)
+- **Conseiller académique :** Professeur Pius Ondoua (Université de Yaoundé I, Cameroun)
+- **Durée :** 24 mois (M1 prévu mi-2027)
+- **Contribution européenne demandée :** 283 502 €
+
+Le processus d’évaluation par des experts indépendants devrait s’achever **début 2027**. En attendant, je poursuis les activités de recherche en cours, notamment la campagne d’évaluation ASR, la préparation du jeu de données ouvert sur Zenodo, et la rédaction des premiers articles scientifiques avec les Professeurs Worsley et Spikol.
+
+Je suis profondément reconnaissant envers mon équipe de supervision, le bureau de soutien à la recherche de l’UCPH, la Délégation Régionale du MINESEC, et tous les collaborateurs qui ont rendu ce dépôt possible. C’est un jalon majeur, et j’attends avec impatience la prochaine phase de cette aventure.
+
 ### **Août 2026 — Lettre officielle de soutien reçue du Professeur Daniel Spikol (UCPH)**
 
 J’ai le plaisir d’annoncer que j’ai reçu la **lettre officielle de soutien et de supervision** du **Professeur Daniel Spikol** (Université de Copenhague, Danemark), datée du 21 août 2026.
