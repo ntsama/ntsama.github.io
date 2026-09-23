@@ -53,10 +53,11 @@ description: "Publications sélectionnées et feuille de route stratégique int�
 
 **Article 4 (Priorité technique) – Benchmarking des pipelines ASR-LLM quantifiés**  
 *Benchmarking Quantized ASR-LLM Pipelines (Whisper Large + Qwen 0.5B) for Educational Feedback in Low-Resource, Offline African Classrooms*  
-> **Cibles :** IJAIED, IEEE Transactions on Learning Technologies  
+> **Dépôt preprint :** arXiv (dépôt précoce pour retours de la communauté)  
+> **Cibles finales :** IJAIED, IEEE Transactions on Learning Technologies  
 > **Langue :** Anglais  
-> **Échéance :** Septembre – Décembre 2026 (Chantier prioritaire avec le Pr. Worsley)  
-> **Références clés :** Radford et al. (2022) *Whisper*; Jacob et al. (2018) *Quantization*; Worsley (*tiilt lab*) *Équité en technologies d'apprentissage*; Ntsama & Worsley (2026) *Preprint arXiv*.
+> **Échéance :** Preprint sur arXiv (Décembre 2026) → Soumission finale (M22)  
+> **Références clés :** Radford et al. (2022) *Whisper* ; Jacob et al. (2018) *Quantization* ; Worsley (*tiilt lab*) *Equity in Learning Technologies* ; Ntsama & Worsley (2026) *Preprint arXiv*.
 
 **Article 5 – Éthique, politiques éducatives et décolonialité**  
 *Decolonizing AI in Education: Why Offline, Neurodiversity-Aware Tutors are the Key to Bridging the Digital Divide*  
