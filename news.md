@@ -13,6 +13,20 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
 
+### **September 2026 — Cognitive Trapeze Bilingual Reading Corpus Published on Zenodo with DOI**
+
+I am delighted to announce the publication of the **Cognitive Trapeze Bilingual Reading Corpus** on **Zenodo**, with a permanent DOI. This marks a significant milestone for Open Science and for the project’s commitment to FAIR principles (Findable, Accessible, Interoperable, Reusable).
+
+👉 **Access the dataset here:** [https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
+
+**What the repository contains:**
+- **corpus_reference.csv** — 17 bilingual texts (French/English) with pedagogical and phonetic annotations.
+- **wer_evaluations.csv** — Granular Word Error Rate (WER) metrics across Whisper (Tiny, Medium, Large), including a preliminary **Volatility_Flag** based on our criteria for extreme ASR failure patterns.
+
+**Ethical note:** In strict adherence to GDPR and our MSCA ethics protocol regarding minors' biometric data, raw audio files are securely stored and pseudonymized, while only aggregate evaluation metrics are openly shared. This ensures full compliance with both European and Cameroonian data protection standards.
+
+This DOI provides a solid empirical foundation for **Article 4** (Benchmarking Quantized ASR-LLM Pipelines), currently in preparation with Prof. Marcelo Worsley (Northwestern University). The article will be submitted to **IJAIED** or **IEEE Transactions on Learning Technologies**.
+
 ### **September 2026 — MSCA Proposal Officially Submitted to the European Commission**
 
 I am delighted to announce that my Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship proposal, **"Cognitive Trapeze: Modeling Language–Thought Co-Development in AI-Augmented Learning"**, has been officially submitted to the **EU Funding & Tenders Portal**.
