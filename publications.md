@@ -53,9 +53,10 @@ description: "Selected publications and integrated strategic publication roadmap
 
 **Article 4 (Priority Technical) – Benchmarking Quantized ASR-LLM Pipelines**  
 *Benchmarking Quantized ASR-LLM Pipelines (Whisper Large + Qwen 0.5B) for Educational Feedback in Low-Resource, Offline African Classrooms*  
-> **Targets:** IJAIED, IEEE Transactions on Learning Technologies  
+> **Preprint Deposit:** arXiv (early deposit for community feedback)  
+> **Final Targets:** IJAIED, IEEE Transactions on Learning Technologies  
 > **Language:** English  
-> **Timeline:** September – December 2026 (Chantier prioritaire avec Pr. Worsley)  
+> **Timeline:** Preprint on arXiv (December 2026) → Final submission (M22)  
 > **Key References:** Radford et al. (2022) *Whisper*; Jacob et al. (2018) *Quantization*; Worsley (*tiilt lab*) *Equity in Learning Technologies*; Ntsama & Worsley (2026) *Preprint arXiv*.
 
 **Article 5 – Ethics, Policy & Decoloniality**  
