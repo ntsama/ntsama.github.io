@@ -13,6 +13,20 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 # Actualités  
 ## Annonces, activités académiques et avancées des projets  
 
+### **Septembre 2026 — Le Corpus de Lecture Bilingue Cognitive Trapeze publié sur Zenodo avec DOI**
+
+J’ai le plaisir d’annoncer la publication du **Corpus de Lecture Bilingue Cognitive Trapeze** sur **Zenodo**, avec un DOI permanent. Cela marque un jalon important pour la Science Ouverte et pour l’engagement du projet envers les principes FAIR (Findable, Accessible, Interoperable, Reusable).
+
+👉 **Accédez au jeu de données ici :** [https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
+
+**Contenu du dépôt :**
+- **corpus_reference.csv** — 17 textes bilingues (français/anglais) avec annotations pédagogiques et phonétiques.
+- **wer_evaluations.csv** — Métriques granulaires de taux d'erreur de mots (WER) pour Whisper (Tiny, Medium, Large), incluant un **Volatility_Flag** préliminaire basé sur nos critères de schémas d'échec extrêmes de l'ASR.
+
+**Note éthique :** En stricte conformité avec le RGPD et notre protocole d'éthique MSCA concernant les données biométriques des mineurs, les fichiers audio bruts sont stockés de manière sécurisée et pseudonymisés, tandis que seules les métriques d'évaluation agrégées sont partagées ouvertement. Cela garantit une conformité totale avec les normes européennes et camerounaises de protection des données.
+
+Ce DOI fournit une base empirique solide pour l'**Article 4** (Benchmarking des pipelines ASR-LLM quantifiés), actuellement en préparation avec le Professeur Marcelo Worsley (Université Northwestern). L'article sera soumis à **IJAIED** ou **IEEE Transactions on Learning Technologies**.
+
 ### **Septembre 2026 — Dépôt officiel de la proposition MSCA auprès de la Commission Européenne**
 
 J’ai le plaisir d’annoncer que ma proposition de bourse postdoctorale Marie Skłodowska-Curie Actions (MSCA), **« Cognitive Trapeze : Modélisation de la co-évolution langage–pensée dans l’apprentissage augmenté par l’IA »**, a été officiellement déposée sur le **portail EU Funding & Tenders**.
