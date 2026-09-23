@@ -159,7 +159,7 @@ Formalisation du modèle du Trapèze Cognitif en un **réseau bayésien** et une
 - **M10–M16 :** Secondement intensif à Northwestern (*tiilt lab*). Développement de l'APK Android (Whisper Large quantifié + Qwen 0.5B LLM).  
 - **M16–M20 :** Pilot‑test du prototype dans les 4 écoles (N=30).  
 - **M20–M22 :** Analyse des données et rédaction de l'article technique.  
-*Livrables :* APK alpha fonctionnelle + **Article 4 (Technique)** soumis M22 (co‑auteur Marcelo Worsley).  
+*Livrables :* APK alpha fonctionnelle + **Article 4 (Technique)** — preprint déposé sur arXiv en décembre 2026 pour retours de la communauté, puis soumission finale en M22 (co-auteur Marcelo Worsley).
 
 ### WP4 — Consortium et pérennité (M15–M24)  
 Construction d'un partenariat durable Afrique–Europe (accords institutionnels) et pré‑proposition ERC Synergy.  
