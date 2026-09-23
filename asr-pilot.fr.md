@@ -87,6 +87,22 @@ Ce pilote valide nos choix d’architecture et fournit une méthodologie concrè
 - Un rapport consolidé et un article scientifique suivront l’analyse de l’ensemble du corpus.
 ---
 
+### 7. Accès aux données ouvertes
+
+Le Corpus de Lecture Bilingue Cognitive Trapeze est désormais disponible publiquement sur Zenodo avec un DOI permanent :
+
+👉 **[https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)**
+
+**Contenu :**
+- **corpus_reference.csv** — 17 textes bilingues (FR/EN) avec annotations pédagogiques et phonétiques.
+- **wer_evaluations.csv** — Métriques granulaires de WER pour Whisper Tiny, Medium et Large, incluant un **Volatility_Flag** préliminaire basé sur nos critères de classification.
+
+**Licence :** CC-BY (Creative Commons Attribution 4.0 International).
+
+**Note éthique :** En stricte conformité avec le RGPD et notre protocole d'éthique MSCA, les fichiers audio bruts sont stockés de manière sécurisée et pseudonymisés. Seules les métriques d'évaluation agrégées sont partagées ouvertement pour protéger les données biométriques des mineurs tout en permettant la reproductibilité scientifique.
+
+---
+
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
