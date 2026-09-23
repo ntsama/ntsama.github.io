@@ -72,7 +72,16 @@ Pour garantir une visibilité immédiate et le respect des principes FAIR, je d�
 - **arXiv** – pour tous les articles techniques, empiriques et en anglais (ASR, WER, LLM, modélisation bayésienne).
 - **HAL** – pour tous les articles épistémologiques, didactiques et en français (philosophie du langage, pédagogie).
 
-Tous les jeux de données anonymisés (corpus ASR "Textes 1‑19") et les codes sources sont déposés sur **Zenodo** avec un DOI dédié et publiés sous licence **MIT / CC‑BY**.
+**Le Corpus de Lecture Bilingue Cognitive Trapeze a été publié sur Zenodo avec un DOI permanent :**
+👉 **[https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)**
+
+Le dépôt contient deux fichiers CSV relationnels :
+- **corpus_reference.csv** – 17 textes bilingues (FR/EN) avec annotations pédagogiques et phonétiques.
+- **wer_evaluations.csv** – Métriques granulaires de taux d'erreur de mots (WER) pour Whisper (Tiny, Medium, Large), incluant un **Volatility_Flag** préliminaire basé sur nos critères de schémas d'échec extrêmes de l'ASR.
+
+*Note : En stricte conformité avec le RGPD et notre protocole d'éthique MSCA concernant les données biométriques des mineurs, les fichiers audio bruts sont stockés de manière sécurisée et pseudonymisés, tandis que seules les métriques d'évaluation agrégées sont partagées ouvertement.*
+
+Les codes sources sont déposés sur **GitHub** sous licence MIT et les jeux de données sous licence **CC-BY**.
 
 ---
 
