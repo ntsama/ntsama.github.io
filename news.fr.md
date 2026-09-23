@@ -15,8 +15,7 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 
 ### **Septembre 2026 — Le Corpus de Lecture Bilingue Cognitive Trapeze publié sur Zenodo avec DOI**
 
-J’ai le plaisir d’annoncer la publication du **Corpus de Lecture Bilingue Cognitive Trapeze** sur **Zenodo**, avec un DOI permanent. Cela marque un jalon important pour la Science Ouverte et pour l’engagement du projet envers les principes FAIR (Findable, Accessible, Interoperable, Reusable).
-
+J’ai le plaisir d’annoncer la publication du **Corpus de Lecture Bilingue Cognitive Trapeze** sur **Zenodo**, avec un DOI permanent. Ce DOI fournit une base empirique solide pour l'**Article 4** (Benchmarking des pipelines ASR-LLM quantifiés), actuellement en préparation avec le Professeur Marcelo Worsley (Université Northwestern). Conformément aux principes de la Science Ouverte et au calendrier du projet (Gantt Chart), **un preprint de cet article sera déposé sur arXiv en décembre 2026** afin de solliciter les retours de la communauté scientifique avant sa soumission finale à **IJAIED** ou **IEEE Transactions on Learning Technologies** (M22).
 👉 **Accédez au jeu de données ici :** [https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
 
 **Contenu du dépôt :**
