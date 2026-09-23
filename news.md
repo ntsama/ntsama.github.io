@@ -15,8 +15,7 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 
 ### **September 2026 — Cognitive Trapeze Bilingual Reading Corpus Published on Zenodo with DOI**
 
-I am delighted to announce the publication of the **Cognitive Trapeze Bilingual Reading Corpus** on **Zenodo**, with a permanent DOI. This marks a significant milestone for Open Science and for the project’s commitment to FAIR principles (Findable, Accessible, Interoperable, Reusable).
-
+I am delighted to announce the publication of the **Cognitive Trapeze Bilingual Reading Corpus** on **Zenodo**, with a permanent DOI. This DOI provides a solid empirical foundation for **Article 4** (Benchmarking Quantized ASR-LLM Pipelines), currently in preparation with Prof. Marcelo Worsley (Northwestern University). In line with Open Science principles and the project's Gantt Chart, **a preprint of this article will be deposited on arXiv in December 2026** to solicit community feedback before its final submission to **IJAIED** or **IEEE Transactions on Learning Technologies** (M22).
 👉 **Access the dataset here:** [https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
 
 **What the repository contains:**
