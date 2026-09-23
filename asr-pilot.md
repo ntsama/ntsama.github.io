@@ -87,6 +87,22 @@ This pilot validates our architectural choices and provides a concrete neurodive
 - A consolidated report and a scientific article will follow the analysis of the full corpus.
 ---
 
+### 7. Open Data Access
+
+The Cognitive Trapeze Bilingual Reading Corpus is now publicly available on Zenodo with a permanent DOI:
+
+👉 **[https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)**
+
+**Contents:**
+- **corpus_reference.csv** — 17 bilingual texts (FR/EN) with pedagogical and phonetic annotations.
+- **wer_evaluations.csv** — Granular WER metrics across Whisper Tiny, Medium, and Large, including a preliminary **Volatility_Flag** based on our classification criteria.
+
+**License:** CC-BY (Creative Commons Attribution 4.0 International).
+
+**Ethical note:** In strict adherence to GDPR and our MSCA ethics protocol, raw audio files are securely stored and pseudonymized. Only aggregate evaluation metrics are openly shared to protect the biometric data of minors while still enabling scientific reproducibility.
+
+---
+
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
