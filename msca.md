@@ -157,7 +157,7 @@ Formalization of the Cognitive Trapeze model into a predictive **Bayesian networ
 - **M10–M16:** Intensive secondment at Northwestern (*tiilt lab*). Android APK development (quantized Whisper Large + Qwen 0.5B LLM).  
 - **M16–M20:** Pilot test of the prototype in the 4 schools (N=30).  
 - **M20–M22:** Data analysis and technical paper writing.  
-*Deliverables:* Functional alpha APK + **Article 4 (Technical)** submitted at M22 (co‑author Marcelo Worsley).  
+*Deliverables:* Functional alpha APK + **Article 4 (Technical)** — preprint deposited on arXiv in December 2026 for community feedback, then final submission at M22 (co-author Marcelo Worsley).
 
 ### WP4 — Consortium and Sustainability (M15–M24)  
 Building a sustainable Africa–Europe partnership (institutional agreements) and ERC Synergy pre‑proposal.  
