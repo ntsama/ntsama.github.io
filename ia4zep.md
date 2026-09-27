@@ -119,6 +119,17 @@ This initiative is a direct, field‑based application of the **Cognitive Trapez
 
 ---
 
+### AI-Generated Educational Comics
+
+IA_4_ZEP produces **AI-generated comics** to support guided reading in ZEP classrooms. Each comic visualizes an African folk tale aligned with the national curriculum, and is projected in class to support comprehension and engagement.
+
+**Published:** *Tendani Ito — The Golden Canary* (9 panels, 6th grade).  
+**Tested:** 60 learners in Adamaoua, Cameroon.  
+**License:** CC-BY.
+
+👉 **Access the full resource library:** [IA_4_ZEP Educational Resources](/ia4zep-resources/)
+
+---
 # 6. Impact  
 IA_4_ZEP contributes to:
 
