@@ -59,6 +59,12 @@ The application strictly follows the **official 5-step guided reading methodolog
 - A performance dashboard with a **90% mastery threshold**, ensuring learners achieve proficiency before progressing.
 
 This tool bridges the gap between **linguistic decoding** and **deep semantic comprehension**, directly validating the **Cognitive Trapeze Model** and aligning with national educational priorities.
+
+#### Multimodal Embodied Knowledge in Practice
+The production of **AI-generated comics** for guided reading directly operationalizes the concept of **embodied knowledge** from the Cognitive Trapeze Model. The comic serves as a visual and narrative anchor that supports semantic comprehension, particularly for neurodiverse learners. This resource was tested with 60 learners in a ZEP classroom, demonstrating the feasibility of multimodal AI-generated pedagogy in low-resource contexts.
+
+👉 **See the educational resources:** [IA_4_ZEP Resources](/ia4zep-resources/)
+
 #### ASR Classification: A Window into Neurodiversity
 A comprehensive ASR evaluation across 13+ texts and 26 learners in a ZEP classroom revealed a striking pattern: 4 learners (15.4% of the sample) exhibited acoustic and attentional signatures consistent with neurodivergent profiles (dyspraxia, dysarthria, ADHD spectrum). Using Whisper Tiny, Medium, and Large as diagnostic proxies, we applied four evidence‑based criteria:
 
