@@ -60,6 +60,11 @@ L'application suit rigoureusement la **méthodologie officielle en 5 étapes** (
 
 Cet outil comble le fossé entre le **décodage linguistique** et la **compréhension sémantique profonde**, validant directement le **Modèle du Trapèze Cognitif** et s'alignant sur les priorités éducatives nationales.
 
+#### Savoir incarné multimodal en pratique
+La production de **BD générées par IA** pour la lecture suivie opérationnalise directement le concept de **savoir incarné** du Modèle du Trapèze Cognitif. La BD sert d'ancrage visuel et narratif qui soutient la compréhension sémantique, en particulier pour les apprenants neurodivers. Cette ressource a été testée avec 60 apprenants dans une classe ZEP, démontrant la faisabilité d'une pédagogie multimodale générée par IA en contextes à faibles ressources.
+
+👉 **Voir les ressources éducatives :** [Ressources IA_4_ZEP](/fr/ia4zep-ressources/)
+
 #### Classification ASR : une fenêtre sur la neurodiversité
 Une évaluation ASR complète portant sur plus de 13 textes et 26 apprenants dans une classe ZEP a révélé un schéma frappant : 4 apprenants (15,4 % de l’échantillon) présentent des signatures acoustiques et attentionnelles compatibles avec des profils neurodivergents (dyspraxie, dysarthrie, spectre TDAH). En utilisant les modèles Whisper Tiny, Medium et Large comme proxys diagnostiques, nous avons appliqué quatre critères fondés sur des preuves :
 
