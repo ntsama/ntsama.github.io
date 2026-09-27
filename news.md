@@ -13,6 +13,16 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
 
+### **September 2026 — AI-Generated Comic Produced and Tested in a 60-Student ZEP Classroom**
+
+As part of the IA_4_ZEP initiative, I have produced and tested a new **AI-generated comic** based on the African folk tale *"Tendani Ito — The Golden Canary."* The comic consists of **9 full-color panels** and is designed for projection in 6th-grade French classes in priority education zones (60+ learners per classroom).
+
+The comic is accompanied by a **digitalized lesson plan** following the official 5-step guided reading methodology. It was tested with 60 learners in Adamaoua, Cameroon, demonstrating that multimodal AI-generated content can effectively support comprehension and engagement in low-resource contexts.
+
+This resource is released under a **CC-BY license** and will be made available on Zenodo with a DOI. It constitutes a practical operationalization of the **embodied knowledge** concept of the Cognitive Trapeze Model.
+
+👉 **Explore IA_4_ZEP resources:** [Educational Resources](/ia4zep-resources/)
+
 ### **September 2026 — Cognitive Trapeze Bilingual Reading Corpus Published on Zenodo with DOI**
 
 I am delighted to announce the publication of the **Cognitive Trapeze Bilingual Reading Corpus** on **Zenodo**, with a permanent DOI. This DOI provides a solid empirical foundation for **Article 4** (Benchmarking Quantized ASR-LLM Pipelines), currently in preparation with Prof. Marcelo Worsley (Northwestern University). In line with Open Science principles and the project's Gantt Chart, **a preprint of this article will be deposited on arXiv in December 2026** to solicit community feedback before its final submission to **IJAIED** or **IEEE Transactions on Learning Technologies** (M22).
