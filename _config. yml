@@ -23,6 +23,8 @@ navbar:
     url: /msca/
   - title: "IA_4_ZEP"
     url: /ia4zep/
+- title: "ia4zep-resources"
+    url: /ia4zep-resources/
   - title: "Publications"
     url: /publications/
   - title: "ASR Pilot"
