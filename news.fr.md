@@ -13,6 +13,16 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 # Actualités  
 ## Annonces, activités académiques et avancées des projets  
 
+### **Septembre 2026 — Production et test d'une BD générée par IA dans une classe ZEP de 60 élèves**
+
+Dans le cadre de l'initiative IA_4_ZEP, j'ai produit et testé une nouvelle **BD générée par IA** basée sur le conte africain *« Tendani Ito — Le Canari d'Or »*. La BD se compose de **9 planches en couleur** et est conçue pour être projetée dans les classes de 6ème en zones d'éducation prioritaires (60+ apprenants par classe).
+
+La BD est accompagnée d'une **fiche de leçon digitalisée** suivant la méthodologie officielle en 5 étapes. Elle a été testée avec 60 apprenants dans l'Adamaoua, au Cameroun, démontrant qu'un contenu multimodal généré par IA peut efficacement soutenir la compréhension et l'engagement en contextes à faibles ressources.
+
+Cette ressource est publiée sous licence **CC-BY** et sera déposée sur Zenodo avec un DOI. Elle constitue une opérationnalisation pratique du concept de **savoir incarné** du Modèle du Trapèze Cognitif.
+
+👉 **Explorer les ressources IA_4_ZEP :** [Ressources pédagogiques](/fr/ia4zep-ressources/)
+
 ### **Septembre 2026 — Le Corpus de Lecture Bilingue Cognitive Trapeze publié sur Zenodo avec DOI**
 
 J’ai le plaisir d’annoncer la publication du **Corpus de Lecture Bilingue Cognitive Trapeze** sur **Zenodo**, avec un DOI permanent. Ce DOI fournit une base empirique solide pour l'**Article 4** (Benchmarking des pipelines ASR-LLM quantifiés), actuellement en préparation avec le Professeur Marcelo Worsley (Université Northwestern). Conformément aux principes de la Science Ouverte et au calendrier du projet (Gantt Chart), **un preprint de cet article sera déposé sur arXiv en décembre 2026** afin de solliciter les retours de la communauté scientifique avant sa soumission finale à **IJAIED** ou **IEEE Transactions on Learning Technologies** (M22).
