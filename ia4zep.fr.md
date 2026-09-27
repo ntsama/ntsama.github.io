@@ -119,6 +119,17 @@ Cette initiative est une application directe et terrain du **Modèle du Trapèze
 
 ---
 
+### BD éducatives générées par IA
+
+IA_4_ZEP produit des **BD générées par IA** pour soutenir la lecture suivie dans les classes ZEP. Chaque BD illustre un conte africain aligné sur le programme national, et est projetée en classe pour soutenir la compréhension et l'engagement.
+
+**Publiée :** *Tendani Ito — Le Canari d'Or* (9 planches, 6ème).  
+**Testée :** 60 apprenants dans l'Adamaoua, Cameroun.  
+**Licence :** CC-BY.
+
+👉 **Accéder à la bibliothèque complète :** [Ressources pédagogiques IA_4_ZEP](/fr/ia4zep-ressources/)
+---
+
 # 6. Impact  
 IA_4_ZEP contribue à :
 
