@@ -13,6 +13,24 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 # Actualités  
 ## Annonces, activités académiques et avancées des projets  
 
+### **Octobre 2026 — Troisième jeu de données ouvert publié sur Zenodo : AI Writing Lab**
+
+J'ai le plaisir d'annoncer la publication du **troisième jeu de données ouvert** du projet Cognitive Trapeze sur **Zenodo** : le **AI Writing Lab — Pédagogie Texte-Image et Productions d'Apprenants en ZEP Camerounaises**.
+
+👉 **Accédez au dataset ici :** [https://doi.org/10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+
+Ce dépôt documente une méthode pédagogique novatrice où l'IA générative sert d'outil de motivation et de feedback visuel immédiat pour l'écriture descriptive dans les grandes classes à faibles ressources. Il inclut les textes anonymisés d'apprenants (basés sur le personnage Faydé de l'œuvre *Cœur du Sahel*) et les images générées correspondantes.
+
+**Conformité institutionnelle :**
+- Travaux autorisés par le **MINESEC (Réf. N° 658/2026/AR/H/DRES)**.
+- Consentement parental écrit et assentiment de l'enfant obtenus.
+- Anonymisation complète ; aucune donnée biométrique incluse.
+- Publié sous licence **CC-BY 4.0**.
+
+Cette méthode opérationnalise la **boucle courte** du Modèle du Trapèze Cognitif et le concept de **savoir incarné**.
+
+👉 **Découvrir le Laboratoire d'Écriture IA :** [Laboratoire d'Écriture IA](/fr/ai-writing-lab/)
+
 ### **Septembre 2026 — La BD générée par IA « Tendani Ito » publiée sur Zenodo avec DOI**
 
 J’ai le plaisir d’annoncer que la BD générée par IA **« Tendani Ito (Le Canari d'Or) »** a été publiée sur **Zenodo** avec un DOI permanent. Ce dataset en accès ouvert contient 9 planches en couleur conçues pour la lecture suivie en classe de 6ème en zones d'éducation prioritaires (ZEP), testées avec 60 apprenants dans l'Adamaoua, au Cameroun.
