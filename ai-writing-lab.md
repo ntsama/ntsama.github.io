@@ -90,6 +90,26 @@ All methodology, lesson plans, and anonymized learner productions will be releas
 
 ---
 
+### 6. Zenodo Deposit & Institutional Compliance
+
+The AI Writing Lab methodology, the corpus reference, and anonymized learner productions have been published on **Zenodo** as the third open dataset of the Cognitive Trapeze project (October 2026).
+
+**Published Dataset:**
+> Ntsama, J. M., & IA_4_ZEP Initiative. (2026). *Cognitive Trapeze — AI Writing Lab: Text-to-Image Pedagogy and Learner Productions in Cameroonian ZEP* [Dataset]. Zenodo. [https://doi.org/10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+
+**Compliance & Ethics:**
+- Data collection conducted under **MINESEC Authorization Ref. N° 658/2026/AR/H/DRES** (Regional Delegation of Adamaoua).
+- Written parental consent and child assent obtained for all participants.
+- All learner names replaced with pseudonyms; no biometric or identifiable data included.
+- License: **Creative Commons Attribution 4.0 International (CC-BY 4.0)**.
+
+**Contents:**
+- `corpus_reference.csv` — Textual corpus and pedagogical annotations
+- `learner_productions.csv` — Anonymized learner texts and associated image prompts
+- `ai_generated_images/` — Generated images based on learner texts
+- `README.md` — Methodology and FAIR documentation
+---
+
 <hr style="margin-top:40px;">
 
 <div style="text-align:center; font-size:0.85rem; opacity:0.85;">
