@@ -79,13 +79,14 @@ To ensure immediate visibility and FAIR principles, I systematically deposit all
 The repository contains two relational CSV files:
 - **corpus_reference.csv** – 17 bilingual texts (FR/EN) with pedagogical and phonetic annotations.
 - **wer_evaluations.csv** – Granular Word Error Rate (WER) metrics across Whisper (Tiny, Medium, Large), including a preliminary **Volatility_Flag** based on our criteria for extreme ASR failure patterns.
+
+*Note: In strict adherence to GDPR and our MSCA ethics protocol regarding minors' biometric data, raw audio files are securely stored and pseudonymized, while only the aggregate evaluation metrics are openly shared.*
+
 **The Cognitive Trapeze AI-Generated Comic has also been published on Zenodo with a permanent DOI:**
 👉 **[https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)**
 
 *Cognitive Trapeze — AI-Generated Comic: Tendani Ito (The Golden Canary) for Guided Reading in ZEP* [Dataset].
 Ntsama, J. M., IA_4_ZEP Initiative, Worsley, M., & Spikol, D. (2026). Zenodo. License: CC-BY 4.0. Indexed in OpenAIRE.
-
-*Note: In strict adherence to GDPR and our MSCA ethics protocol regarding minors' biometric data, raw audio files are securely stored and pseudonymized, while only the aggregate evaluation metrics are openly shared.*
 
 Source code is deposited on **GitHub** under the MIT license and released under the **CC-BY** license for datasets.
 ---
