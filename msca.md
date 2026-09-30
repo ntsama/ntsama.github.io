@@ -185,10 +185,16 @@ Building a sustainable Africa–Europe partnership (institutional agreements) an
 ---
 
 # Ethics and Open Science  
-- GDPR compliance for learner data; anonymized datasets.  
-- Code and prototypes published open‑source (GitHub, Zenodo) under MIT/GPL licence.  
-- Preprint on arXiv co‑signed with Marcelo Worsley (before M1).  
-- Ethical treatment of neurodiverse participants.  
+- **Institutional compliance:** All fieldwork conducted under **MINESEC Authorization Ref. N° 658/2026/AR/H/DRES** (Regional Delegation of Adamaoua).
+- **GDPR compliance** for all learner data; written parental consent and child assent obtained.
+- **Anonymized datasets:** All learner names replaced with pseudonyms; no biometric or identifiable data shared.
+- **Open-source code & data:** GitHub (MIT license), Zenodo (CC-BY 4.0), with permanent DOIs.
+- **Three published datasets:**
+  - ASR Corpus — DOI: [10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
+  - Tendani Ito Comic — DOI: [10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)
+  - AI Writing Lab — DOI: [10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+- **Preprint on arXiv** co-signed with Prof. Marcelo Worsley.
+- **Ethical treatment of neurodiverse participants** in strict adherence to EU and Cameroonian standards.
 
 ---
 
