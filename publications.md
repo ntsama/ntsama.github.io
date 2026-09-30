@@ -69,26 +69,24 @@ description: "Selected publications and integrated strategic publication roadmap
 ---
 
 ### 3. Open Science & Preprint Strategy
-To ensure immediate visibility and FAIR principles, I systematically deposit all preprints to:
-- **arXiv** – for all technical, empirical, and English-language articles (ASR, WER, LLM, Bayesian modeling).
-- **HAL** – for all epistemological, didactic, and French-language articles (Philosophy of language, Pedagogy).
 
-**The Cognitive Trapeze Bilingual Reading Corpus has been published on Zenodo with a permanent DOI:**
-👉 **[https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)**
+All research outputs are deposited in open-access repositories with permanent DOIs, in full compliance with FAIR principles.
 
-The repository contains two relational CSV files:
-- **corpus_reference.csv** – 17 bilingual texts (FR/EN) with pedagogical and phonetic annotations.
-- **wer_evaluations.csv** – Granular Word Error Rate (WER) metrics across Whisper (Tiny, Medium, Large), including a preliminary **Volatility_Flag** based on our criteria for extreme ASR failure patterns.
+**Published Datasets:**
 
-*Note: In strict adherence to GDPR and our MSCA ethics protocol regarding minors' biometric data, raw audio files are securely stored and pseudonymized, while only the aggregate evaluation metrics are openly shared.*
+1. **ASR Reading Corpus (Texts 1–18)** — Zenodo DOI: [https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
+   - Contents: `corpus_reference.csv`, `wer_evaluations.csv`
+   - License: CC-BY 4.0 | Indexed in: OpenAIRE
 
-**The Cognitive Trapeze AI-Generated Comic has also been published on Zenodo with a permanent DOI:**
-👉 **[https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)**
+2. **AI-Generated Comic: Tendani Ito (The Golden Canary)** — Zenodo DOI: [https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)
+   - Contents: 9-panel comic + digital lesson plan + README
+   - License: CC-BY 4.0 | Indexed in: OpenAIRE
 
-*Cognitive Trapeze — AI-Generated Comic: Tendani Ito (The Golden Canary) for Guided Reading in ZEP* [Dataset].
-Ntsama, J. M., IA_4_ZEP Initiative, Worsley, M., & Spikol, D. (2026). Zenodo. License: CC-BY 4.0. Indexed in OpenAIRE.
+3. **AI Writing Lab: Text-to-Image Pedagogy & Learner Productions** (October 2026) — Zenodo DOI: [https://doi.org/10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+   - Contents: `corpus_reference.csv`, `learner_productions.csv`, generated images, README
+   - License: CC-BY 4.0
 
-Source code is deposited on **GitHub** under the MIT license and released under the **CC-BY** license for datasets.
+**Preprints:** Submitted to arXiv (technical/English) and HAL (philosophical/French) prior to journal submission.
 ---
 
 ### 4. Manuscripts in Preparation
