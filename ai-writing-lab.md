@@ -84,6 +84,10 @@ This methodology is:
 
 All methodology, lesson plans, and anonymized learner productions will be released on **Zenodo** under a **CC-BY license**.
 
+**Published Datasets:**
+- **AI-Generated Comic "Tendani Ito" (2026):** [https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)
+- **ASR Reading Corpus (Texts 1–18) (2026):** [https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
+
 ---
 
 <hr style="margin-top:40px;">
