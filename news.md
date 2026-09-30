@@ -13,6 +13,18 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
 
+### **September 2026 — AI Writing Lab: How ZEP Learners Write Better to See Their Characters Come Alive**
+
+A new pedagogical experiment has been conducted in a 3rd-year class at LTBNM (Adamaoua, Cameroon), involving 60+ learners. The lesson combined literature, descriptive writing, and generative AI.
+
+**The method:** After studying the character Faydé from *Cœur du Sahel* (a prescribed Cameroonian literary work), learners wrote short descriptive texts. Each text was then fed into an AI image generator. If the AI could produce a coherent image, the description was clear. If not, the learner revised.
+
+**The results:** Five learner productions were successfully translated into images — including characters like Aïcha (13, diligent), Enoc (footballer), Salé (aspiring doctor), and Michel (14, ambitious). Each image reflects the learner's own descriptive choices, cultural context, and narrative intention.
+
+This experiment operationalizes the **Short Loop** of the Cognitive Trapeze Model and the concept of **embodied knowledge** in a real ZEP classroom.
+
+👉 **Explore the AI Writing Lab:** [AI Writing Lab](/ai-writing-lab/)
+
 ### **September 2026 — AI-Generated Comic Produced and Tested in a 60-Student ZEP Classroom**
 
 As part of the IA_4_ZEP initiative, I have produced and tested a new **AI-generated comic** based on the African folk tale *"Tendani Ito — The Golden Canary."* The comic consists of **9 full-color panels** and is designed for projection in 6th-grade French classes in priority education zones (60+ learners per classroom).
