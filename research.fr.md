@@ -48,8 +48,12 @@ Domaines d'intérêt :
 - les explications multimodales ;  
 - le feedback adaptatif ;  
 - l'étayage cognitif ;  
-- l'IA comme partenaire cognitif.  
+- l'IA comme partenaire cognitif.
+  
+#### Laboratoire d'Écriture IA : la pédagogie texte-image en action
+Une expérience pédagogique menée avec 60+ apprenants dans une classe ZEP camerounaise a testé une méthode novatrice : les apprenants rédigeaient des textes descriptifs de personnages littéraires, puis utilisaient la génération d'images IA pour les visualiser. La méthode opérationnalise la **boucle courte** du Modèle du Trapèze Cognitif — l'IA agissant comme mécanisme de feedback visuel pour la production écrite de l'apprenant. Cette approche soutient directement le concept de **savoir incarné** et prouve que l'IA peut améliorer l'écriture descriptive même en contextes à faibles ressources.
 
+👉 **Découvrir le Laboratoire d'Écriture IA :** [Laboratoire d'Écriture IA](/fr/ai-writing-lab/)
 #### Compagnon de Lecture Assisté par l'IA pour les ZEP
 En collaboration avec le programme **IA4ZEP**, je conçois une application mobile qui utilise la **Reconnaissance Automatique de la Parole (ASR)** et les **Grands Modèles de Langage (LLM)** pour soutenir des séances de lecture guidée dans les zones d'éducation prioritaire (ZEP).
 
