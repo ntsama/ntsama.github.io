@@ -55,9 +55,17 @@ Chaque BD est accompagnée d'une **fiche de leçon digitalisée** suivant la mé
 
 Toutes les ressources éducatives IA_4_ZEP sont publiées sous licence **Creative Commons Attribution 4.0 (CC-BY)**, permettant aux enseignants, chercheurs et ONG de les réutiliser, adapter et traduire librement.
 
-**Pour citer :**
-> Ntsama, J. M. (2026). *Tendani Ito — Le Canari d'Or : BD générée par IA pour la lecture suivie en ZEP*. Initiative IA_4_ZEP. Disponible sur : ntsama.github.io/fr/ia4zep-ressources/
+### 3. Accès ouvert & licence
 
+Toutes les ressources éducatives IA_4_ZEP sont publiées sous licence **Creative Commons Attribution 4.0 (CC-BY)**, permettant aux enseignants, chercheurs et ONG de les réutiliser, adapter et traduire librement.
+
+**Publié sur Zenodo avec un DOI permanent :**
+👉 **[https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)**
+
+**Pour citer :**
+> Ntsama, J. M., IA_4_ZEP Initiative, Worsley, M., & Spikol, D. (2026). *Cognitive Trapeze — AI-Generated Comic: Tendani Ito (The Golden Canary) for Guided Reading in ZEP* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23065165
+
+**Indexé dans :** OpenAIRE.
 ---
 
 ### 4. Impact & cas d'usage
