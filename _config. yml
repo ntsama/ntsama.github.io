@@ -25,6 +25,8 @@ navbar:
     url: /ia4zep/
 - title: "ia4zep-resources"
     url: /ia4zep-resources/
+- title: "ia-writing-lab"
+    url: /ia-writing-lab/
   - title: "Publications"
     url: /publications/
   - title: "ASR Pilot"
