@@ -82,6 +82,12 @@ Le dépôt contient deux fichiers CSV relationnels :
 
 *Note : En stricte conformité avec le RGPD et notre protocole d'éthique MSCA concernant les données biométriques des mineurs, les fichiers audio bruts sont stockés de manière sécurisée et pseudonymisés, tandis que seules les métriques d'évaluation agrégées sont partagées ouvertement.*
 
+**La BD générée par IA du projet Cognitive Trapeze a également été publiée sur Zenodo avec un DOI permanent :**
+👉 **[https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)**
+
+*Cognitive Trapeze — AI-Generated Comic: Tendani Ito (The Golden Canary) for Guided Reading in ZEP* [Dataset].
+Ntsama, J. M., IA_4_ZEP Initiative, Worsley, M., & Spikol, D. (2026). Zenodo. Licence : CC-BY 4.0. Indexé dans OpenAIRE.
+
 Les codes sources sont déposés sur **GitHub** sous licence MIT et les jeux de données sous licence **CC-BY**.
 
 ---
