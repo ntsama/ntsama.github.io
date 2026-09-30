@@ -13,6 +13,20 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
 
+### **September 2026 — AI-Generated Comic "Tendani Ito" Published on Zenodo with DOI**
+
+I am pleased to announce that the AI-generated comic **"Tendani Ito (The Golden Canary)"** has been published on **Zenodo** with a permanent DOI. This open-access dataset contains 9 full-color panels designed for guided reading in 6th-grade priority education zones (ZEP), tested with 60 learners in Adamaoua, Cameroon.
+
+👉 **Access the dataset here:** [https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)
+
+**Citation:**
+> Ntsama, J. M., IA_4_ZEP Initiative, Worsley, M., & Spikol, D. (2026). *Cognitive Trapeze — AI-Generated Comic: Tendani Ito (The Golden Canary) for Guided Reading in ZEP* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23065165
+
+**License:** Creative Commons Attribution 4.0 International (CC-BY).
+**Indexed in:** OpenAIRE.
+
+This resource operationalizes the **embodied knowledge** concept of the Cognitive Trapeze Model. It is the second open dataset released as part of the project, following the ASR Reading Corpus published earlier this month.
+
 ### **September 2026 — AI Writing Lab: How ZEP Learners Write Better to See Their Characters Come Alive**
 
 A new pedagogical experiment has been conducted in a 3rd-year class at LTBNM (Adamaoua, Cameroon), involving 60+ learners. The lesson combined literature, descriptive writing, and generative AI.
