@@ -13,6 +13,18 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 # Actualités  
 ## Annonces, activités académiques et avancées des projets  
 
+### **Septembre 2026 — Laboratoire d'Écriture IA : quand les apprenants ZEP écrivent mieux pour voir leurs personnages prendre vie**
+
+Une nouvelle expérience pédagogique a été menée dans une classe de 3e année au LTBNM (Adamaoua, Cameroun), avec 60+ apprenants. La leçon combinait littérature, écriture descriptive et IA générative.
+
+**La méthode :** Après avoir étudié le personnage Faydé de *Cœur du Sahel* (œuvre au programme camerounais), les apprenants ont rédigé de courts textes descriptifs. Chaque texte a ensuite été injecté dans un générateur d'images IA. Si l'IA produisait une image cohérente, la description était claire. Sinon, l'apprenant révisait.
+
+**Les résultats :** Cinq productions d'apprenants ont été traduites en images — dont Aïcha (13 ans, vaillante), Enoc (footballeur), Salé (futur médecin) et Michel (14 ans, ambitieux). Chaque image reflète les choix descriptifs, le contexte culturel et l'intention narrative de l'apprenant.
+
+Cette expérience opérationnalise la **boucle courte** du Modèle du Trapèze Cognitif et le concept de **savoir incarné** dans une classe ZEP réelle.
+
+👉 **Découvrir le Laboratoire d'Écriture IA :** [Laboratoire d'Écriture IA](/fr/ai-writing-lab/)
+
 ### **Septembre 2026 — Production et test d'une BD générée par IA dans une classe ZEP de 60 élèves**
 
 Dans le cadre de l'initiative IA_4_ZEP, j'ai produit et testé une nouvelle **BD générée par IA** basée sur le conte africain *« Tendani Ito — Le Canari d'Or »*. La BD se compose de **9 planches en couleur** et est conçue pour être projetée dans les classes de 6ème en zones d'éducation prioritaires (60+ apprenants par classe).
