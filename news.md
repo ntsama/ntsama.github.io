@@ -13,6 +13,24 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
 
+### **October 2026 — Third Open Dataset Published on Zenodo: AI Writing Lab**
+
+I am delighted to announce the publication of the **third open dataset** of the Cognitive Trapeze project on **Zenodo**: the **AI Writing Lab — Text-to-Image Pedagogy and Learner Productions in Cameroonian ZEP**.
+
+👉 **Access the dataset here:** [https://doi.org/10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+
+This deposit documents a novel pedagogical method where generative AI serves as a motivation and immediate visual feedback tool for descriptive writing in large, low-resource classrooms. It includes anonymized learner-written texts (based on the character Faydé from the prescribed Cameroonian work *Cœur du Sahel*) and the corresponding AI-generated images.
+
+**Institutional compliance:**
+- Fieldwork authorized by **MINESEC (Ref. N° 658/2026/AR/H/DRES)**.
+- Written parental consent and child assent obtained.
+- Full anonymization of all learner data; no biometric data included.
+- Licensed under **CC-BY 4.0**.
+
+The method operationalizes the **Short Loop** of the Cognitive Trapeze Model and the concept of **embodied knowledge**.
+
+👉 **Explore the AI Writing Lab:** [AI Writing Lab](/ai-writing-lab/)
+
 ### **September 2026 — AI-Generated Comic "Tendani Ito" Published on Zenodo with DOI**
 
 I am pleased to announce that the AI-generated comic **"Tendani Ito (The Golden Canary)"** has been published on **Zenodo** with a permanent DOI. This open-access dataset contains 9 full-color panels designed for guided reading in 6th-grade priority education zones (ZEP), tested with 60 learners in Adamaoua, Cameroon.
