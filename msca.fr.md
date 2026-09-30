@@ -187,11 +187,16 @@ Construction d'un partenariat durable Afrique–Europe (accords institutionnels)
 ---
 
 # Éthique et Science Ouverte  
-- Conformité au RGPD pour les données des apprenants ; jeux de données anonymisés.  
-- Code et prototypes publiés en open‑source (GitHub, Zenodo) sous licence MIT/GPL.  
-- Preprint sur arXiv co‑signé avec Marcelo Worsley (avant M1).  
-- Traitement éthique des participants neurodivers.  
-
+- **Conformité institutionnelle :** Tous les travaux de terrain menés sous **Autorisation MINESEC Réf. N° 658/2026/AR/H/DRES** (Délégation Régionale de l'Adamaoua).
+- **Conformité RGPD** pour toutes les données des apprenants ; consentement parental écrit et assentiment de l'enfant obtenus.
+- **Datasets anonymisés :** Tous les noms d'apprenants remplacés par des pseudonymes ; aucune donnée biométrique ou identifiable partagée.
+- **Code et données en open-source :** GitHub (licence MIT), Zenodo (CC-BY 4.0), avec DOI permanents.
+- **Trois datasets publiés :**
+  - Corpus ASR — DOI : [10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
+  - BD Tendani Ito — DOI : [10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)
+  - AI Writing Lab — DOI : [10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+- **Preprint sur arXiv** co-signé avec le Professeur Marcelo Worsley.
+- **Traitement éthique des participants neurodivers** en stricte conformité avec les normes européennes et camerounaises.
 ---
 
 # Budget indicatif (24 mois)  
