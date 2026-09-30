@@ -84,6 +84,10 @@ Cette méthodologie est :
 
 Toute la méthodologie, les fiches pédagogiques et les productions anonymisées des apprenants seront publiées sur **Zenodo** sous licence **CC-BY**.
 
+**Datasets publiés :**
+- **BD générée par IA « Tendani Ito » (2026) :** [https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)
+- **Corpus de lecture ASR (Textes 1–18) (2026) :** [https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
+
 ---
 
 <hr style="margin-top:40px;">
