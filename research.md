@@ -48,7 +48,12 @@ Focus areas:
 - multimodal explanations  
 - adaptive feedback  
 - cognitive scaffolding  
-- AI as a cognitive partner  
+- AI as a cognitive partner
+  
+#### AI Writing Lab: Text-to-Image Pedagogy in Action
+A pedagogical experiment conducted with 60+ learners in a Cameroonian ZEP classroom tested a novel method: learners wrote descriptive texts about literary characters, then used AI image generation to visualize them. The method operationalizes the **Short Loop** of the Cognitive Trapeze Model — where the AI acts as a visual feedback mechanism for the learner's written production. This approach directly supports the concept of **embodied knowledge** and proves that AI can enhance descriptive writing even in low-resource, offline-first contexts.
+
+👉 **Explore the AI Writing Lab:** [AI Writing Lab](/ai-writing-lab/)
 
 #### AI-Powered Reading Companion for ZEP
 In collaboration with the **IA4ZEP** program, I am designing a mobile application that uses **Automatic Speech Recognition (ASR)** and **Large Language Models (LLM)** to support guided reading sessions in priority education zones.
