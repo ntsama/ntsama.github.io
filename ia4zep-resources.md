@@ -55,9 +55,17 @@ Each comic is accompanied by a **digitalized lesson plan** following the officia
 
 All IA_4_ZEP educational resources are released under **Creative Commons Attribution 4.0 (CC-BY)**, allowing teachers, researchers, and NGOs to reuse, adapt, and translate them freely.
 
-**How to cite:**
-> Ntsama, J. M. (2026). *Tendani Ito — The Golden Canary: AI-Generated Comic for Guided Reading in ZEP*. IA_4_ZEP Initiative. Available at: ntsama.github.io/ia4zep-resources/
+### 3. Open Access & Licensing
 
+All IA_4_ZEP educational resources are released under **Creative Commons Attribution 4.0 (CC-BY)**, allowing teachers, researchers, and NGOs to reuse, adapt, and translate them freely.
+
+**Published on Zenodo with a permanent DOI:**
+👉 **[https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)**
+
+**How to cite:**
+> Ntsama, J. M., IA_4_ZEP Initiative, Worsley, M., & Spikol, D. (2026). *Cognitive Trapeze — AI-Generated Comic: Tendani Ito (The Golden Canary) for Guided Reading in ZEP* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23065165
+
+**Indexed in:** OpenAIRE.
 ---
 
 ### 4. Impact & Use Cases
