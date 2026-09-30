@@ -13,6 +13,20 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 # Actualités  
 ## Annonces, activités académiques et avancées des projets  
 
+### **Septembre 2026 — La BD générée par IA « Tendani Ito » publiée sur Zenodo avec DOI**
+
+J’ai le plaisir d’annoncer que la BD générée par IA **« Tendani Ito (Le Canari d'Or) »** a été publiée sur **Zenodo** avec un DOI permanent. Ce dataset en accès ouvert contient 9 planches en couleur conçues pour la lecture suivie en classe de 6ème en zones d'éducation prioritaires (ZEP), testées avec 60 apprenants dans l'Adamaoua, au Cameroun.
+
+👉 **Accédez au dataset ici :** [https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)
+
+**Citation :**
+> Ntsama, J. M., IA_4_ZEP Initiative, Worsley, M., & Spikol, D. (2026). *Cognitive Trapeze — AI-Generated Comic: Tendani Ito (The Golden Canary) for Guided Reading in ZEP* [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23065165
+
+**Licence :** Creative Commons Attribution 4.0 International (CC-BY).
+**Indexé dans :** OpenAIRE.
+
+Cette ressource opérationnalise le concept de **savoir incarné** du Modèle du Trapèze Cognitif. C'est le second dataset ouvert publié dans le cadre du projet, après le Corpus ASR publié plus tôt ce mois-ci.
+
 ### **Septembre 2026 — Laboratoire d'Écriture IA : quand les apprenants ZEP écrivent mieux pour voir leurs personnages prendre vie**
 
 Une nouvelle expérience pédagogique a été menée dans une classe de 3e année au LTBNM (Adamaoua, Cameroun), avec 60+ apprenants. La leçon combinait littérature, écriture descriptive et IA générative.
