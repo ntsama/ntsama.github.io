@@ -69,26 +69,24 @@ description: "Publications sélectionnées et feuille de route stratégique int�
 ---
 
 ### 3. Stratégie de science ouverte et preprints
-Pour garantir une visibilité immédiate et le respect des principes FAIR, je dépose systématiquement tous mes preprints sur :
-- **arXiv** – pour tous les articles techniques, empiriques et en anglais (ASR, WER, LLM, modélisation bayésienne).
-- **HAL** – pour tous les articles épistémologiques, didactiques et en français (philosophie du langage, pédagogie).
 
-**Le Corpus de Lecture Bilingue Cognitive Trapeze a été publié sur Zenodo avec un DOI permanent :**
-👉 **[https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)**
+Tous les résultats de recherche sont déposés dans des référentiels ouverts avec des DOI permanents, en pleine conformité avec les principes FAIR.
 
-Le dépôt contient deux fichiers CSV relationnels :
-- **corpus_reference.csv** – 17 textes bilingues (FR/EN) avec annotations pédagogiques et phonétiques.
-- **wer_evaluations.csv** – Métriques granulaires de taux d'erreur de mots (WER) pour Whisper (Tiny, Medium, Large), incluant un **Volatility_Flag** préliminaire basé sur nos critères de schémas d'échec extrêmes de l'ASR.
+**Datasets publiés :**
 
-*Note : En stricte conformité avec le RGPD et notre protocole d'éthique MSCA concernant les données biométriques des mineurs, les fichiers audio bruts sont stockés de manière sécurisée et pseudonymisés, tandis que seules les métriques d'évaluation agrégées sont partagées ouvertement.*
+1. **Corpus de Lecture ASR (Textes 1–18)** — DOI Zenodo : [https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
+   - Contenu : `corpus_reference.csv`, `wer_evaluations.csv`
+   - Licence : CC-BY 4.0 | Indexé dans : OpenAIRE
 
-**La BD générée par IA du projet Cognitive Trapeze a également été publiée sur Zenodo avec un DOI permanent :**
-👉 **[https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)**
+2. **BD générée par IA : Tendani Ito (Le Canari d'Or)** — DOI Zenodo : [https://doi.org/10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)
+   - Contenu : BD 9 planches + fiche pédagogique + README
+   - Licence : CC-BY 4.0 | Indexé dans : OpenAIRE
 
-*Cognitive Trapeze — AI-Generated Comic: Tendani Ito (The Golden Canary) for Guided Reading in ZEP* [Dataset].
-Ntsama, J. M., IA_4_ZEP Initiative, Worsley, M., & Spikol, D. (2026). Zenodo. Licence : CC-BY 4.0. Indexé dans OpenAIRE.
+3. **AI Writing Lab : Pédagogie texte-image & productions d'apprenants** (octobre 2026) — DOI Zenodo : [https://doi.org/10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+   - Contenu : `corpus_reference.csv`, `learner_productions.csv`, images générées, README
+   - Licence : CC-BY 4.0
 
-Les codes sources sont déposés sur **GitHub** sous licence MIT et les jeux de données sous licence **CC-BY**.
+**Preprints :** Soumis sur arXiv (technique/anglais) et HAL (philosophique/français) avant soumission en revue.
 
 ---
 
