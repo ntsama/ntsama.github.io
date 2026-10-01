@@ -26,7 +26,7 @@ For academic collaborations, research inquiries, supervision opportunities, or i
 ---
 
 ## 🌍 Location  
-Based in the Netherlands (South Holland), collaborating internationally across Europe and Africa.
+Based in Ngaoundéré (Cameroon), collaborating internationally across Europe and Africa. collaborating internationally across Europe and Africa.
 
 ---
 
