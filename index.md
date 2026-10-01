@@ -63,7 +63,7 @@ Je développe des modèles théoriques, des études empiriques et des simulation
 ---
 
 # 🌍 International Profile  
-Based in the Netherlands (South Holland)  
+Based in Ngaoundéré (Cameroon)
 Active collaborations across Europe & Africa  
 Founder of **NJM WebTV**  
 Leader of **IA_4_ZEP**
