@@ -26,8 +26,8 @@ For academic collaborations, research inquiries, supervision opportunities, or i
 ---
 
 ## 🌍 Location  
+
 Based in Ngaoundéré (Cameroon), collaborating internationally across Europe and Africa.
----
 
 ## 🧭 Research Areas  
 - Philosophy of Language  
