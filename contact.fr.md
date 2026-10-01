@@ -25,9 +25,8 @@ Pour des collaborations académiques, des demandes de recherche, des opportunit�
 ---
 
 ## 🌍 Localisation  
-Basé aux Pays-Bas (Hollande-Méridionale), en collaboration internationale entre l'Europe et l'Afrique.
 
----
+Basé à Ngaoundéré (Cameroun), en collaboration internationale entre l'Europe et l'Afrique.
 
 ## 🧭 Domaines de recherche  
 - Philosophie du langage  
