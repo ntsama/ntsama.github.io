@@ -13,6 +13,24 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 # Actualités  
 ## Annonces, activités académiques et avancées des projets  
 
+### **Octobre 2026 — Quatrième jeu de données ouvert publié sur Zenodo : AI Writing Lab — Productions Narratives**
+
+J'ai le plaisir d'annoncer la publication du **quatrième jeu de données ouvert** du projet Cognitive Trapeze sur **Zenodo** : le **AI Writing Lab — Productions Narratives Descriptives et Visualisations IA en ZEP Camerounaises**.
+
+👉 **Accédez au dataset ici :** [https://doi.org/10.5281/zenodo.23230681](https://doi.org/10.5281/zenodo.23230681)
+
+Ce dépôt contient **6 images générées par IA** à partir de textes narratifs-descriptifs rédigés par les apprenants. La méthode, baptisée **« Écrire pour Voir »**, transforme l'écriture descriptive en une expérience visuelle tangible et non-jugeante : si l'IA génère une image cohérente correspondant à l'intention de l'apprenant, la description était précise. Sinon, l'apprenant révise et enrichit son vocabulaire.
+
+**Ancrage théorique :** Cette méthode opérationnalise la **boucle courte** du Modèle du Trapèze Cognitif (Apprenant–IA–Savoir) et le concept de **savoir incarné**, transformant l'écriture abstraite en feedback visuel concret et affectif.
+
+**Conformité institutionnelle :**
+- Travaux autorisés par le **MINESEC (Réf. N° 658/2026/AR/H/DRES)**.
+- Consentement parental écrit et assentiment de l'enfant obtenus.
+- Anonymisation complète ; aucune donnée biométrique incluse.
+- Publié sous licence **CC-BY 4.0**.
+
+👉 **Découvrir le Laboratoire d'Écriture IA :** [Laboratoire d'Écriture IA](/fr/ai-writing-lab/)
+
 ### **Octobre 2026 — Troisième jeu de données ouvert publié sur Zenodo : AI Writing Lab**
 
 J'ai le plaisir d'annoncer la publication du **troisième jeu de données ouvert** du projet Cognitive Trapeze sur **Zenodo** : le **AI Writing Lab — Pédagogie Texte-Image et Productions d'Apprenants en ZEP Camerounaises**.
