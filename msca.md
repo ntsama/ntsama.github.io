@@ -189,15 +189,15 @@ Building a sustainable Africa–Europe partnership (institutional agreements) an
 - **GDPR compliance** for all learner data; written parental consent and child assent obtained.
 - **Anonymized datasets:** All learner names replaced with pseudonyms; no biometric or identifiable data shared.
 - **Open-source code & data:** GitHub (MIT license), Zenodo (CC-BY 4.0), with permanent DOIs.
-- **Three published datasets:**
+- **Four published datasets:**
   - ASR Corpus — DOI: [10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
   - Tendani Ito Comic — DOI: [10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)
-  - AI Writing Lab — DOI: [10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+  - AI Writing Lab (Text-to-Image) — DOI: [10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+  - AI Writing Lab (Narrative Productions) — DOI: [10.5281/zenodo.23230681](https://doi.org/10.5281/zenodo.23230681)
 - **Preprint on arXiv** co-signed with Prof. Marcelo Worsley.
 - **Ethical treatment of neurodiverse participants** in strict adherence to EU and Cameroonian standards.
 
 ---
-
 # Indicative Budget (24 months)  
 - **EU contribution requested:** **€283,502** (100% funding rate)  
   - Living Allowance (incl. CCC Denmark 115.5%): €176,022  
