@@ -72,7 +72,7 @@ description: "Selected publications and integrated strategic publication roadmap
 
 All research outputs are deposited in open-access repositories with permanent DOIs, in full compliance with FAIR principles.
 
-**Published Datasets:**
+**Published Datasets (4):**
 
 1. **ASR Reading Corpus (Texts 1–18)** — Zenodo DOI: [https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
    - Contents: `corpus_reference.csv`, `wer_evaluations.csv`
@@ -82,8 +82,12 @@ All research outputs are deposited in open-access repositories with permanent DO
    - Contents: 9-panel comic + digital lesson plan + README
    - License: CC-BY 4.0 | Indexed in: OpenAIRE
 
-3. **AI Writing Lab: Text-to-Image Pedagogy & Learner Productions** (October 2026) — Zenodo DOI: [https://doi.org/10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+3. **AI Writing Lab: Text-to-Image Pedagogy & Learner Productions** — Zenodo DOI: [https://doi.org/10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
    - Contents: `corpus_reference.csv`, `learner_productions.csv`, generated images, README
+   - License: CC-BY 4.0
+
+4. **AI Writing Lab: Narrative Descriptive Productions** (October 2026) — Zenodo DOI: [https://doi.org/10.5281/zenodo.23230681](https://doi.org/10.5281/zenodo.23230681)
+   - Contents: 6 AI-generated images, anonymized learner texts, README
    - License: CC-BY 4.0
 
 **Preprints:** Submitted to arXiv (technical/English) and HAL (philosophical/French) prior to journal submission.
