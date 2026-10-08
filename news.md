@@ -13,6 +13,21 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
 
+### **October 2026 — Teacher Training Brief "Write to See" Now Available**
+
+I am pleased to announce the publication of a new **teacher training brief** for the IA_4_ZEP initiative: **"Write to See" — AI Text-to-Image Pedagogy in Priority Education Zones**.
+
+This methodological brief provides a step-by-step workshop protocol for teachers to use AI as a **benevolent mirror** for descriptive-narrative writing:
+- **Step 1:** Anchoring and inspiration (collective word bank).
+- **Step 2:** First draft (precise descriptive paragraph).
+- **Step 3:** AI confrontation (image generation + class debate).
+- **Step 4:** Revision (learner self-correction).
+- **Step 5:** Synthesis and valorization.
+
+The brief operationalizes the **Short Loop**, **Embodied Knowledge**, and **Pedagogical Curability** concepts from the Cognitive Trapeze Model. It is released under **CC-BY 4.0** and is freely available.
+
+👉 **Access the teacher training page:** [Teacher Training — Write to See](/teacher-training/)
+
 ### **October 2026 — Fourth Open Dataset Published on Zenodo: AI Writing Lab — Narrative Productions**
 
 I am delighted to announce the publication of the **fourth open dataset** of the Cognitive Trapeze project on **Zenodo**: the **AI Writing Lab — Narrative Descriptive Productions and AI-Generated Visualizations in Cameroonian ZEP**.
