@@ -33,6 +33,8 @@ navbar:
     url: /asr-pilot/
   - title: "Teaching"
     url: /teaching/
+  - title: "Teacher Training"
+    url: /teacher-training/
   - title: "Talks"
     url: /talks/
   - title: "Impact"
