@@ -119,6 +119,19 @@ This initiative is a direct, field‑based application of the **Cognitive Trapez
 
 ---
 
+### Teacher Training & Methodological Resources
+
+IA_4_ZEP produces ready-to-use **methodological briefs** for teachers, operationalizing the Cognitive Trapeze Model in concrete classroom activities.
+
+**Published Workshop: "Write to See" (AI Text-to-Image Pedagogy)**
+- **Target:** Descriptive-narrative writing (6th grade and above).
+- **Method:** Learners write descriptive texts; the teacher feeds a sample into an AI image generator; the class debates whether the image matches the author's intent; learners revise their texts.
+- **Theoretical grounding:** Short Loop (Learner–AI–Knowledge), Embodied Knowledge, Pedagogical Curability.
+- **License:** CC-BY 4.0.
+
+👉 **Access the full methodological brief:** [Teacher Training — Write to See](/teacher-training/)
+---
+
 ### AI-Generated Educational Comics
 
 IA_4_ZEP produces **AI-generated comics** to support guided reading in ZEP classrooms. Each comic visualizes an African folk tale aligned with the national curriculum, and is projected in class to support comprehension and engagement.
