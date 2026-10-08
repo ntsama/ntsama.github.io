@@ -119,6 +119,19 @@ Cette initiative est une application directe et terrain du **Modèle du Trapèze
 
 ---
 
+### Formation des enseignants et ressources méthodologiques
+
+IA_4_ZEP produit des **fiches méthodologiques** prêtes à l'emploi pour les enseignants, opérationnalisant le Modèle du Trapèze Cognitif dans des activités de classe concrètes.
+
+**Atelier publié : « Écrire pour Voir » (Pédagogie Texte-Image par IA)**
+- **Cible :** Écriture descriptive-narrative (6ème et au-delà).
+- **Méthode :** Les apprenants rédigent des textes descriptifs ; l'enseignant injecte un échantillon dans un générateur d'images IA ; la classe débat de la correspondance entre l'image et l'intention de l'auteur ; les apprenants révisent leur texte.
+- **Ancrage théorique :** Boucle courte (Apprenant–IA–Savoir), Savoir incarné, Pédagogie curative.
+- **Licence :** CC-BY 4.0.
+
+👉 **Accéder à la fiche méthodologique complète :** [Formation des Enseignants — Écrire pour Voir](/fr/teacher-training/)
+---
+
 ### BD éducatives générées par IA
 
 IA_4_ZEP produit des **BD générées par IA** pour soutenir la lecture suivie dans les classes ZEP. Chaque BD illustre un conte africain aligné sur le programme national, et est projetée en classe pour soutenir la compréhension et l'engagement.
