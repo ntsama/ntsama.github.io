@@ -72,7 +72,7 @@ description: "Publications sélectionnées et feuille de route stratégique int�
 
 Tous les résultats de recherche sont déposés dans des référentiels ouverts avec des DOI permanents, en pleine conformité avec les principes FAIR.
 
-**Datasets publiés :**
+**Datasets publiés (4) :**
 
 1. **Corpus de Lecture ASR (Textes 1–18)** — DOI Zenodo : [https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
    - Contenu : `corpus_reference.csv`, `wer_evaluations.csv`
@@ -82,14 +82,17 @@ Tous les résultats de recherche sont déposés dans des référentiels ouverts 
    - Contenu : BD 9 planches + fiche pédagogique + README
    - Licence : CC-BY 4.0 | Indexé dans : OpenAIRE
 
-3. **AI Writing Lab : Pédagogie texte-image & productions d'apprenants** (octobre 2026) — DOI Zenodo : [https://doi.org/10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+3. **AI Writing Lab : Pédagogie texte-image & productions d'apprenants** — DOI Zenodo : [https://doi.org/10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
    - Contenu : `corpus_reference.csv`, `learner_productions.csv`, images générées, README
+   - Licence : CC-BY 4.0
+
+4. **AI Writing Lab : Productions narratives descriptives** (octobre 2026) — DOI Zenodo : [https://doi.org/10.5281/zenodo.23230681](https://doi.org/10.5281/zenodo.23230681)
+   - Contenu : 6 images générées par IA, textes anonymisés, README
    - Licence : CC-BY 4.0
 
 **Preprints :** Soumis sur arXiv (technique/anglais) et HAL (philosophique/français) avant soumission en revue.
 
 ---
-
 ### 4. Manuscrits en préparation
 - *Acoustic Signatures of Neurodiversity* (avec le Pr. Worsley)  
 - *From Philosophical Framework to Predictive Model* (avec le Pr. Spikol)  
