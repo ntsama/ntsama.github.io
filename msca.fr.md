@@ -191,14 +191,15 @@ Construction d'un partenariat durable Afrique–Europe (accords institutionnels)
 - **Conformité RGPD** pour toutes les données des apprenants ; consentement parental écrit et assentiment de l'enfant obtenus.
 - **Datasets anonymisés :** Tous les noms d'apprenants remplacés par des pseudonymes ; aucune donnée biométrique ou identifiable partagée.
 - **Code et données en open-source :** GitHub (licence MIT), Zenodo (CC-BY 4.0), avec DOI permanents.
-- **Trois datasets publiés :**
+- **Quatre datasets publiés :**
   - Corpus ASR — DOI : [10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
   - BD Tendani Ito — DOI : [10.5281/zenodo.23065165](https://doi.org/10.5281/zenodo.23065165)
-  - AI Writing Lab — DOI : [10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+  - AI Writing Lab (Texte-Image) — DOI : [10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+  - AI Writing Lab (Productions Narratives) — DOI : [10.5281/zenodo.23230681](https://doi.org/10.5281/zenodo.23230681)
 - **Preprint sur arXiv** co-signé avec le Professeur Marcelo Worsley.
 - **Traitement éthique des participants neurodivers** en stricte conformité avec les normes européennes et camerounaises.
----
 
+---
 # Budget indicatif (24 mois)  
 - **Contribution européenne demandée :** **283 502 €** (taux de financement 100 %)  
   - Bourse de vie (incl. CCC Danemark 115,5 %) : 176 022 €  
