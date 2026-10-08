@@ -13,6 +13,24 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
 
+### **October 2026 — Fourth Open Dataset Published on Zenodo: AI Writing Lab — Narrative Productions**
+
+I am delighted to announce the publication of the **fourth open dataset** of the Cognitive Trapeze project on **Zenodo**: the **AI Writing Lab — Narrative Descriptive Productions and AI-Generated Visualizations in Cameroonian ZEP**.
+
+👉 **Access the dataset here:** [https://doi.org/10.5281/zenodo.23230681](https://doi.org/10.5281/zenodo.23230681)
+
+This deposit contains **6 AI-generated images** produced from learner-written narrative-descriptive texts. The method, named **"Write to See"**, transforms descriptive writing into a tangible, non-judgmental visual experience: if the AI generates a coherent image matching the learner's intent, the description was precise. If not, the learner revises and enriches their vocabulary.
+
+**Theoretical grounding:** This method operationalizes the **Short Loop** of the Cognitive Trapeze Model (Learner–AI–Knowledge) and the concept of **embodied knowledge**, transforming abstract writing into concrete, affective visual feedback.
+
+**Institutional compliance:**
+- Fieldwork authorized by **MINESEC (Ref. N° 658/2026/AR/H/DRES)**.
+- Written parental consent and child assent obtained.
+- Full anonymization of all learner data; no biometric data included.
+- Licensed under **CC-BY 4.0**.
+
+👉 **Explore the AI Writing Lab:** [AI Writing Lab](/ai-writing-lab/)
+
 ### **October 2026 — Third Open Dataset Published on Zenodo: AI Writing Lab**
 
 I am delighted to announce the publication of the **third open dataset** of the Cognitive Trapeze project on **Zenodo**: the **AI Writing Lab — Text-to-Image Pedagogy and Learner Productions in Cameroonian ZEP**.
