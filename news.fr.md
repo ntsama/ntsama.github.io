@@ -13,6 +13,21 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 # Actualités  
 ## Annonces, activités académiques et avancées des projets  
 
+### **Octobre 2026 — Fiche de formation des enseignants « Écrire pour Voir » désormais disponible**
+
+J'ai le plaisir d'annoncer la publication d'une nouvelle **fiche de formation des enseignants** pour l'initiative IA_4_ZEP : **« Écrire pour Voir » — Pédagogie Texte-Image par IA en Zones d'Éducation Prioritaires**.
+
+Cette fiche méthodologique propose un protocole d'atelier étape par étape pour que les enseignants utilisent l'IA comme **miroir bienveillant** de l'écriture descriptive-narrative :
+- **Étape 1 :** Ancrage et inspiration (banque de mots collective).
+- **Étape 2 :** Premier jet (paragraphe descriptif précis).
+- **Étape 3 :** Confrontation IA (génération d'image + débat de classe).
+- **Étape 4 :** Révision (auto-correction de l'apprenant).
+- **Étape 5 :** Synthèse et valorisation.
+
+La fiche opérationnalise les concepts de **boucle courte**, **savoir incarné** et **pédagogie curative** du Modèle du Trapèze Cognitif. Elle est publiée sous licence **CC-BY 4.0** et disponible gratuitement.
+
+👉 **Accéder à la page de formation :** [Formation des Enseignants — Écrire pour Voir](/fr/teacher-training/)
+
 ### **Octobre 2026 — Quatrième jeu de données ouvert publié sur Zenodo : AI Writing Lab — Productions Narratives**
 
 J'ai le plaisir d'annoncer la publication du **quatrième jeu de données ouvert** du projet Cognitive Trapeze sur **Zenodo** : le **AI Writing Lab — Productions Narratives Descriptives et Visualisations IA en ZEP Camerounaises**.
