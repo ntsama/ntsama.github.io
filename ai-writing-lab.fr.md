@@ -89,12 +89,15 @@ Toute la méthodologie, les fiches pédagogiques et les productions anonymisées
 - **Corpus de lecture ASR (Textes 1–18) (2026) :** [https://doi.org/10.5281/zenodo.22922869](https://doi.org/10.5281/zenodo.22922869)
 
 ---
-### 6. Dépôt Zenodo et conformité institutionnelle
+### 6. Dépôts Zenodo et conformité institutionnelle
 
-La méthodologie du Laboratoire d'Écriture IA, le corpus de référence et les productions anonymisées des apprenants ont été publiés sur **Zenodo** comme troisième jeu de données ouvert du projet Cognitive Trapeze (octobre 2026).
+Deux jeux de données complémentaires du Laboratoire d'Écriture IA ont été publiés sur **Zenodo** (octobre 2026) :
 
-**Dataset publié :**
+**Dépôt 1 — Pédagogie Texte-Image**
 > Ntsama, J. M., & IA_4_ZEP Initiative. (2026). *Cognitive Trapeze — AI Writing Lab: Text-to-Image Pedagogy and Learner Productions in Cameroonian ZEP* [Dataset]. Zenodo. [https://doi.org/10.5281/zenodo.23065607](https://doi.org/10.5281/zenodo.23065607)
+
+**Dépôt 2 — Productions Narratives Descriptives**
+> Ntsama, J. M., & IA_4_ZEP Initiative. (2026). *Cognitive Trapeze — AI Writing Lab: Narrative Descriptive Productions and AI-Generated Visualizations in Cameroonian ZEP* [Dataset]. Zenodo. [https://doi.org/10.5281/zenodo.23230681](https://doi.org/10.5281/zenodo.23230681)
 
 **Conformité & éthique :**
 - Collecte de données menée sous **Autorisation MINESEC Réf. N° 658/2026/AR/H/DRES** (Délégation Régionale de l'Adamaoua).
@@ -102,13 +105,11 @@ La méthodologie du Laboratoire d'Écriture IA, le corpus de référence et les 
 - Tous les noms d'apprenants remplacés par des pseudonymes ; aucune donnée biométrique ou identifiable incluse.
 - Licence : **Creative Commons Attribution 4.0 International (CC-BY 4.0)**.
 
-**Contenu :**
-- `corpus_reference.csv` — Corpus textuel et annotations pédagogiques
-- `learner_productions.csv` — Textes anonymisés et prompts d'images associés
-- `ai_generated_images/` — Images générées à partir des textes des apprenants
-- `README.md` — Méthodologie et documentation FAIR
+**Contenu (Dépôt 2) :**
+- 6 images générées par IA à partir de textes narratifs-descriptifs d'apprenants
+- Productions anonymisées avec prompts associés
+- README avec méthodologie et documentation FAIR
 ---
-
 
 <hr style="margin-top:40px;">
 
