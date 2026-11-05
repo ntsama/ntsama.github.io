@@ -13,6 +13,17 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 # Actualités  
 ## Annonces, activités académiques et avancées des projets  
 
+### **Novembre 2026 — Impact terrain : Séminaire IA pour 100+ enseignants et validation publique des IPR**
+
+J'ai eu l'honneur d'intervenir au **Séminaire Pédagogique du Département de la Vina** (organisé par les IPR), réunissant plus de 100 enseignants du secondaire.
+
+Mon intervention s'est concentrée exclusivement sur **la pratique quotidienne de terrain** :
+- L'intégration d'outils IA (DeepSeek, dictionnaires numériques) avec les élèves en ZEP.
+- La présentation de la méthode « Écrire pour Voir » et des images générées par mes propres apprenants de 6ème.
+- Une avancée théorique : démonstration que le Triangle Didactique classique est désormais dépassé par le **Trapèze Cognitif** (intégrant l'IA comme quatrième actant).
+
+**Résultats :** Les IPR ont publiquement félicité la présentation. De nombreux enseignants ont sollicité des ateliers dans leurs établissements, confirmant la forte demande de formation en IA au Cameroun. Cela marque une étape majeure dans l'adoption systémique du projet.
+
 ### **Octobre 2026 — Fiche de formation des enseignants « Écrire pour Voir » désormais disponible**
 
 J'ai le plaisir d'annoncer la publication d'une nouvelle **fiche de formation des enseignants** pour l'initiative IA_4_ZEP : **« Écrire pour Voir » — Pédagogie Texte-Image par IA en Zones d'Éducation Prioritaires**.
