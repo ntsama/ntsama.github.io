@@ -130,7 +130,14 @@ IA_4_ZEP produces ready-to-use **methodological briefs** for teachers, operation
 - **License:** CC-BY 4.0.
 
 👉 **Access the full methodological brief:** [Teacher Training — Write to See](/teacher-training/)
+
+### Field Adoption & Teacher Training
+
+The IA_4_ZEP initiative is actively scaling through field events. In November 2026, during the Vina Department Pedagogical Seminar (organized by the IPR), the "Write to See" method and the Cognitive Trapeze framework were presented to **100+ teachers**.
+
+The response was overwhelming: public recognition from the Regional Pedagogical Inspectors (IPR) and multiple requests from schools for in-house AI training workshops. This confirms that the project addresses a real, urgent need for practical AI integration in Cameroonian classrooms.
 ---
+
 
 ### AI-Generated Educational Comics
 
