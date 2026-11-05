@@ -130,6 +130,13 @@ IA_4_ZEP produit des **fiches méthodologiques** prêtes à l'emploi pour les en
 - **Licence :** CC-BY 4.0.
 
 👉 **Accéder à la fiche méthodologique complète :** [Formation des Enseignants — Écrire pour Voir](/fr/teacher-training/)
+
+### Adoption terrain et formation des enseignants
+
+L'initiative IA_4_ZEP se déploie activement sur le terrain. En novembre 2026, lors du Séminaire Pédagogique du Département de la Vina (organisé par les IPR), la méthode « Écrire pour Voir » et le cadre du Trapèze Cognitif ont été présentés à **plus de 100 enseignants**.
+
+La réponse a été exceptionnelle : reconnaissance publique des Inspecteurs Pédagogiques Régionaux (IPR) et demandes multiples d'établissements scolaires pour des ateliers de formation en IA. Cela confirme que le projet répond à un besoin réel et urgent d'intégration pratique de l'IA dans les classes camerounaises.
+
 ---
 
 ### BD éducatives générées par IA
