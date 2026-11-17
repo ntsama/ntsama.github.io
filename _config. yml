@@ -45,6 +45,8 @@ navbar:
     url: /news/
   - title: "FAQ"
     url: /faq/
+  - title: "Foresight"
+    url: /foresight/
   - title: "Contact"
     url: /contact/
 
