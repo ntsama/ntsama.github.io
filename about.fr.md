@@ -27,6 +27,12 @@ Je suis un chercheur transdisciplinaire faisant le lien entre la **philosophie d
 
 ---
 
+## Vision globale et prospective
+
+Au-delà de mes recherches académiques, je produis des analyses prospectives sur l'intersection de l'IA, de la géopolitique et de l'éducation. Ma dernière publication, **« NJM Global Outlook 2027 : Le Grand Rééquilibrage »**, explore comment les macro-tendances mondiales (symbiose IA-humain, multipolarité, adaptation climatique) impactent directement l'équité éducative et le développement cognitif dans les pays du Sud.
+
+👉 **Lire l'analyse prospective complète :** [NJM Global Outlook](/fr/foresight/)
+
 ## Note sur le parcours professionnel
 
 Mon parcours non conventionnel reflète un engagement profond dans la recherche de terrain. Après avoir terminé ma formation pluridisciplinaire de cinq ans à l'École Normale Supérieure de Yaoundé (2008–2013), j'ai signé un engagement de service statutaire de dix ans auprès de l'État camerounais et j'ai été affecté dans une zone d'éducation prioritaire éloignée (Adamaoua), où j'ai servi sans interruption. Ces années ne sont pas des lacunes dans la recherche : elles constituent le **fondement empirique** de mes recherches. J'ai soutenu ma thèse le 27/07/2022 tout en enseignant dans cette ZEP, et le modèle du Trapèze Cognitif résulte directement d'une décennie d'observation systématique en classe. Ayant achevé mon service statutaire, je suis désormais entièrement disponible pour la recherche à temps plein et les collaborations européennes.
