@@ -13,6 +13,14 @@ description: "Latest academic news, updates, and project milestones from Jean Ma
 # News & Updates  
 ## Latest announcements, academic activities, and project milestones  
 
+### **November 2026 — Launch of "NJM Global Outlook 2027": A Foresight Analysis on AI and Education**
+
+I am pleased to share my new foresight analysis, **"NJM Global Outlook 2027: The Great Rebalancing."** This visual and conceptual piece explores six macro-trends that will define the global landscape in 2027, ranging from AI-human symbiosis to climate adaptation and the rise of multipolarity.
+
+Crucially, this global vision is rooted in my daily fieldwork in Cameroonian ZEPs. The same AI tools that are reshaping geopolitics (like large language models) are also entering our classrooms. Our research on "semantic hallucinations" shows that the balance between AI and humanity must be carefully designed—and that balance begins in the classroom.
+
+👉 **Read the full analysis:** [NJM Global Outlook 2027](/foresight/)
+
 ### **November 2026 — Field Impact: AI Seminar for 100+ Teachers and Public IPR Validation**
 
 I had the honor to present at the **Vina Department Pedagogical Seminar** (organized by the Regional Pedagogical Inspectors), gathering over 100 secondary school teachers.
