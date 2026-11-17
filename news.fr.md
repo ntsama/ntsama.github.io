@@ -13,6 +13,15 @@ description: "Actualités, annonces académiques et avancées des projets de Jea
 # Actualités  
 ## Annonces, activités académiques et avancées des projets  
 
+### **Novembre 2026 — Lancement de « NJM Global Outlook 2027 » : une analyse prospective sur l'IA et l'éducation**
+
+J'ai le plaisir de partager ma nouvelle analyse prospective, **« NJM Global Outlook 2027 : Le Grand Rééquilibrage »**. Cette pièce visuelle et conceptuelle explore six macro-tendances qui définiront le paysage mondial en 2027, allant de la symbiose IA-humain à l'adaptation climatique en passant par l'essor de la multipolarité.
+
+Point crucial : cette vision globale est enracinée dans mon travail quotidien sur le terrain dans les ZEP camerounaises. Les mêmes outils d'IA qui transforment la géopolitique (comme les grands modèles de langage) entrent aussi dans nos salles de classe. Nos recherches sur les « hallucinations sémantiques » montrent que l'équilibre entre l'IA et l'humanité doit être soigneusement conçu — et que cet équilibre commence dans la salle de classe.
+
+👉 **Lire l'analyse complète :** [NJM Global Outlook 2027](/fr/foresight/)
+
+
 ### **Novembre 2026 — Impact terrain : Séminaire IA pour 100+ enseignants et validation publique des IPR**
 
 J'ai eu l'honneur d'intervenir au **Séminaire Pédagogique du Département de la Vina** (organisé par les IPR), réunissant plus de 100 enseignants du secondaire.
