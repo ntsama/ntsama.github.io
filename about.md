@@ -27,6 +27,12 @@ I am a transdisciplinary researcher bridging **Philosophy of Language**, **Cogni
 
 ---
 
+## Global Outlook & Foresight
+
+Beyond my academic research, I produce foresight analyses on the intersection of AI, geopolitics, and education. My latest piece, **"NJM Global Outlook 2027: The Great Rebalancing,"** explores how global macro-trends (AI-human symbiosis, multipolarity, climate adaptation) directly impact educational equity and cognitive development in the Global South.
+
+👉 **Read the full Foresight Analysis:** [NJM Global Outlook](/foresight/)
+
 ## Career Path Note
 
 My unconventional trajectory reflects a deep commitment to field research. After completing my five-year multidisciplinary training at the École Normale Supérieure of Yaoundé (2008–2013), I signed a ten-year statutory service commitment to the Cameroonian State and was deployed to a remote Priority Education Zone (Adamaoua), where I served continuously. These years are not research gaps: they are the **empirical foundation** of my research. I defended my PhD on 27/07/2022 while teaching in this ZEP, and the Cognitive Trapeze model directly results from a decade of systematic classroom observation. Having completed my statutory service, I am now fully available for full-time research and European collaborations.
